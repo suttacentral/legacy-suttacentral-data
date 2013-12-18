@@ -1,0 +1,15 @@
+uid,iso_code,name,isroot,priority
+bo,bo,Tibetan,1,5
+de,de,German,,5
+en,en,English,,2
+es,es,Spanish,,9
+fr,fr,French,,4
+it,it,Italian,,9
+ko,ko,Korean,,7
+oth,ot,Other,1,9
+pi,pi,Pāli,1,3
+ru,ru,Russian,,9
+skt,sa,Sanskrit,1,4
+ug,ug,Uighur,,9
+vn,vn,Vietnamese,,8
+zh,zh,Chinese,1,1

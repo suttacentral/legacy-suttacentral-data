@@ -1,0 +1,42 @@
+uid,collection_uid,name,acronym,subdiv_ind
+dn,pi.su,Dīgha Nikāya,DN,
+mn,pi.su,Majjhima Nikāya,MN,
+sn,pi.su,Saṃyutta Nikāya,SN,1
+an,pi.su,Aṅguttara Nikāya,AN,1
+kn,pi.su,Khuddaka Nikāya,KhN,1
+da,zh.su,Dīrghāgama,DA [T 1],
+ma,zh.su,Madhyamāgama,MA [T 26],
+sa,zh.su,Saṃyuktāgama,SA [T 99],1
+sa-2,zh.su,2nd Saṃyuktāgama,SA2 [T 100],
+sa-3,zh.su,3rd Saṃyuktāgama,SA3 [T 101],
+ea,zh.su,Ekottarikāgama,EA [T 125],1
+ea-2,zh.su,2nd Ekottarikāgama,EA2 [T 150A],
+oa,zh.su,Other Āgama Sūtras,T,1
+dq,bo.su,Derge / Peking editions,D / Q,
+up,bo.su,Upāyikā (Abhidharma&shy;kośa&shy;ṭīk&shy;opāyikā),Up,
+avs,skt.su,Avadānaśataka,Avs,
+divy,skt.su,Divyāvadāna,Divy,
+lal,skt.su,Lalitavistara,Lal,
+mvu,skt.su,Mahāvastu,Mvu,
+sbv,skt.su,Saṅgha&shy;bheda&shy;vastu,Sbv,
+sht,skt.su,SHT fragments,SHT,1
+pf,prk,Prākrit fragments,Prak frgm,
+gf,gandh,Gāndhārī fragments,Gandh frgm,
+kf,khot,Khotanese fragments,Khot frgm,
+uf,uigh,Uighur fragments,Uigh frgm,
+tc,bo.su,Critical editions,Tib ed,
+sf,skt.su,Other Fragments,SF,
+mv,pi.vi,Bhikkhuvibhaṅga [Mahāvagga],Mv,
+cv,pi.vi,Bhikkhunīvibhaṅga [Cūḷavagga],Cv,
+prv,pi.vi,Parivāra (no data online),Prv ,
+svbh,pi.vi,Sutta Vibhaṅga,Svbh,
+dhs,pi.ab,Dhammasaṅgaṇī (no data online),Dhs,
+vbh,pi.ab,Vibhaṅga (no data online),Vbh,
+dhatuk,pi.ab,Dhātukathā (no data online),Dhatuk,
+pp,pi.ab,Puggalapaññatti (no data online),Pp,
+kv,pi.ab,Kathāvatthu (no data online),Kv,
+yam,pi.ab,Yamaka (no data online),Yam,
+patth,pi.ab,Paṭṭhāna (no data online),Patth,
+ot,zh.su,Other Taishō Texts,T 152−End,
+uv,skt.su,Udānavarga,UV,
+arv,skt.su,Arthaviniścaya,Arv,
