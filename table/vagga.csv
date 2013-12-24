@@ -465,10 +465,17 @@ ud,5,Sonatherassa Vagga
 ud,6,Jaccandha Vagga
 ud,7,Cūla Vagga
 ud,8,Pāṭaligāmiya Vagga
-it,1,Ekanipāta
-it,2,Dukanipāta
-it,3,Tikanipāta
-it,4,Catukkanipāta
+it,1,Ekanipāta Paṭhama Vagga
+it,2,Ekanipāta Dutiya Vagga
+it,3,Ekanipāta Tatiya Vagga
+it,4,Dukanipāta Paṭhama Vagga
+it,5,Dukanipāta Dutiya Vagga
+it,6,Tikanipāta Paṭhama Vagga
+it,7,Tikanipāta Dutiya Vagga
+it,8,Tikanipāta Tatiya Vagga
+it,9,Tikanipāta Catuttha Vagga
+it,10,Tikanipāta Pañcama Vagga
+it,11,Catukkanipāta Paṭhama Vagga
 snp,1,Uraga Vagga
 snp,2,Cūla Vagga
 snp,3,Mahā Vagga
