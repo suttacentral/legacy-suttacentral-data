@@ -1,370 +1,708 @@
 sutta_uid,language,abstract,url,priority
+dn1,de,German translation of DN 1 from palikanon.com. Neumann translation updated with original Nyanaponika renderings.,http://palikanon.com/digha/d01.htm,2
 dn2,en,English translation of DN 2 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/dn/dn.02.0.than.html,3
 dn2,en,English translation of DN 2 from Metta Net. Translator T W Rhys Davids.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/1Digha-Nikaya/Digha1/02-samannaphala-e.html,9
 dn2,fr,French translation of DN 2 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/digha/dn02.html,1
+dn2,de,German translation of DN 2 from palikanon.com. Neumann translation updated with original Nyanaponika renderings.,http://palikanon.com/digha/d02.htm,2
 dn3,en,English translation of DN 3 from Metta Net. Translator T W Rhys Davids.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/1Digha-Nikaya/Digha1/03-ambattha-e.html,9
+dn3,de,German translation of DN 3 from palikanon.com. Neumann translation updated with original Nyanaponika renderings.,http://palikanon.com/digha/d03.htm,2
 dn4,en,English translation of DN 4 from Metta Net. Translator T W Rhys Davids.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/1Digha-Nikaya/Digha1/04-sonadanda-e.html,9
+dn4,de,German translation of DN 4 from palikanon.com. Neumann translation updated with original Nyanaponika renderings.,http://palikanon.com/digha/d04.htm,2
 dn5,en,English translation of DN 5 from BPS. Translator T W Rhys Davids. With introduction and notes.,http://www.bps.lk/olib/wh/wh120-u.html,1
 dn5,en,English translation of DN 5 from Metta Net. Translator T W Rhys Davids.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/1Digha-Nikaya/Digha1/05-kutadanta-e.html,9
+dn5,de,German translation of DN 5 from palikanon.com. Neumann translation updated with original Nyanaponika renderings.,http://palikanon.com/digha/d05.htm,2
 dn6,en,English translation of DN 6 from Metta Net. Translator T W Rhys Davids.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/1Digha-Nikaya/Digha1/06-mahali-e.html,9
+dn6,de,German translation of DN 6 from palikanon.com. Neumann translation updated with original Nyanaponika renderings.,http://palikanon.com/digha/d06.htm,2
 dn7,en,English translation of DN 7 from Metta Net. Translator T W Rhys Davids.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/1Digha-Nikaya/Digha1/07-jaliya-e.html,9
+dn7,de,German translation of DN 7 from palikanon.com. Neumann translation updated with original Nyanaponika renderings.,http://palikanon.com/digha/d07.htm,2
 dn8,en,English translation of DN 8 from Metta Net. Translator T W Rhys Davids.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/1Digha-Nikaya/Digha1/08-kassapasihanada-e.html,9
+dn8,de,German translation of DN 8 from palikanon.com. Neumann translation updated with original Nyanaponika renderings.,http://palikanon.com/digha/d08.htm,2
 dn9,en,English translation of DN 9 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/dn/dn.09.0.than.html,3
 dn9,en,English translation of DN 9 from leighb.com. Translator Leigh Brasington.,http://www.leighb.com/dn9.htm,5
 dn9,en,English translation of DN 9 from Metta Net. Translator T W Rhys Davids.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/1Digha-Nikaya/Digha1/09-potthapada-e.html,9
+dn9,de,German translation of DN 9 from palikanon.com. Neumann translation updated with original Nyanaponika renderings.,http://palikanon.com/digha/d09.htm,2
 dn10,en,English translation of DN 10 from Metta Net. Translator T W Rhys Davids.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/1Digha-Nikaya/Digha1/10-subha-e.html,9
+dn10,de,German translation of DN 10 from palikanon.com. Neumann translation updated with original Nyanaponika renderings.,http://palikanon.com/digha/d10.htm,2
 dn11,en,English translation of DN 11 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/dn/dn.11.0.than.html,3
 dn11,en,English translation of DN 11 from Metta Net. Translator T W Rhys Davids.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/1Digha-Nikaya/Digha1/11-kevaddha-e.html,9
 dn11,fr,French translation of DN 11 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/digha/dn11.html,1
+dn11,de,German translation of DN 11 from palikanon.com. Neumann translation updated with original Nyanaponika renderings.,http://palikanon.com/digha/d11.htm,2
 dn12,en,English translation of DN 12 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/dn/dn.12.0.than.html,3
 dn12,en,English translation of DN 12 from Metta Net. Translator T W Rhys Davids.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/1Digha-Nikaya/Digha1/12-lohicca-e.html,9
+dn12,de,German translation of DN 12 from palikanon.com. Neumann translation updated with original Nyanaponika renderings.,http://palikanon.com/digha/d12.htm,2
 dn13,en,English translation of DN 13 from leighb.com. Translator Leigh Brasington.,http://www.leighb.com/dn13.htm,5
 dn13,en,English translation of DN 13 from Metta Net. Translator T W Rhys Davids.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/1Digha-Nikaya/Digha1/13-tevijja-e.html,9
+dn13,de,German translation of DN 13 from palikanon.com. Neumann translation updated with original Nyanaponika renderings.,http://palikanon.com/digha/d13.htm,2
+dn14,de,German translation of DN 14 from palikanon.com. Neumann translation updated with original Nyanaponika renderings.,http://palikanon.com/digha/d14_1.htm,2
 dn15,en,English translation of DN 15 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/dn/dn.15.0.than.html,3
 dn15,en,English translation of DN 15 from Metta Net. Translator T W Rhys Davids.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/1Digha-Nikaya/Digha2/15-mahanidana-e2.html,9
+dn15,de,German translation of DN 15 from palikanon.com. Neumann translation updated with original Nyanaponika renderings.,http://palikanon.com/digha/d15.htm,2
 dn16,en,English translation of DN 16 from Access to Insight. Translator Sister Vajira & Francis Story.,http://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html,2
 dn16,en,English translation of DN 16 (excerpt) from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/dn/dn.16.5-6.than.html,3
 dn16,fr,French translation of DN 16 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/digha/dn16.html,1
+dn16,de,German translation of DN 16 from palikanon.com. Neumann translation updated with original Nyanaponika renderings.,http://palikanon.com/digha/d16_1.htm,2
+dn17,de,German translation of DN 17 from palikanon.com. Neumann translation updated with original Nyanaponika renderings.,http://palikanon.com/digha/d17.htm,2
+dn18,de,German translation of DN 18 from palikanon.com. Neumann translation updated with original Nyanaponika renderings.,http://palikanon.com/digha/d18.htm,2
+dn19,de,German translation of DN 19 from palikanon.com. Neumann translation updated with original Nyanaponika renderings.,http://palikanon.com/digha/d19.htm,2
 dn20,en,English translation of DN 20 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/dn/dn.20.0.than.html,3
 dn20,en,English translation of DN 20 from Metta Net. Translator T W Rhys Davids.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/1Digha-Nikaya/Digha2/20-mahasamaya-e2.html,9
 dn20,fr,French translation of DN 20 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/digha/dn20.html,1
+dn20,de,German translation of DN 20 from palikanon.com. Neumann translation updated with original Nyanaponika renderings.,http://palikanon.com/digha/d20.htm,2
 dn21,en,English translation of DN 21 from BPS. Translator Sister Vajira. With introduction and notes.,http://www.bps.lk/olib/wh/wh010-u.html,1
 dn21,en,English translation of DN 21 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/dn/dn.21.2x.than.html,3
+dn21,de,German translation of DN 21 from palikanon.com. Neumann translation updated with original Nyanaponika renderings.,http://palikanon.com/digha/d21.htm,2
 dn22,en,From Ancient Buddhist Texts. Critical dual-language (Pali-English) translation of DN 22 by Anandajoti Bhikkhu.,http://www.ancient-buddhist-texts.net/Texts-and-Translations/Satipatthana/Satipatthana.pdf,1
 dn22,en,English translation of DN 22 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/dn/dn.22.0.than.html,3
 dn22,en,English translation of DN 22 from Metta Net. Translator T W Rhys Davids.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/1Digha-Nikaya/Digha2/22-mahasatipatthana-e2.html,9
 dn22,fr,French translation of DN 22 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/digha/dn22.html,1
+dn22,de,German translation of DN 22 from palikanon.com. Neumann translation updated with original Nyanaponika renderings.,http://palikanon.com/digha/d22.htm,2
+dn23,de,German translation of DN 23 from palikanon.com. Neumann translation updated with original Nyanaponika renderings.,http://palikanon.com/digha/d23.htm,2
+dn24,de,German translation of DN 24 from palikanon.com. Neumann translation updated with original Nyanaponika renderings.,http://palikanon.com/digha/d24.htm,2
+dn25,de,German translation of DN 25 from palikanon.com. Neumann translation updated with original Nyanaponika renderings.,http://palikanon.com/digha/d25.htm,2
 dn26,en,English translation of DN 26 (excerpt) from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/dn/dn.26.0.than.html,3
+dn26,de,German translation of DN 26 from palikanon.com. Neumann translation updated with original Nyanaponika renderings.,http://palikanon.com/digha/d26.htm,2
+dn27,de,German translation of DN 27 from palikanon.com. Neumann translation updated with original Nyanaponika renderings.,http://palikanon.com/digha/d27.htm,2
+dn28,de,German translation of DN 28 from palikanon.com. Neumann translation updated with original Nyanaponika renderings.,http://palikanon.com/digha/d28.htm,2
+dn29,de,German translation of DN 29 from palikanon.com. Neumann translation updated with original Nyanaponika renderings.,http://palikanon.com/digha/d29.htm,2
+dn30,de,German translation of DN 30 from palikanon.com. Neumann translation updated with original Nyanaponika renderings.,http://palikanon.com/digha/d30.htm,2
 dn31,en,English translation of DN 31 from Access to Insight. Translator Narada Thera.,http://www.accesstoinsight.org/tipitaka/dn/dn.31.0.nara.html,2
 dn31,en,"English translation of DN 31 from Access to Insight. Translator John Kelly, Sue Sawyer, and Victoria Yareham.",http://www.accesstoinsight.org/tipitaka/dn/dn.31.0.ksw0.html,3
 dn31,en,English translation of DN 31 from Metta Net. Translator Nārada Thera.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/1Digha-Nikaya/Digha3/31-sigala-e2.html,9
+dn31,de,German translation of DN 31 from palikanon.com. Neumann translation updated with original Nyanaponika renderings.,http://palikanon.com/digha/d31.htm,2
 dn32,en,English translation of DN 32 from Access to Insight. Translator Piyadassi Thera.,http://www.accesstoinsight.org/tipitaka/dn/dn.32.0.piya.html,3
+dn32,de,German translation of DN 32 from palikanon.com. Neumann translation updated with original Nyanaponika renderings.,http://palikanon.com/digha/d32.htm,2
+dn33,de,German translation of DN 33 from palikanon.com. Neumann translation updated with original Nyanaponika renderings.,http://palikanon.com/digha/d33_01-3.htm,2
+dn34,de,German translation of DN 34 from palikanon.com. Neumann translation updated with original Nyanaponika renderings.,http://palikanon.com/digha/d34.htm,2
 mn1,en,English translation of MN 1 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.001.than.html,3
 mn1,en,English translation of MN 1 from Wikipitaka. Translator unknown.,http://tipitaka.wikia.com/wiki/Mulapariyaya_Sutta,5
 mn1,en,English translation of MN 1 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/001-mulapariyaya-sutta-e1.html,8
 mn1,fr,French translation of MN 1 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn001.html,1
+mn1,de,German translation of MN 1 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m001z.html,2
+mn1,de,German translation of MN 1 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m001n.htm,4
 mn2,en,English translation of MN 2 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.002.than.html,3
 mn2,en,English translation of MN 2 from Wikipitaka. Translator unknown.,http://tipitaka.wikia.com/wiki/Sabbasava_Sutta,5
 mn2,en,English translation of MN 2 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/002-sabbasava-sutta-e1.html,8
 mn2,fr,French translation of MN 2 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn002.html,1
+mn2,de,German translation of MN 2 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m002z.html,2
+mn2,de,German translation of MN 2 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m002n.htm,4
 mn3,en,English translation of MN 3 from Wikipitaka. Translator unknown.,http://tipitaka.wikia.com/wiki/Dhammadayada_Sutta,5
 mn3,en,English translation of MN 3 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/003-dhammadayada-sutta-e1.html,8
 mn3,fr,French translation of MN 3 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn003.html,1
+mn3,de,German translation of MN 3 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m003z.html,2
+mn3,de,German translation of MN 3 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m003n.htm,4
 mn4,en,English translation of MN 4 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.004.than.html,3
 mn4,en,English translation of MN 4 from Wikipitaka. Translator unknown.,http://tipitaka.wikia.com/wiki/Bhayabherava_Sutta,5
 mn4,en,English translation of MN 4 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/004-bhayabera-sutta-e1.html,8
 mn4,fr,French translation of MN 4 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn004.html,1
+mn4,de,German translation of MN 4 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m004z.html,2
+mn4,de,German translation of MN 4 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m004n.htm,4
 mn5,en,English translation of MN 5 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/005-anangana-sutta-e1.html,8
 mn5,fr,French translation of MN 5 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn005.html,1
+mn5,de,German translation of MN 5 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m005z.html,2
+mn5,de,German translation of MN 5 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m005n.htm,4
 mn6,en,English translation of MN 6 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/006-akankheyya-sutta-e1.html,8
 mn6,fr,French translation of MN 6 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn006.html,1
+mn6,de,German translation of MN 6 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m006z.html,2
+mn6,de,German translation of MN 6 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m006n.htm,4
 mn7,en,English translation of MN 7 from BPS. Translator Nyanaponika Thera. With introduction and notes.,http://www.bps.lk/olib/wh/wh061-u.html,1
 mn7,en,English translation of MN 7 from Access to Insight. Translator Nyanaponika Thera.,http://www.accesstoinsight.org/tipitaka/mn/mn.007.nypo.html,3
 mn7,en,English translation of MN 7 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/007-vatthupama-sutta-e1.html,8
 mn7,fr,French translation of MN 7 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn007.html,1
+mn7,de,German translation of MN 7 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m007z.html,2
+mn7,de,German translation of MN 7 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m007n.htm,4
 mn8,en,English translation of MN 8 from BPS. Translator Nyanaponika Thera. With introduction and notes.,http://www.bps.lk/olib/wh/wh061-u.html,1
 mn8,en,English translation of MN 8 from Access to Insight. Translator Nyanaponika Thera.,http://www.accesstoinsight.org/tipitaka/mn/mn.008.nypo.html,3
 mn8,en,English translation of MN 8 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/008-salleka-sutta-e1.html,8
 mn8,fr,French translation of MN 8 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn008.html,1
+mn8,de,German translation of MN 8 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m008z.html,2
+mn8,de,German translation of MN 8 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m008n.htm,4
 mn9,en,English translation of MN 9 from Access to Insight. Translator Ñanamoli Thera & Bhikkhu Bodhi.,http://www.accesstoinsight.org/tipitaka/mn/mn.009.ntbb.html,1
 mn9,en,English translation of MN 9 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.009.than.html,3
 mn9,en,English translation of MN 9 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/009-sammaditthi-sutta-e1.html,8
 mn9,fr,French translation of MN 9 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn009.html,1
+mn9,de,German translation of MN 9 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m009z.html,2
+mn9,de,German translation of MN 9 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m009n.htm,4
 mn10,en,English translation of MN 10 from Access to Insight. Translator Nyanaponika Thera.,http://www.accesstoinsight.org/tipitaka/mn/mn.010.nysa.html,1
 mn10,en,English translation of MN 10 from Access to Insight. Translator Soma Thera.,http://www.accesstoinsight.org/tipitaka/mn/mn.010.soma.html,2
 mn10,en,English translation of MN 10 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.010.than.html,3
 mn10,en,English translation of MN 10 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/010-satipatthanai-sutta-e1.html,8
 mn10,fr,French translation of MN 10 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn010.html,1
+mn10,de,German translation of MN 10 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m010z.html,2
+mn10,de,German translation of MN 10 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m010n.htm,4
 mn11,en,English translation of MN 11 from Access to Insight. Translator Ñanamoli Thera & Bhikkhu Bodhi.,http://www.accesstoinsight.org/tipitaka/mn/mn.011.ntbb.html,1
 mn11,en,English translation of MN 11 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/011-culasihanada-sutta-e1.html,8
 mn11,fr,French translation of MN 11 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn011.html,1
+mn11,de,German translation of MN 11 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m011z.html,2
+mn11,de,German translation of MN 11 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m011n.htm,4
 mn12,en,English translation of MN 12 from Access to Insight. Translator Ñanamoli Thera & Bhikkhu Bodhi.,http://www.accesstoinsight.org/tipitaka/mn/mn.012.ntbb.html,1
 mn12,en,English translation of MN 12 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/012-mahasihanada-sutta-e1.html,8
 mn12,fr,French translation of MN 12 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn012.html,1
+mn12,de,German translation of MN 12 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m012z.html,2
+mn12,de,German translation of MN 12 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m012n.htm,4
 mn13,en,English translation of MN 13 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.013.than.html,3
 mn13,en,English translation of MN 13 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/013-mahadukkhakkhanda-sutta-e1.html,8
 mn13,fr,French translation of MN 13 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn013.html,1
+mn13,de,German translation of MN 13 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m013z.html,2
+mn13,de,German translation of MN 13 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m013n.htm,4
 mn14,en,English translation of MN 14 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.014.than.html,3
 mn14,en,English translation of MN 14 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/014-culadukkhakkhanda-sutta-e1.html,8
+mn14,de,German translation of MN 14 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m014z.html,2
+mn14,de,German translation of MN 14 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m014n.htm,4
 mn15,en,English translation of MN 15 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/015-anumana-sutta-e1.html,8
+mn15,de,German translation of MN 15 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m015z.html,2
+mn15,de,German translation of MN 15 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m015n.htm,4
 mn16,en,English translation of MN 16 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/016-cetokhila-sutta-e1.html,8
+mn16,de,German translation of MN 16 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m016z.html,2
+mn16,de,German translation of MN 16 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m016n.htm,4
 mn17,en,English translation of MN 17 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/017-vanapattha-sutta-e1.html,8
+mn17,de,German translation of MN 17 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m017z.html,2
+mn17,de,German translation of MN 17 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m017n.htm,4
 mn18,en,English translation of MN 18 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.018.than.html,3
 mn18,en,English translation of MN 18 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/018-madhupindika-sutta-e1.html,8
 mn18,fr,French translation of MN 18 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn018.html,1
+mn18,de,German translation of MN 18 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m018z.html,2
+mn18,de,German translation of MN 18 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m018n.htm,4
 mn19,en,English translation of MN 19 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.019.than.html,3
 mn19,en,English translation of MN 19 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/019-dvedhavitakka-sutta-e1.html,8
 mn19,fr,French translation of MN 19 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn019.html,1
+mn19,de,German translation of MN 19 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m019z.html,2
+mn19,de,German translation of MN 19 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m019n.htm,4
 mn20,en,English translation of MN 20 from Access to Insight. Translator Soma Thera.,http://www.accesstoinsight.org/tipitaka/mn/mn.020.soma.html,2
 mn20,en,English translation of MN 20 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.020.than.html,3
 mn20,en,English translation of MN 20 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/020-vitakkasanthana-sutta-e1.html,8
 mn20,fr,French translation of MN 20 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn020.html,1
+mn20,de,German translation of MN 20 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m020z.html,2
+mn20,de,German translation of MN 20 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m020n.htm,4
 mn21,en,English translation of MN 21 (excerpt) from Access to Insight. Translator Acharya Buddharakkhita.,http://www.accesstoinsight.org/tipitaka/mn/mn.021x.budd.html,2
 mn21,en,English translation of MN 21 (excerpt) from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.021x.than.html,3
 mn21,en,English translation of MN 21 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/021-kakacupama-sutta-e1.html,8
 mn21,fr,French translation of MN 21 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn021.html,1
+mn21,de,German translation of MN 21 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m021z.html,2
+mn21,de,German translation of MN 21 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m021n.htm,4
 mn22,en,English translation of MN 22 from BPS. Translator Nyanaponika Thera. With introduction and notes.,http://www.bps.lk/olib/wh/wh048-u.html,1
 mn22,en,English translation of MN 22 from Access to Insight. Translator Nyanaponika Thera.,http://www.accesstoinsight.org/tipitaka/mn/mn.022.nypo.html,2
 mn22,en,English translation of MN 22 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.022.than.html,3
 mn22,en,English translation of MN 22 from leighb.com. Translator Leigh Brasington.,http://www.leighb.com/mn22.htm,5
 mn22,en,English translation of MN 22 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/022-alagagaddupama-sutta-e1.html,8
 mn22,fr,French translation of MN 22 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn022.html,1
+mn22,de,German translation of MN 22 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m022z.html,2
+mn22,de,German translation of MN 22 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m022n.htm,4
 mn23,en,English translation of MN 23 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/023-vammika-sutta-e1.html,8
+mn23,de,German translation of MN 23 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m023z.html,2
+mn23,de,German translation of MN 23 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m023n.htm,4
 mn24,en,English translation of MN 24 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.024.than.html,3
 mn24,en,English translation of MN 24 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/024-rathavinita-sutta-e1.html,8
 mn24,fr,French translation of MN 24 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn024.html,1
+mn24,de,German translation of MN 24 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m024z.html,2
+mn24,de,German translation of MN 24 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m024n.htm,4
 mn25,en,English translation of MN 25 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/025-nivapa-sutta-e1.html,8
+mn25,de,German translation of MN 25 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m025z.html,2
+mn25,de,German translation of MN 25 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m025n.htm,4
 mn26,en,English translation of MN 26 from BPS. Translator I. B. Horner. With introduction and notes.,http://www.bps.lk/olib/wh/wh198-u.html,1
 mn26,en,English translation of MN 26 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.026.than.html,3
 mn26,en,English translation of MN 26 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/026-ariyapariyesana-sutta-e1.html,8
 mn26,fr,French translation of MN 26 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn026.html,1
+mn26,de,German translation of MN 26 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m026z.html,2
+mn26,de,German translation of MN 26 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m026n.htm,4
 mn27,en,English translation of MN 27 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.027.than.html,3
 mn27,en,English translation of MN 27 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/027-culahatthipadopama-sutta-e1.html,8
 mn27,fr,French translation of MN 27 from La Parole du Bouddha (translated from English translation).,http://www.tipitaka.fr/tipitaka/sutta/majjhima/mn27.html,2
+mn27,de,German translation of MN 27 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m027z.html,2
+mn27,de,German translation of MN 27 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m027n.htm,4
 mn28,en,English translation of MN 28 from BPS. Translator Nyanaponika Thera. With introduction and notes.,http://www.bps.lk/olib/wh/wh101-u.html,1
 mn28,en,English translation of MN 28 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.028.than.html,3
 mn28,en,English translation of MN 28 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/028-mahahatthipadopama-sutta-e1.html,8
 mn28,fr,French translation of MN 28 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn028.html,1
+mn28,de,German translation of MN 28 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m028z.html,2
+mn28,de,German translation of MN 28 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m028n.htm,4
 mn29,en,English translation of MN 29 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/029-mahasaropama-sutta-e1.html,8
+mn29,de,German translation of MN 29 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m029z.html,2
+mn29,de,German translation of MN 29 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m029n.htm,4
 mn30,en,English translation of MN 30 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/030-culasaropama-sutta-e1.html,8
+mn30,de,German translation of MN 30 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m030z.html,2
+mn30,de,German translation of MN 30 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m030n.htm,4
 mn31,en,English translation of MN 31 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/031-culagosinga-sutta-e1.html,8
+mn31,de,German translation of MN 31 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m031z.html,2
+mn31,de,German translation of MN 31 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m031n.htm,4
 mn32,en,English translation of MN 32 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/032-mahagosinga-sutta-e1.html,8
+mn32,de,German translation of MN 32 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m032z.html,2
+mn32,de,German translation of MN 32 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m032n.htm,4
 mn33,en,English translation of MN 33 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.033.than.html,3
 mn33,en,English translation of MN 33 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/033-mahagopalaka-sutta-e1.html,8
 mn33,fr,French translation of MN 33 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn033.html,1
+mn33,de,German translation of MN 33 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m033z.html,2
+mn33,de,German translation of MN 33 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m033n.htm,4
 mn34,en,English translation of MN 34 (excerpt) from Access to Insight. Translator Andrew Olendzki.,http://www.accesstoinsight.org/tipitaka/mn/mn.034x.olen.html,3
 mn34,en,English translation of MN 34 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/034-culagopalaka-sutta-e1.html,8
+mn34,de,German translation of MN 34 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m034z.html,2
+mn34,de,German translation of MN 34 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m034n.htm,4
 mn35,en,English translation of MN 35 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/035-culasaccaka-sutta-e1.html,8
+mn35,de,German translation of MN 35 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m035z.html,2
+mn35,de,German translation of MN 35 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m035n.htm,4
 mn36,en,English translation of MN 36 (excerpt) from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.036x.than.html,3
 mn36,en,English translation of MN 36 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/036-mahasaccaka-sutta-e1.html,8
 mn36,fr,French translation of MN 36 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn036.html,1
+mn36,de,German translation of MN 36 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m036z.html,2
+mn36,de,German translation of MN 36 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m036n.htm,4
 mn37,en,English translation of MN 37 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/037-culatanhasankhaya-sutta-e1.html,8
+mn37,de,German translation of MN 37 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m037z.html,2
+mn37,de,German translation of MN 37 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m037n.htm,4
 mn38,en,English translation of MN 38 from dhammatalks.net. Translator Ñanamoli Thera & Bhikkhu Bodhi.,http://www.dhammatalks.net/Books9/Bhikkhu_Bodhi_Mahatanhasankhaya_Sutta.htm,1
 mn38,en,English translation of MN 38 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.038.than.html,3
 mn38,en,English translation of MN 38 from leighb.com. Translator Leigh Brasington.,http://www.leighb.com/mn38.htm,5
 mn38,en,English translation of MN 38 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/038-mahatanhasankhaya-sutta-e1.html,8
+mn38,de,German translation of MN 38 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m038z.html,2
+mn38,de,German translation of MN 38 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m038n.htm,4
 mn39,en,English translation of MN 39 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.039.than.html,3
 mn39,en,English translation of MN 39 from leighb.com. Translator Leigh Brasington.,http://www.leighb.com/mn39.htm,5
 mn39,en,English translation of MN 39 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/039-mahaassapura-sutta-e1.html,8
+mn39,de,German translation of MN 39 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m039z.html,2
+mn39,de,German translation of MN 39 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m039n.htm,4
 mn40,en,English translation of MN 40 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/040-culaassapura-sutta-e1.html,8
+mn40,de,German translation of MN 40 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m040z.html,2
+mn40,de,German translation of MN 40 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m040n.htm,4
 mn41,en,English translation of MN 41 from Access to Insight. Translator Ñanamoli Thera.,http://www.accesstoinsight.org/tipitaka/mn/mn.041.nymo.html,1
 mn41,en,English translation of MN 41 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/041-saleyyaka-sutta-e1.html,8
 mn41,fr,French translation of MN 41 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn041.html,1
+mn41,de,German translation of MN 41 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m041z.html,2
+mn41,de,German translation of MN 41 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m041n.htm,4
 mn42,en,English translation of MN 42 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/042-veranjake-sutta-e1.html,8
+mn42,de,German translation of MN 42 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m042z.html,2
+mn42,de,German translation of MN 42 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m042n.htm,4
 mn43,en,English translation of MN 43 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.043.than.html,3
 mn43,en,English translation of MN 43 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/043-mahavedalla-sutta-e1.html,8
+mn43,de,German translation of MN 43 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m043z.html,2
+mn43,de,German translation of MN 43 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m043n.htm,4
 mn44,en,English translation of MN 44 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.044.than.html,3
 mn44,en,English translation of MN 44 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/044-culavedalla-sutta-e1.html,8
 mn44,fr,French translation of MN 44 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn044.html,1
+mn44,de,German translation of MN 44 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m044z.html,2
+mn44,de,German translation of MN 44 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m044n.htm,4
 mn45,en,English translation of MN 45 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.045.than.html,3
 mn45,en,English translation of MN 45 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/045-culadhammasamadana-sutta-e1.html,8
 mn45,fr,French translation of MN 45 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn045.html,1
+mn45,de,German translation of MN 45 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m045z.html,2
+mn45,de,German translation of MN 45 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m045n.htm,4
 mn46,en,English translation of MN 46 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/046-mahadhammasamadana-sutta-e1.html,8
+mn46,de,German translation of MN 46 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m046z.html,2
+mn46,de,German translation of MN 46 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m046n.htm,4
 mn47,en,English translation of MN 47 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/047-vimamsaka-sutta-e1.html,8
+mn47,de,German translation of MN 47 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m047z.html,2
+mn47,de,German translation of MN 47 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m047n.htm,4
 mn48,en,English translation of MN 48 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/048-kosambiya-sutta-e1.html,8
+mn48,de,German translation of MN 48 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m048z.html,2
+mn48,de,German translation of MN 48 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m048n.htm,4
 mn49,en,English translation of MN 49 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.049.than.html,3
 mn49,en,English translation of MN 49 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/049-brahmanimantana-sutta-e1.html,8
+mn49,de,German translation of MN 49 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m049z.html,2
+mn49,de,German translation of MN 49 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m049n.htm,4
 mn50,en,English translation of MN 50 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima1/050-maratajjhaniya-sutta-e1.html,8
+mn50,de,German translation of MN 50 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m050z.html,2
+mn50,de,German translation of MN 50 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m050n.htm,4
 mn51,en,English translation of MN 51 from BPS. Translator Nārada Thera & Mahinda Bhikkhu. With introduction and notes.,http://www.bps.lk/olib/wh/wh079-u.html,1
 mn51,en,English translation of MN 51 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/051-kandaka-e1.html,8
+mn51,de,German translation of MN 51 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m051z.html,2
+mn51,de,German translation of MN 51 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m051n.htm,4
 mn52,en,English translation of MN 52 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.052.than.html,3
 mn52,en,English translation of MN 52 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/052-atthakanagara-e1.html,8
 mn52,fr,French translation of MN 52 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn052.html,1
+mn52,de,German translation of MN 52 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m052z.html,2
+mn52,de,German translation of MN 52 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m052n.htm,4
 mn53,en,English translation of MN 53 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.053.than.html,3
 mn53,en,English translation of MN 53 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/053-sekha-e1.html,8
 mn53,fr,French translation of MN 53 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn053.html,1
+mn53,de,German translation of MN 53 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m053z.html,2
+mn53,de,German translation of MN 53 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m053n.htm,4
 mn54,en,English translation of MN 54 from BPS. Translator Nārada Thera & Mahinda Bhikkhu. With introduction and notes.,http://www.bps.lk/olib/wh/wh079-u.html,1
 mn54,en,English translation of MN 54 (excerpt) from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.054x.than.html,3
 mn54,en,English translation of MN 54 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/054-potaliya-e1.html,8
 mn54,fr,French translation of MN 54 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn054.html,1
+mn54,de,German translation of MN 54 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m054z.html,2
+mn54,de,German translation of MN 54 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m054n.htm,4
 mn55,en,English translation of MN 55 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/055-jivaka-e1.html,8
 mn55,fr,French translation of MN 55 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn055.html,1
+mn55,de,German translation of MN 55 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m055z.html,2
+mn55,de,German translation of MN 55 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m055n.htm,4
 mn56,en,English translation of MN 56 from BPS. Translator Nārada Thera & Mahinda Bhikkhu. With introduction and notes.,http://www.bps.lk/olib/wh/wh098-u.html,1
 mn56,en,English translation of MN 56 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/056-upali-e1.html,8
+mn56,de,German translation of MN 56 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m056z.html,2
+mn56,de,German translation of MN 56 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m056n.htm,4
 mn57,en,English translation of MN 57 from Access to Insight. Translator Ñanamoli Thera.,http://www.accesstoinsight.org/tipitaka/mn/mn.057.nymo.html,3
 mn57,en,English translation of MN 57 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/057-kukkuravatiya-e1.html,8
 mn57,fr,French translation of MN 57 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn057.html,1
+mn57,de,German translation of MN 57 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m057z.html,2
+mn57,de,German translation of MN 57 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m057n.htm,4
 mn58,en,English translation of MN 58 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.058.than.html,3
 mn58,en,English translation of MN 58 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/058-abhayarajakumara-e1.html,8
 mn58,fr,French translation of MN 58 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn058.html,1
+mn58,de,German translation of MN 58 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m058z.html,2
+mn58,de,German translation of MN 58 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m058n.htm,4
 mn59,en,English translation of MN 59 from Access to Insight. Translator Nyanaponika Thera.,http://www.accesstoinsight.org/tipitaka/mn/mn.059.nypo.html,1
 mn59,en,English translation of MN 59 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.059.than.html,3
 mn59,en,English translation of MN 59 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/059-bahuvedaniya-e1.html,8
+mn59,de,German translation of MN 59 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m059z.html,2
+mn59,de,German translation of MN 59 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m059n.htm,4
 mn60,en,English translation of MN 60 from BPS. Translator Nārada Thera & Mahinda Bhikkhu. With introduction and notes.,http://www.bps.lk/olib/wh/wh098-u.html,1
 mn60,en,English translation of MN 60 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.060.than.html,3
 mn60,en,English translation of MN 60 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/060-apannaka-e1.html,8
+mn60,de,German translation of MN 60 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m060z.html,2
+mn60,de,German translation of MN 60 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m060n.htm,4
 mn61,en,English translation of MN 61 from BPS. Translator Nyanaponika Thera. With introduction and notes.,http://www.bps.lk/olib/wh/wh033-u.html,1
 mn61,en,English translation of MN 61 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.061.than.html,3
 mn61,en,English translation of MN 61 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/061-ambalatthika-rahulovada-e1.html,8
 mn61,fr,French translation of MN 61 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn061.html,1
+mn61,de,German translation of MN 61 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m061z.html,2
+mn61,de,German translation of MN 61 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m061n.htm,4
 mn62,en,From Ancient Buddhist Texts. Critical dual-language (Pali-English) translation of MN 62 by Anandajoti Bhikkhu.,http://www.ancient-buddhist-texts.net/Texts-and-Translations/Short-Pieces/MahaRahulovadasuttam.htm,1
 mn62,en,English translation of MN 62 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.062.than.html,3
 mn62,en,English translation of MN 62 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/062-maha-rahulovada-e1.html,8
+mn62,de,German translation of MN 62 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m062z.html,2
+mn62,de,German translation of MN 62 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m062n.htm,4
 mn63,en,English translation of MN 63 from BPS. Translator Nārada Thera & Mahinda Bhikkhu. With introduction and notes.,http://www.bps.lk/olib/wh/wh098-u.html,1
 mn63,en,English translation of MN 63 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.063.than.html,3
 mn63,en,English translation of MN 63 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/063-cula-malunkhyaputta-e1.html,8
 mn63,fr,French translation of MN 63 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn063.html,1
+mn63,de,German translation of MN 63 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m063z.html,2
+mn63,de,German translation of MN 63 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m063n.htm,4
 mn64,en,English translation of MN 64 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/064-maha-malunkhyaputta-e1.html,8
+mn64,de,German translation of MN 64 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m064z.html,2
+mn64,de,German translation of MN 64 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m064n.htm,4
 mn65,en,English translation of MN 65 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/065-bhaddali-e1.html,8
+mn65,de,German translation of MN 65 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m065z.html,2
+mn65,de,German translation of MN 65 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m065n.htm,4
 mn66,en,English translation of MN 66 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.066.than.html,3
 mn66,en,English translation of MN 66 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/066-latukikopama-e1.html,8
 mn66,fr,French translation of MN 66 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn066.html,1
+mn66,de,German translation of MN 66 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m066z.html,2
+mn66,de,German translation of MN 66 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m066n.htm,4
 mn67,en,English translation of MN 67 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/067-catuma-e1.html,8
+mn67,de,German translation of MN 67 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m067z.html,2
+mn67,de,German translation of MN 67 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m067n.htm,4
 mn68,en,English translation of MN 68 from leighb.com. Translator Leigh Brasington.,http://www.leighb.com/mn68.htm,5
 mn68,en,English translation of MN 68 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/068-nalakapana-e1.html,8
+mn68,de,German translation of MN 68 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m068z.html,2
+mn68,de,German translation of MN 68 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m068n.htm,4
 mn69,en,English translation of MN 69 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/069-gulissani-e1.html,8
+mn69,de,German translation of MN 69 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m069z.html,2
+mn69,de,German translation of MN 69 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m069n.htm,4
 mn70,en,English translation of MN 70 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.070.than.html,3
 mn70,en,English translation of MN 70 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/070-kitagiri-e1.html,8
+mn70,de,German translation of MN 70 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m070z.html,2
+mn70,de,German translation of MN 70 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m070n.htm,4
 mn71,en,English translation of MN 71 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/071-tevijja-vacchagotta-e1.html,8
+mn71,de,German translation of MN 71 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m071z.html,2
+mn71,de,German translation of MN 71 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m071n.htm,4
 mn72,en,English translation of MN 72 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.072.than.html,3
 mn72,en,English translation of MN 72 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/072-aggi-vacchagotta-e1.html,8
 mn72,fr,French translation of MN 72 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn072.html,1
+mn72,de,German translation of MN 72 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m072z.html,2
+mn72,de,German translation of MN 72 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m072n.htm,4
 mn73,en,English translation of MN 73 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/073-maha-vacchagotta-e1.html,8
+mn73,de,German translation of MN 73 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m073z.html,2
+mn73,de,German translation of MN 73 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m073n.htm,4
 mn74,en,English translation of MN 74 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.074.than.html,3
 mn74,en,English translation of MN 74 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/074-dighanakha-e1.html,8
+mn74,de,German translation of MN 74 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m074z.html,2
+mn74,de,German translation of MN 74 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m074n.htm,4
 mn75,en,English translation of MN 75 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.075x.than.html,3
 mn75,en,English translation of MN 75 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/075-magandiya-e1.html,8
 mn75,fr,French translation of MN 75 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn075.html,1
+mn75,de,German translation of MN 75 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m075z.html,2
+mn75,de,German translation of MN 75 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m075n.htm,4
 mn76,en,English translation of MN 76 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/076-sandaka-e1.html,8
+mn76,de,German translation of MN 76 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m076z.html,2
+mn76,de,German translation of MN 76 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m076n.htm,4
 mn77,en,English translation of MN 77 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/077-mahasakuludayi-e1.html,8
+mn77,de,German translation of MN 77 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m077z.html,2
+mn77,de,German translation of MN 77 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m077n.htm,4
 mn78,en,English translation of MN 78 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.078.than.html,3
 mn78,en,English translation of MN 78 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/078-samanamandika-e1.html,8
+mn78,de,German translation of MN 78 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m078z.html,2
+mn78,de,German translation of MN 78 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m078n.htm,4
 mn79,en,English translation of MN 79 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/079-culasakuludayi-e1.html,8
+mn79,de,German translation of MN 79 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m079z.html,2
+mn79,de,German translation of MN 79 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m079n.htm,4
 mn80,en,English translation of MN 80 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/080-vekhanassa-e1.html,8
+mn80,de,German translation of MN 80 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m080z.html,2
+mn80,de,German translation of MN 80 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m080n.htm,4
 mn81,en,English translation of MN 81 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/081-ghatikara-e1.html,8
+mn81,de,German translation of MN 81 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m081z.html,2
+mn81,de,German translation of MN 81 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m081n.htm,4
 mn82,en,English translation of MN 82 from BPS. Translator Ñāṇamoli Thera. With introduction and notes.,http://www.bps.lk/olib/wh/wh110-u.html,1
 mn82,en,English translation of MN 82 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.082.than.html,3
 mn82,en,English translation of MN 82 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/082-ratthapala-e1.html,8
+mn82,de,German translation of MN 82 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m082z.html,2
+mn82,de,German translation of MN 82 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m082n.htm,4
 mn83,en,English translation of MN 83 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/083-makhadeva-e1.html,8
+mn83,de,German translation of MN 83 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m083z.html,2
+mn83,de,German translation of MN 83 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m083n.htm,4
 mn84,en,English translation of MN 84 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/084-madhura-e1.html,8
+mn84,de,German translation of MN 84 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m084z.html,2
+mn84,de,German translation of MN 84 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m084n.htm,4
 mn85,en,English translation of MN 85 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/085-bodhirajakumara-e1.html,8
+mn85,de,German translation of MN 85 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m085z.html,2
+mn85,de,German translation of MN 85 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m085n.htm,4
 mn86,en,English translation of MN 86 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.086.than.html,3
 mn86,en,English translation of MN 86 from leighb.com. Translator Leigh Brasington.,http://www.leighb.com/mn86.htm,5
 mn86,en,English translation of MN 86 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/086-angulimala-e1.html,8
 mn86,fr,French translation of MN 86 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn086.html,1
+mn86,de,German translation of MN 86 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m086z.html,2
+mn86,de,German translation of MN 86 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m086n.htm,4
 mn87,en,English translation of MN 87 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.087.than.html,3
 mn87,en,English translation of MN 87 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/087-piyajatika-e1.html,8
+mn87,de,German translation of MN 87 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m087z.html,2
+mn87,de,German translation of MN 87 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m087n.htm,4
 mn88,en,English translation of MN 88 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/088-bahitika-e1.html,8
+mn88,de,German translation of MN 88 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m088z.html,2
+mn88,de,German translation of MN 88 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m088n.htm,4
 mn89,en,English translation of MN 89 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/089-dhammacetiya-e1.html,8
+mn89,de,German translation of MN 89 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m089z.html,2
+mn89,de,German translation of MN 89 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m089n.htm,4
 mn90,en,English translation of MN 90 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.090.than.html,3
 mn90,en,English translation of MN 90 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/090-kannakatthala-e1.html,8
+mn90,de,German translation of MN 90 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m090z.html,2
+mn90,de,German translation of MN 90 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m090n.htm,4
 mn91,en,English translation of MN 91 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/091-brahmayu-e1.html,8
+mn91,de,German translation of MN 91 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m091z.html,2
+mn91,de,German translation of MN 91 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m091n.htm,4
 mn92,en,English translation of MN 92 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/092-sela-e1.html,8
+mn92,de,German translation of MN 92 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m092z.html,2
+mn92,de,German translation of MN 92 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m092n.htm,4
 mn93,en,English translation of MN 93 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/093-assalayana-e1.html,8
+mn93,de,German translation of MN 93 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m093z.html,2
+mn93,de,German translation of MN 93 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m093n.htm,4
 mn94,en,English translation of MN 94 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/094-ghotamukha-e1.html,8
+mn94,de,German translation of MN 94 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m094z.html,2
+mn94,de,German translation of MN 94 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m094n.htm,4
 mn95,en,English translation of MN 95 (excerpt) from Access to Insight. Translator Ñanamoli Thera.,http://www.accesstoinsight.org/tipitaka/mn/mn.095x.nymo.html,1
 mn95,en,English translation of MN 95 (excerpt) from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.095x.than.html,3
 mn95,en,English translation of MN 95 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/095-canki-e1.html,8
+mn95,de,German translation of MN 95 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m095z.html,2
+mn95,de,German translation of MN 95 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m095n.htm,4
 mn96,en,English translation of MN 96 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/096-phasukari-e1.html,8
+mn96,de,German translation of MN 96 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m096z.html,2
+mn96,de,German translation of MN 96 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m096n.htm,4
 mn97,en,English translation of MN 97 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.097.than.html,3
 mn97,en,English translation of MN 97 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/097-dhananjani-e1.html,8
+mn97,de,German translation of MN 97 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m097z.html,2
+mn97,de,German translation of MN 97 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m097n.htm,4
 mn98,en,English translation of MN 98 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/098-vasettha-e1.html,8
+mn98,de,German translation of MN 98 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m098z.html,2
+mn98,de,German translation of MN 98 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m098n.htm,4
 mn99,en,English translation of MN 99 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/099-subha-e1.html,8
+mn99,de,German translation of MN 99 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m099z.html,2
+mn99,de,German translation of MN 99 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m099n.htm,4
 mn100,en,English translation of MN 100 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/100-sangarava-e1.html,8
+mn100,de,German translation of MN 100 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m100z.html,2
+mn100,de,German translation of MN 100 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m100n.htm,4
 mn101,en,English translation of MN 101 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.101.than.html,3
 mn101,en,English translation of MN 101 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/101-devadaha-e1.html,8
+mn101,de,German translation of MN 101 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m101z.html,2
+mn101,de,German translation of MN 101 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m101n.htm,4
 mn102,en,English translation of MN 102 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/102-pancattaya-e.html,8
+mn102,de,German translation of MN 102 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m102z.html,2
+mn102,de,German translation of MN 102 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m102n.htm,4
 mn103,en,English translation of MN 103 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/103-kinti-e.html,8
+mn103,de,German translation of MN 103 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m103z.html,2
+mn103,de,German translation of MN 103 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m103n.htm,4
 mn104,en,English translation of MN 104 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/104-samagama-e.html,8
+mn104,de,German translation of MN 104 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m104z.html,2
+mn104,de,German translation of MN 104 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m104n.htm,4
 mn105,en,English translation of MN 105 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.105.than.html,3
 mn105,en,English translation of MN 105 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/105-sunakkhatta-e.html,8
+mn105,de,German translation of MN 105 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m105z.html,2
+mn105,de,German translation of MN 105 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m105n.htm,4
 mn106,en,English translation of MN 106 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.106.than.html,3
 mn106,en,English translation of MN 106 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/106-ananjasappaya-e.html,8
 mn106,fr,French translation of MN 106 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn106.html,1
+mn106,de,German translation of MN 106 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m106z.html,2
+mn106,de,German translation of MN 106 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m106n.htm,4
 mn107,en,English translation of MN 107 from Access to Insight. Translator I.B. Horner.,http://www.accesstoinsight.org/tipitaka/mn/mn.107.horn.html,2
 mn107,en,English translation of MN 107 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/107-ganakamoggallana-e.html,8
+mn107,de,German translation of MN 107 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m107z.html,2
+mn107,de,German translation of MN 107 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m107n.htm,4
 mn108,en,English translation of MN 108 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.108.than.html,3
 mn108,en,English translation of MN 108 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/108-gopakamoggallana-e.html,8
 mn108,fr,French translation of MN 108 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn108.html,1
+mn108,de,German translation of MN 108 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m108z.html,2
+mn108,de,German translation of MN 108 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m108n.htm,4
 mn109,en,English translation of MN 109 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.109.than.html,3
 mn109,en,English translation of MN 109 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/109-mahapunnama-e.html,8
+mn109,de,German translation of MN 109 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m109z.html,2
+mn109,de,German translation of MN 109 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m109n.htm,4
 mn110,en,English translation of MN 110 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.110.than.html,3
 mn110,en,English translation of MN 110 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/110-culapunnama-e.html,8
+mn110,de,German translation of MN 110 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m110z.html,2
+mn110,de,German translation of MN 110 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m110n.htm,4
 mn111,en,English translation of MN 111 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.111.than.html,3
 mn111,en,English translation of MN 111 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/111-anupada-e.html,8
+mn111,de,German translation of MN 111 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m111z.html,2
+mn111,de,German translation of MN 111 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m111n.htm,4
 mn112,en,English translation of MN 112 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/112-chabbisodhana-e.html,8
 mn112,fr,French translation of MN 112 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn112.html,1
+mn112,de,German translation of MN 112 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m112z.html,2
+mn112,de,German translation of MN 112 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m112n.htm,4
 mn113,en,English translation of MN 113 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/113-sappurisa-e.html,8
+mn113,de,German translation of MN 113 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m113z.html,2
+mn113,de,German translation of MN 113 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m113n.htm,4
 mn114,en,English translation of MN 114 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/114-sevitabba-asevitabba-e.html,8
+mn114,de,German translation of MN 114 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m114z.html,2
+mn114,de,German translation of MN 114 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m114n.htm,4
 mn115,en,English translation of MN 115 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/115-bahudhatuka-e.html,8
+mn115,de,German translation of MN 115 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m115z.html,2
+mn115,de,German translation of MN 115 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m115n.htm,4
 mn116,en,English translation of MN 116 from Access to Insight. Translator Piyadassi Thera.,http://www.accesstoinsight.org/tipitaka/mn/mn.116.piya.html,2
 mn116,en,English translation of MN 116 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/116-isigili-e.html,8
+mn116,de,German translation of MN 116 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m116z.html,2
+mn116,de,German translation of MN 116 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m116n.htm,4
 mn117,en,English translation of MN 117 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.117.than.html,3
 mn117,en,English translation of MN 117 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/117-mahacattarisaka-e.html,8
 mn117,fr,French translation of MN 117 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn117.html,1
+mn117,de,German translation of MN 117 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m117z.html,2
+mn117,de,German translation of MN 117 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m117n.htm,4
 mn118,en,From Ancient Buddhist Texts. Critical dual-language (Pali-English) translation of MN 118 by Anandajoti Bhikkhu.,http://www.ancient-buddhist-texts.net/Texts-and-Translations/Anapanasati/index.htm,1
 mn118,en,English translation of MN 118 from BPS. Translator Ñāṇamoli Thera. With introduction and notes.,http://www.bps.lk/olib/bp/bp502s.pdf,2
 mn118,en,English translation of MN 118 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.118.than.html,3
 mn118,fr,French translation of MN 118 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn118.html,1
+mn118,de,German translation of MN 118 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m118z.html,2
+mn118,de,German translation of MN 118 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m118n.htm,4
 mn119,en,From Ancient Buddhist Texts. Critical dual-language (Pali-English) translation of MN 119 by Anandajoti Bhikkhu.,http://www.ancient-buddhist-texts.net/Texts-and-Translations/Kayagatasati/index.htm,1
 mn119,en,English translation of MN 119 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.119.than.html,3
 mn119,en,English translation of MN 119 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/119-kayagatasati-e.html,8
+mn119,de,German translation of MN 119 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m119z.html,2
+mn119,de,German translation of MN 119 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m119n.htm,4
 mn120,en,English translation of MN 120 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/120-sankharuppatti-e.html,8
+mn120,de,German translation of MN 120 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m120z.html,2
+mn120,de,German translation of MN 120 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m120n.htm,4
 mn121,en,English translation of MN 121 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.121.than.html,3
 mn121,en,English translation of MN 121 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/121-culasunnata-e.html,8
 mn121,fr,French translation of MN 121 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn121.html,1
+mn121,de,German translation of MN 121 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m121z.html,2
+mn121,de,German translation of MN 121 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m121n.htm,4
 mn122,en,English translation of MN 122 from BPS. Translator Ñāṇamoli Thera. With introduction and notes.,http://www.bps.lk/olib/wh/wh087-u.html,2
 mn122,en,English translation of MN 122 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.122.than.html,3
 mn122,en,English translation of MN 122 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/122-mahasunnata-e.html,8
+mn122,de,German translation of MN 122 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m122z.html,2
+mn122,de,German translation of MN 122 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m122n.htm,4
 mn123,en,English translation of MN 123 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/123-acchariyabbhutta-e.html,8
 mn123,fr,French translation of MN 123 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn123.html,1
+mn123,de,German translation of MN 123 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m123z.html,2
+mn123,de,German translation of MN 123 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m123n.htm,4
 mn124,en,English translation of MN 124 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/124-bakkula-e.html,8
+mn124,de,German translation of MN 124 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m124z.html,2
+mn124,de,German translation of MN 124 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m124n.htm,4
 mn125,en,English translation of MN 125 from Access to Insight. Translator I.B. Horner.,http://www.accesstoinsight.org/tipitaka/mn/mn.125.horn.html,2
 mn125,en,English translation of MN 125 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/125-dantabhumi-e.html,8
+mn125,de,German translation of MN 125 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m125z.html,2
+mn125,de,German translation of MN 125 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m125n.htm,4
 mn126,en,English translation of MN 126 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.126.than.html,3
 mn126,en,English translation of MN 126 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/126-bhumija-e.html,8
+mn126,de,German translation of MN 126 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m126z.html,2
+mn126,de,German translation of MN 126 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m126n.htm,4
 mn127,en,English translation of MN 127 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/127-anuruddha-e.html,8
+mn127,de,German translation of MN 127 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m127z.html,2
+mn127,de,German translation of MN 127 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m127n.htm,4
 mn128,en,English translation of MN 128 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/128-upakkilesa-e.html,8
+mn128,de,German translation of MN 128 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m128z.html,2
+mn128,de,German translation of MN 128 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m128n.htm,4
 mn129,en,English translation of MN 129 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/129-balapandita-e.html,8
 mn129,fr,French translation of MN 129 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn129.html,1
+mn129,de,German translation of MN 129 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m129z.html,2
+mn129,de,German translation of MN 129 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m129n.htm,4
 mn130,en,English translation of MN 130 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/130-devaduta-e.html,8
 mn130,fr,French translation of MN 130 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn130.html,1
+mn130,de,German translation of MN 130 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m130z.html,2
+mn130,de,German translation of MN 130 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m130n.htm,4
 mn131,en,English translation of MN 131 from Access to Insight. Translator Bhikkhu Ñanananda.,http://www.accesstoinsight.org/tipitaka/mn/mn.131.nana.html,2
 mn131,en,English translation of MN 131 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.131.than.html,3
 mn131,en,English translation of MN 131 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/131-baddekaratta-e.html,8
+mn131,de,German translation of MN 131 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m131z.html,2
+mn131,de,German translation of MN 131 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m131n.htm,4
 mn132,en,English translation of MN 132 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/132-ananda-bhaddekaratta-e.html,8
+mn132,de,German translation of MN 132 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m132z.html,2
+mn132,de,German translation of MN 132 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m132n.htm,4
 mn133,en,English translation of MN 133 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/133-mahakaccana-bhaddekaratta-e.html,8
+mn133,de,German translation of MN 133 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m133z.html,2
+mn133,de,German translation of MN 133 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m133n.htm,4
 mn134,en,English translation of MN 134 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/134-lomasakangiya-bhaddekaratta-e.html,8
+mn134,de,German translation of MN 134 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m134z.html,2
+mn134,de,German translation of MN 134 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m134n.htm,4
 mn135,en,English translation of MN 135 from Access to Insight. Translator Ñanamoli Thera.,http://www.accesstoinsight.org/tipitaka/mn/mn.135.nymo.html,1
 mn135,en,English translation of MN 135 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.135.than.html,3
 mn135,en,English translation of MN 135 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/135-culakammavibhanga-e.html,8
 mn135,fr,French translation of MN 135 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn135.html,1
+mn135,de,German translation of MN 135 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m135z.html,2
+mn135,de,German translation of MN 135 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m135n.htm,4
 mn136,en,English translation of MN 136 from Access to Insight. Translator Ñanamoli Thera.,http://www.accesstoinsight.org/tipitaka/mn/mn.136.nymo.html,1
 mn136,en,English translation of MN 136 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/136-mahakammavibhanga-e.html,8
+mn136,de,German translation of MN 136 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m136z.html,2
+mn136,de,German translation of MN 136 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m136n.htm,4
 mn137,en,English translation of MN 137 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.137.than.html,3
 mn137,en,English translation of MN 137 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/137-salayatanavibhanga-e.html,8
+mn137,de,German translation of MN 137 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m137z.html,2
+mn137,de,German translation of MN 137 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m137n.htm,4
 mn138,en,English translation of MN 138 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.138.than.html,3
 mn138,en,English translation of MN 138 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/138-uddesavibhanga-e.html,8
+mn138,de,German translation of MN 138 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m138z.html,2
+mn138,de,German translation of MN 138 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m138n.htm,4
 mn139,en,English translation of MN 139 from BPS. Translator Ñāṇamoli Thera. With introduction and notes.,http://www.bps.lk/olib/wh/wh269-u.html,1
 mn139,en,English translation of MN 139 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/139-aranavibhanga-e.html,8
+mn139,de,German translation of MN 139 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m139z.html,2
+mn139,de,German translation of MN 139 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m139n.htm,4
 mn140,en,English translation of MN 140 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.140.than.html,3
 mn140,en,English translation of MN 140 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/140-dhatuvibhanga-e.html,8
 mn140,fr,French translation of MN 140 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn140.html,1
+mn140,de,German translation of MN 140 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m140z.html,2
+mn140,de,German translation of MN 140 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m140n.htm,4
 mn141,en,From Ancient Buddhist Texts. Critical dual-language (Pali-English) translation of MN 141 by Anandajoti Bhikkhu.,http://www.ancient-buddhist-texts.net/Texts-and-Translations/Short-Pieces/Saccavibhangasuttam.htm,1
 mn141,en,English translation of MN 141 from Access to Insight. Translator Piyadassi Thera.,http://www.accesstoinsight.org/tipitaka/mn/mn.141.piya.html,2
 mn141,en,English translation of MN 141 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.141.than.html,3
 mn141,en,English translation of MN 141 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/141-saccavibhanga-e.html,8
+mn141,de,German translation of MN 141 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m141z.html,2
+mn141,de,German translation of MN 141 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m141n.htm,4
 mn142,en,From Ancient Buddhist Texts. Critical dual-language (Pali-English) translation of MN 142 by Anandajoti Bhikkhu.,http://www.ancient-buddhist-texts.net/Texts-and-Translations/Short-Pieces/Dakkhinavibhangasuttam.htm,1
 mn142,en,English translation of MN 142 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/142-dakkinavibhanga-e.html,8
+mn142,de,German translation of MN 142 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m142z.html,2
+mn142,de,German translation of MN 142 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m142n.htm,4
 mn143,en,English translation of MN 143 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.143.than.html,3
 mn143,en,English translation of MN 143 (excerpt) from Access to Insight. Translator Andrew Olendzki.,http://www.accesstoinsight.org/tipitaka/mn/mn.143x.olen.html,4
 mn143,en,English translation of MN 143 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/143-anathapindikovada-e.html,8
+mn143,de,German translation of MN 143 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m143z.html,2
+mn143,de,German translation of MN 143 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m143n.htm,4
 mn144,en,English translation of MN 144 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/144-channovada-e.html,8
+mn144,de,German translation of MN 144 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m144z.html,2
+mn144,de,German translation of MN 144 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m144n.htm,4
 mn145,en,English translation of MN 145 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/145-punnovada-e.html,8
+mn145,de,German translation of MN 145 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m145z.html,2
+mn145,de,German translation of MN 145 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m145n.htm,4
 mn146,en,English translation of MN 146 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.146.than.html,3
 mn146,en,English translation of MN 146 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/146-nandakovada-e.html,8
+mn146,de,German translation of MN 146 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m146z.html,2
+mn146,de,German translation of MN 146 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m146n.htm,4
 mn147,en,English translation of MN 147 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.147.than.html,3
 mn147,en,English translation of MN 147 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/147-cularahulovada-e.html,8
+mn147,de,German translation of MN 147 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m147z.html,2
+mn147,de,German translation of MN 147 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m147n.htm,4
 mn148,en,English translation of MN 148 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.148.than.html,3
 mn148,en,English translation of MN 148 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/148-chachakka-e.html,8
+mn148,de,German translation of MN 148 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m148z.html,2
+mn148,de,German translation of MN 148 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m148n.htm,4
 mn149,en,English translation of MN 149 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.149.than.html,3
 mn149,en,English translation of MN 149 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/149-mahasalayatanika-e.html,8
 mn149,fr,French translation of MN 149 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn149.html,1
+mn149,de,German translation of MN 149 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m149z.html,2
+mn149,de,German translation of MN 149 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m149n.htm,4
 mn150,en,English translation of MN 150 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/150-nagaravindeyya-e.html,8
+mn150,de,German translation of MN 150 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m150z.html,2
+mn150,de,German translation of MN 150 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m150n.htm,4
 mn151,en,English translation of MN 151 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/151-pindapataparisuddhi-e.html,8
+mn151,de,German translation of MN 151 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m151z.html,2
+mn151,de,German translation of MN 151 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m151n.htm,4
 mn152,en,English translation of MN 152 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/mn/mn.152.than.html,3
 mn152,en,English translation of MN 152 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima3/152-indriyabhavana-e.html,8
 mn152,fr,French translation of MN 152 from Accès au Canon Pali (translated from English translation on Access to Insight).,http://www.canonpali.org/tipitaka/suttapitaka/majjhima/mn152.html,1
+mn152,de,German translation of MN 152 from palikanon.com. Translator Kay Zumwinkel.,http://palikanon.com/majjhima/zumwinkel/m152z.html,2
+mn152,de,German translation of MN 152 from palikanon.de. Translator Karl Eugen Neumann.,http://palikanon.de/majjhima/m152n.htm,4
 sn1.1,en,English translation of SN 1.1 from Access to Insight. Translator Thanissaro Bhikkhu.,http://www.accesstoinsight.org/tipitaka/sn/sn01/sn01.001.than.html,3
 sn1.1,en,English translation of SN 1.1 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/Samyutta1/01-Devata-Samyutta/01-Nalavaggo-e.html,9
 sn1.2,en,English translation of SN 1.2 from Metta Net. Translator Sister Uppalavanna.,http://www.metta.lk/tipitaka/2Sutta-Pitaka/3Samyutta-Nikaya/Samyutta1/01-Devata-Samyutta/01-Nalavaggo-e.html,9
