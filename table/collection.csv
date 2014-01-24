@@ -1,22 +1,22 @@
 uid,language,sect_uid,pitaka_uid,name,abbrev_name,menu_seq
-pi.su,pi,,su,Pāli Suttas,P S,1
-zh.su,zh,,su,Chinese Sūtras,C S,2
-skt.su,skt,,su,Sanskrit Texts,Skt S,3
-bo.su,bo,,su,Tibetan Texts,Tib,4
-oth.su,oth,,su,Other Texts,Other,5
-pi.theravada.vi,pi,theravada,vi,Pāli Theravāda Vinaya,P ? V,6
-zh.mahasanghika.vi,zh,mahasanghika,vi,Chinese Mahāsaṅghika Vinaya,C ? V,7
-zh.mahisasaka.vi,zh,mahisasaka,vi,Chinese Mahīśāsaka Vinaya,C ? V,8
-zh.dharmaguptaka.vi,zh,dharmaguptaka,vi,Chinese Dharmaguptaka Vinaya,C ? V,9
-zh.sarvastivada.vi,zh,sarvastivada,vi,Chinese Sarvāstivāda Vinaya,C ? V,10
-zh.mulasarvastivada.vi,zh,mulasarvastivada,vi,Chinese Mūlasarvāstivāda Vinaya,C ? V,11
-zh.oth.vi,zh,other,vi,Other Chinese Vinaya,Other C V,12
-skt.mahasanghika.vi,skt,mahasanghika,vi,Sanskrit Mahāsaṅghika Vinaya,Skt ? V,13
-skt.lokuttaravada.vi,skt,lokuttaravada,vi,Sanskrit Lokuttaravāda Vinaya,Skt ? V,14
-skt.sarvastivada.vi,skt,sarvastivada,vi,Sanskrit Sarvāstivāda Vinaya,Skt ? V,15
-skt.mulasarvastivada.vi,skt,mulasarvastivada,vi,Sanskrit Mūlasarvāstivāda Vinaya,Skt ? V,16
-bo.mulasarvastivada.vi,bo,mulasarvastivada,vi,Tibetan Mūlasarvāstivāda Vinaya,Tib ? V,17
-pi.theravada.ab,pi,theravada,ab,Pāli Theravāda Abhidhamma,P ? A,18
-zh.sarvastivada.ab,zh,sarvastivada,ab,Chinese Sarvāstivāda Abhidharma,C ? A,19
-zh.dharmaguptaka.ab,zh,dharmaguptaka,ab,Chinese Dharmaguptaka Abhidharma,C ? A,20
-skt.sarvastivada.ab,skt,sarvastivada,ab,Sanskrit Sarvāstivāda Abhidharma,Skt ? A,21
+pi-su,pi,,su,Pāli Suttas,P S,1
+zh-su,zh,,su,Chinese Sūtras,C S,2
+skt-su,skt,,su,Sanskrit Texts,Skt S,3
+bo-su,bo,,su,Tibetan Texts,Tib,4
+oth-su,oth,,su,Other Texts,Other,5
+pi-tv-vi,pi,tv,vi,Pāli Theravāda Vinaya,P ? V,6
+zh-mg-vi,zh,mg,vi,Chinese Mahāsaṅghika Vinaya,C ? V,7
+zh-mi-vi,zh,mi,vi,Chinese Mahīśāsaka Vinaya,C ? V,8
+zh-dg-vi,zh,dg,vi,Chinese Dharmaguptaka Vinaya,C ? V,9
+zh-sv-vi,zh,sv,vi,Chinese Sarvāstivāda Vinaya,C ? V,10
+zh-mu-vi,zh,mu,vi,Chinese Mūlasarvāstivāda Vinaya,C ? V,11
+zh-oth-vi,zh,other,vi,Other Chinese Vinaya,Other C V,12
+skt-mg-vi,skt,mg,vi,Sanskrit Mahāsaṅghika Vinaya,Skt ? V,13
+skt-lo-vi,skt,lo,vi,Sanskrit Lokuttaravāda Vinaya,Skt ? V,14
+skt-sv-vi,skt,sv,vi,Sanskrit Sarvāstivāda Vinaya,Skt ? V,15
+skt-mu-vi,skt,mu,vi,Sanskrit Mūlasarvāstivāda Vinaya,Skt ? V,16
+bo-mu-vi,bo,mu,vi,Tibetan Mūlasarvāstivāda Vinaya,Tib ? V,17
+pi-tv-ab,pi,tv,ab,Pāli Theravāda Abhidhamma,P ? A,18
+zh-sv-ab,zh,sv,ab,Chinese Sarvāstivāda Abhidharma,C ? A,19
+zh-dg-ab,zh,dg,ab,Chinese Dharmaguptaka Abhidharma,C ? A,20
+skt-sv-ab,skt,sv,ab,Sanskrit Sarvāstivāda Abhidharma,Skt ? A,21
