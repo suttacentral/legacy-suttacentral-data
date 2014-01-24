@@ -1,126 +1,126 @@
-uid,collection_uid,name,alt_name,acronym,subdiv_ind,menu_seq,menu_gwn_ind
-dn,pi.su,Dīgha Nikāya,,DN,,1,
-mn,pi.su,Majjhima Nikāya,,MN,,2,
-sn,pi.su,Saṃyutta Nikāya,,SN,1,3,
-an,pi.su,Aṅguttara Nikāya,,AN,1,4,
-kn,pi.su,Khuddaka Nikāya,,KhN,1,5,
-da,zh.su,Dīrghāgama,,DA [T 1],,1,
-ma,zh.su,Madhyamāgama,,MA [T 26],,2,
-sa,zh.su,Saṃyuktāgama (1st),,SA [T 99],1,3,
-sa-2,zh.su,Saṃyuktāgama (2nd),,SA2 [T 100],,4,
-sa-3,zh.su,Saṃyuktāgama (3rd),,SA3 [T 101],,5,
-ea,zh.su,Ekottarikāgama (1st),,EA [T 125],1,6,
-ea-2,zh.su,Ekottarikāgama (2nd),,EA2 [T 150A],,7,
-oa,zh.su,Other Āgama Sūtras,,T,1,8,
-ot,zh.su,Other Taishō Texts,,T 152−End,,9,
-arv,skt.su,Arthaviniścaya,,Arv,,1,
-avs,skt.su,Avadānaśataka,,Avs,,2,
-divy,skt.su,Divyāvadāna,,Divy,,3,
-lal,skt.su,Lalitavistara,,Lal,,4,
-mvu,skt.su,Mahāvastu,,Mvu,,5,
-uv,skt.su,Udānavarga,,UV,,6,
-sbv,skt.su,Saṅgha­bheda­vastu,,Sbv,,7,
-sht,skt.su,SHT fragments,,SHT,1,8,
-sf,skt.su,Other Fragments,,SF,,9,
-dq,bo.su,Derge / Peking editions,,D / Q,,1,
-up,bo.su,Upāyikā,Abhidharma­kośa­ṭīk­opāyikā,Up,,2,
-tc,bo.su,Critical editions,,Tib ed,,3,
-pf,oth.su,Prākrit fragments,,Prak frgm,,1,
-gf,oth.su,Gāndhārī fragments,,Gandh frgm,,2,
-kf,oth.su,Khotanese fragments,,Khot frgm,,3,
-uf,oth.su,Uighur fragments,,Uigh frgm,,4,
-mv,pi.theravada.vi,Bhikkhu Vibhaṅga,Mahāvagga,? Mv,,1,1
-cv,pi.theravada.vi,Bhikkhunī Vibhaṅga,Cūḷavagga,? Cv,,2,1
-theravada.khandhaka,pi.theravada.vi,Khandhaka,,?,,3,1
-prv,pi.theravada.vi,Parivāra,,Prv,,4,
-svbh,pi.theravada.vi,Sutta Vibhaṅga,,Svbh,,5,
-theravada.bhikkhu.patimokkha,pi.theravada.vi,Bhikkhu Pātimokkha,,?,,6,
-theravada.bhikkhuni.patimokkha,pi.theravada.vi,Bhikkhunī Pātimokkha,,?,,7,
-zh.mahasanghika.mv,zh.mahasanghika.vi,Bhikkhu Vibhaṅga,Mahāvagga,? Mv,,1,1
-zh.mahasanghika.bhikkhu.pakinnaka,zh.mahasanghika.vi,Bhikkhu Pakiṇṇaka,,?,,2,1
-zh.mahasanghika.abhisamacarika,zh.mahasanghika.vi,Abhisamācārika,,?,,3,1
-zh.mahasanghika.cv,zh.mahasanghika.vi,Bhikkhunī Vibhaṅga,Cūḷavagga,? Cv,,4,1
-zh.mahasanghika.bhikkhuni.pakinnaka,zh.mahasanghika.vi,Bhikkhunī Pakiṇṇaka,,?,,5,
-zh.mahasanghika.bhikkhu.patimokkha,zh.mahasanghika.vi,Bhikkhu Pātimokkha,,?,,6,
-zh.mahasanghika.bhikkhuni.patimokkha,zh.mahasanghika.vi,Bhikkhunī Pātimokkha,,?,,7,
-sariputrapariprccha,zh.mahasanghika.vi,Śāriputraparipṛcchā,,?,,8,
-mahisasaka.mv,zh.mahisasaka.vi,Bhikkhu Vibhaṅga,Mahāvagga,? Mv,,1,1
-mahisasaka.cv,zh.mahisasaka.vi,Bhikkhunī Vibhaṅga,Cūḷavagga,? Cv,,2,1
-mahisasaka.khandhaka,zh.mahisasaka.vi,Khandhaka,,?,,3,
-mahisasaka.bhikkhu.patimokkha,zh.mahisasaka.vi,Bhikkhu Pātimokkha,,?,,4,
-mahisasaka.bhikkhuni.patimokkha,zh.mahisasaka.vi,Bhikkhunī Pātimokkha,,?,,5,
-mahisasaka.bhikkhu.kammavaca,zh.mahisasaka.vi,Bhikkhu Kammavācā,,?,,6,
-dharmaguptaka.mv,zh.dharmaguptaka.vi,Bhikkhu Vibhaṅga,Mahāvagga,? Mv,,1,1
-dharmaguptaka.cv,zh.dharmaguptaka.vi,Bhikkhunī Vibhaṅga,Cūḷavagga,? Cv,,2,1
-dharmaguptaka.khandhaka,zh.dharmaguptaka.vi,Khandhaka,,?,,3,1
-dharmaguptaka.samyutta,zh.dharmaguptaka.vi,Saṁyutta,,?,,4,1
-dharmaguptaka.ekottara,zh.dharmaguptaka.vi,Ekottara,,?,,5,
-dharmaguptaka.bhikkhu.patimokkha.1,zh.dharmaguptaka.vi,Bhikkhu Pātimokkha (1st),,?,,6,
-dharmaguptaka.bhikkhu.patimokkha.2,zh.dharmaguptaka.vi,Bhikkhu Pātimokkha (2nd),,?,,7,
-dharmaguptaka.bhikkhuni.patimokkha,zh.dharmaguptaka.vi,Bhikkhunī Pātimokkha,,?,,8,
-dharmaguptaka.bhikkhu.kammavaca.1,zh.dharmaguptaka.vi,Bhikkhu Kammavācā (1st),,?,,9,
-dharmaguptaka.bhikkhu.kammavaca.2,zh.dharmaguptaka.vi,Bhikkhu Kammavācā (2nd),,?,,10,
-dharmaguptaka.bhikkhuni.kammavaca,zh.dharmaguptaka.vi,Bhikkhunī Kammavācā,,?,,11,
-sarvastivada.mv,zh.sarvastivada.vi,Bhikkhu Vibhaṅga,Mahāvagga,? Mv,,1,1
-sarvastivada.khandhaka,zh.sarvastivada.vi,Khandhaka,,?,,2,1
-sarvastivada.mv,zh.sarvastivada.vi,Bhikkhunī Vibhaṅga,Cūḷavagga,? Cv,,3,1
-sarvastivada.ekottara,zh.sarvastivada.vi,Ekottara,,?,,4,1
-upaliparipuccha,zh.sarvastivada.vi,Upāliparipucchā,,?,,5,1
-sarvastivada.bhikkhu.ajjhaya,zh.sarvastivada.vi,Bhikkhu Ajjhāya,,?,,6,
-sarvastivada.bhikkhu.patimokkha.1,zh.sarvastivada.vi,Bhikkhu Pātimokkha (1st),,?,,7,
-sarvastivada.bhikkhu.patimokkha.2,zh.sarvastivada.vi,Bhikkhu Pātimokkha (2nd),,?,,8,
-sarvastivada.bhikkhuni.patimokkha,zh.sarvastivada.vi,Bhikkhunī Pātimokkha,,?,,9,
-sarvastivada.bhikkhu.kammavaca.1,zh.sarvastivada.vi,Bhikkhu Kammavācā (1st),,?,,10,
-sarvastivada.bhikkhu.kammavaca.2,zh.sarvastivada.vi,Bhikkhu Kammavācā (2nd),,?,,11,
-sarvastivada.matika,zh.sarvastivada.vi,Mātikā,,?,,12,
-mulasarvastivada.mv,zh.mulasarvastivada.vi,Bhikkhu Vibhaṅga,Mahāvagga,? Mv,,1,1
-mulasarvastivada.cv,zh.mulasarvastivada.vi,Bhikkhunī Vibhaṅga,,? Cv,,2,1
-mulasarvastivada.khandhaka,zh.mulasarvastivada.vi,Khandhaka,,?,,3,1
-mulasarvastivada.khuddakavatthu,zh.mulasarvastivada.vi,Khuddakavatthu,,?,,4,
-mulasarvastivada.bhikkhu.patimokkha,zh.mulasarvastivada.vi,Bhikkhu Pātimokkha,,?,,5,
-mulasarvastivada.bhikkhuni.patimokkha,zh.mulasarvastivada.vi,Bhikkhunī Pātimokkha,,?,,6,
-mulasarvastivada.bhikkhu.kammavaca,zh.mulasarvastivada.vi,Bhikkhu Kammavācā,,?,,7,
-kasyapiya.patimokkha,zh.oth.vi,Kāśyapīya Pātimokkha,,?,,1,
-sammitiya.sastra,zh.oth.vi,Saṁmitīya Śāstra,,?,,2,
-upalipariprccha,zh.oth.vi,Upāliparipṛcchā,,?,,3,
-other.matika,zh.oth.vi,Mātikā,,?,,4,
-skt.mahasanghika.bhikkhu.patimokkha,skt.mahasanghika.vi,Bhikkhu Pātimokkha,,?,,1,
-srighanacarasamgrahatika,skt.mahasanghika.vi,Śrīghanācārasaṁgrahaṭīkā,,?,,2,
-lokuttaravada.cv,skt.lokuttaravada.vi,Bhikkhunī Vibhaṅga,Cūḷavagga,? Cv,,1,1
-lokuttaravada.bhikkhuni.pakinnaka,skt.lokuttaravada.vi,Bhikkhunī Pakiṇṇaka,,?,,2,1
-lokuttaravada.bhikkhu.pakinnaka,skt.lokuttaravada.vi,Bhikkhu Pakiṇṇaka,,?,,3,
-lokuttaravada.bhikkhu.patimokkha,skt.lokuttaravada.vi,Bhikkhu Pātimokkha,,?,,4,
-lokuttaravada.abhisamacarika,skt.lokuttaravada.vi,Abhisamācārika,,?,,5,
-skt.sarvastivada.bhikkhu.patimokkha.1,skt.sarvastivada.vi,Bhikkhu Pātimokkha (1st),,?,,1,
-skt.sarvastivada.bhikkhu.patimokkha.2,skt.sarvastivada.vi,Bhikkhu Pātimokkha (2nd),,?,,2,
-skt.sarvastivada.bhikkhu.kammavaca,skt.sarvastivada.vi,Bhikkhu Kammavācā,,?,,3,
-skt.sarvastivada.bhikkhuni.kammavaca,skt.sarvastivada.vi,Bhikkhunī Kammavācā,,?,,4,
-skt.mulasarvastivada.khandhaka,skt.mulasarvastivada.vi,Khandhaka,,?,,1,
-skt.mulasarvastivada.bhikkhu.patimokkha.1,skt.mulasarvastivada.vi,Bhikkhu Pātimokkha (1st),,?,,2,
-skt.mulasarvastivada.bhikkhu.patimokkha.2,skt.mulasarvastivada.vi,Bhikkhu Pātimokkha (2nd),,?,,3,
-skt.mulasarvastivada.bhikkhu.kammavaca,skt.mulasarvastivada.vi,Bhikkhu Kammavācā,,?,,4,
-bo.mulasarvastivada.khandhaka,bo.mulasarvastivada.vi,Khandhaka,,?,,1,1
-bo.mulasarvastivada.bhikkhu.patimokkha,bo.mulasarvastivada.vi,Bhikkhu Pātimokkha,,?,,2,1
-bo.mulasarvastivada.mv,bo.mulasarvastivada.vi,Bhikkhu Vibhaṅga,Mahāvagga,? Mv,,3,1
-bo.mulasarvastivada.bhikkhuni.patimokkha,bo.mulasarvastivada.vi,Bhikkhunī Pātimokkha,,?,,4,1
-bo.mulasarvastivada.cv,bo.mulasarvastivada.vi,Bhikkhunī Vibhaṅga,Cūḷavagga,? Cv,,5,1
-bo.mulasarvastivada.khuddakavatthu,bo.mulasarvastivada.vi,Khuddakavatthu,,?,,6,1
-bo.mulasarvastivada.uttaragantha.1,bo.mulasarvastivada.vi,Uttaragantha (1st),,?,,7,1
-bo.mulasarvastivada.uttaragantha.2,bo.mulasarvastivada.vi,Uttaragantha (2nd),,?,,8,
-bo.mulasarvastivada.bhikkhu.kammavaca,bo.mulasarvastivada.vi,Bhikkhu Kammavācā,,?,,9,
-dhs,pi.theravada.ab,Dhammasaṅgaṇī,,Dhs,,1,
-vbh,pi.theravada.ab,Vibhaṅga,,Vbh,,2,
-dhatuk,pi.theravada.ab,Dhātukathā,,Dhatuk,,3,
-pp,pi.theravada.ab,Puggalapaññatti,,Pp,,4,
-kv,pi.theravada.ab,Kathāvatthu,,Kv,,5,
-yam,pi.theravada.ab,Yamaka,,Yam,,6,
-patth,pi.theravada.ab,Paṭṭhāna,,Patth,,7,
-sangitiparyaya,zh.sarvastivada.ab,Saṅgītiparyāya,,?,,1,
-zh.dharmaskandha,zh.sarvastivada.ab,Dharmaskandha,,?,,2,
-prajnaptisastra,zh.sarvastivada.ab,Prajnaptiśāstra,,?,,3,
-dhatukaya,zh.sarvastivada.ab,Dhātukāya,,?,,4,
-vijnanakaya,zh.sarvastivada.ab,Vijnānakāya,,?,,5,
-prakaranapada,zh.sarvastivada.ab,Prakaraṇapada,,?,,6,
-jnanaprasthana,zh.sarvastivada.ab,Jnānaprasthāna,,?,,7,
-sariputrabhidharma,zh.dharmaguptaka.ab,Śāripūtrābhidharma,,?,,1,
-skt.dharmaskandha,skt.sarvastivada.ab,Dharmaskandha,,?,,1,
+uid,collection_uid,name,alt_name,acronym,subdiv_ind,menu_gwn_ind
+dn,pi.su,Dīgha Nikāya,,DN,,
+mn,pi.su,Majjhima Nikāya,,MN,,
+sn,pi.su,Saṃyutta Nikāya,,SN,1,
+an,pi.su,Aṅguttara Nikāya,,AN,1,
+kn,pi.su,Khuddaka Nikāya,,KhN,1,
+da,zh.su,Dīrghāgama,,DA [T 1],,
+ma,zh.su,Madhyamāgama,,MA [T 26],,
+sa,zh.su,Saṃyuktāgama (1st),,SA [T 99],1,
+sa-2,zh.su,Saṃyuktāgama (2nd),,SA2 [T 100],,
+sa-3,zh.su,Saṃyuktāgama (3rd),,SA3 [T 101],,
+ea,zh.su,Ekottarikāgama (1st),,EA [T 125],1,
+ea-2,zh.su,Ekottarikāgama (2nd),,EA2 [T 150A],,
+oa,zh.su,Other Āgama Sūtras,,T,1,
+ot,zh.su,Other Taishō Texts,,T 152−End,,
+arv,skt.su,Arthaviniścaya,,Arv,,
+avs,skt.su,Avadānaśataka,,Avs,,
+divy,skt.su,Divyāvadāna,,Divy,,
+lal,skt.su,Lalitavistara,,Lal,,
+mvu,skt.su,Mahāvastu,,Mvu,,
+uv,skt.su,Udānavarga,,UV,,
+sbv,skt.su,Saṅgha­bheda­vastu,,Sbv,,
+sht,skt.su,SHT fragments,,SHT,1,
+sf,skt.su,Other Fragments,,SF,,
+,,,,,,
+,,,,,,
+dq,bo-su,Derge / Peking editions,,D / Q,,
+up,bo-su,Upāyikā,Abhidharma­kośa­ṭīk­opāyikā,Up,,
+tc,bo-su,Critical editions,,Tib ed,,
+pf,oth-su,Prākrit fragments,,Prak frgm,,
+gf,oth-su,Gāndhārī fragments,,Gandh frgm,,
+kf,oth-su,Khotanese fragments,,Khot frgm,,
+uf,oth-su,Uighur fragments,,Uigh frgm,,
+pi-tv-bu-vb,pi-tv-vi,Theravāda Bhikkhu Vibhaṅga,,,,1
+pi-tv-bi-vb,pi-tv-vi,Bhikkhunī Vibhaṅga,,,,1
+pi-tv-kd,pi-tv-vi,Khandhaka,,,,1
+pi-tv-pvr,pi-tv-vi,Parivāra,,,,
+pi-tv-bu-pm,pi-tv-vi,Bhikkhu Pātimokkha,,,,
+pi-tv-bi-pm,pi-tv-vi,Bhikkhunī Pātimokkha,,,,
+zh-mg-bu-vb,zh-mg-vi,Bhikkhu Vibhaṅga,,,,1
+zh-mg-bu-pakinnaka,zh-mg-vi,Bhikkhu Pakiṇṇaka,,,,1
+zh-mg-abhisamacarika,zh-mg-vi,Abhisamācārika,,,,1
+zh-mg-cv,zh-mg-vi,Bhikkhunī Vibhaṅga,,,,1
+zh-mg-bi-pakinnaka,zh-mg-vi,Bhikkhunī Pakiṇṇaka,,,,
+zh-mg-bu-pm,zh-mg-vi,Bhikkhu Pātimokkha,,,,
+zh-mg-bi-pm,zh-mg-vi,Bhikkhunī Pātimokkha,,,,
+sariputrapariprccha,zh-mg-vi,Śāriputraparipṛcchā,,,,
+zh-mi-bu-vb,zh-mi-vi,Bhikkhu Vibhaṅga,,,,1
+zh-mi-bi-vb,zh-mi-vi,Bhikkhunī Vibhaṅga,,,,1
+zh-mi-kd,zh-mi-vi,Khandhaka,,,,
+zh-mi-bu-pm,zh-mi-vi,Bhikkhu Pātimokkha,,,,
+zh-mi-bi-pm,zh-mi-vi,Bhikkhunī Pātimokkha,,,,
+zh-mi-bu-kammavaca,zh-mi-vi,Bhikkhu Kammavācā,,,,
+zh-dg-bu-vb,zh-dg-vi,Bhikkhu Vibhaṅga,,,,1
+zh-dg-bi-vb,zh-dg-vi,Bhikkhunī Vibhaṅga,,,,1
+zh-dg-kd,zh-dg-vi,Khandhaka,,,,1
+zh-dg-samyutta,zh-dg-vi,Saṁyutta,,,,1
+zh-dg-ekottara,zh-dg-vi,Ekottara,,,,
+zh-dg-bu-pm,zh-dg-vi,Bhikkhu Pātimokkha (1st),,,,
+zh-dg-bu-pm-2,zh-dg-vi,Bhikkhu Pātimokkha (2nd),,,,
+zh-dg-bi-pm,zh-dg-vi,Bhikkhunī Pātimokkha,,,,
+zh-dg-bu-kammavaca,zh-dg-vi,Bhikkhu Kammavācā (1st),,,,
+zh-dg-bu-kammavaca-2,zh-dg-vi,Bhikkhu Kammavācā (2nd),,,,
+zh-dg-bi-kammavaca,zh-dg-vi,Bhikkhunī Kammavācā,,,,
+zh-sv-bu-vb,zh-sv-vi,Bhikkhu Vibhaṅga,,,,1
+zh-sv-kd,zh-sv-vi,Khandhaka,,,,1
+zh-sv-bi-vb,zh-sv-vi,Bhikkhunī Vibhaṅga,,,,1
+zh-sv-ekottara,zh-sv-vi,Ekottara,,,,1
+zh-sv-paripuccha,zh-sv-vi,Upāliparipucchā,,,,1
+zh-sv-bu-ajjhaya,zh-sv-vi,Bhikkhu Ajjhāya,,,,
+zh-sv-bu-pm,zh-sv-vi,Bhikkhu Pātimokkha (1st),,,,
+zh-sv-bu-pm-2,zh-sv-vi,Bhikkhu Pātimokkha (2nd),,,,
+zh-sv-bi-pm,zh-sv-vi,Bhikkhunī Pātimokkha,,,,
+zh-sv-bu-kammavaca,zh-sv-vi,Bhikkhu Kammavācā (1st),,,,
+zh-sv-bu-kammavaca-2,zh-sv-vi,Bhikkhu Kammavācā (2nd),,,,
+zh-sv-matika,zh-sv-vi,Mātikā,,,,
+zh-mu-bu-vb,zh-mu-vi,Bhikkhu Vibhaṅga,,,,1
+zh-mu-bi-vb,zh-mu-vi,Bhikkhunī Vibhaṅga,,,,1
+zh-mu-kd,zh-mu-vi,Khandhaka,,,,1
+zh-mu-khuddakavatthu,zh-mu-vi,Khuddakavatthu,,,,
+zh-mu-bu-pm,zh-mu-vi,Bhikkhu Pātimokkha,,,,
+zh-mu-bi-pm,zh-mu-vi,Bhikkhunī Pātimokkha,,,,
+zh-mu-bu-kammavaca,zh-mu-vi,Bhikkhu Kammavācā,,,,
+kasyapiya-pm,zh-oth-vi,Kāśyapīya Pātimokkha,,,,
+sammitiya-sastra,zh-oth-vi,Saṁmitīya Śāstra,,,,
+pariprccha,zh-oth-vi,Upāliparipṛcchā,,,,
+other-matika,zh-oth-vi,Mātikā,,,,
+skt-mg-bu-pm,skt-mg-vi,Bhikkhu Pātimokkha,,,,
+skt-lo-bu-vb,skt-lo-vi,Bhikkhunī Vibhaṅga,,,,1
+skt-lo-bi-pakinnaka,skt-lo-vi,Bhikkhunī Pakiṇṇaka,,,,1
+skt-lo-bu-pakinnaka,skt-lo-vi,Bhikkhu Pakiṇṇaka,,,,
+skt-lo-bu-pm,skt-lo-vi,Bhikkhu Pātimokkha,,,,
+skt-lo-abhisamacarika,skt-lo-vi,Abhisamācārika,,,,
+skt-sv-bu-pm,skt-sv-vi,Bhikkhu Pātimokkha (1st),,,,
+skt-sv-bu-pm-2,skt-sv-vi,Bhikkhu Pātimokkha (2nd),,,,
+skt-sv-bu-kammavaca,skt-sv-vi,Bhikkhu Kammavācā,,,,
+skt-sv-bi-kammavaca,skt-sv-vi,Bhikkhunī Kammavācā,,,,
+skt-mu-khandhaka,skt-mu-vi,Khandhaka,,,,
+skt-mu-bu-pm,skt-mu-vi,Bhikkhu Pātimokkha (1st),,,,
+skt-mu-bu-pm-2,skt-mu-vi,Bhikkhu Pātimokkha (2nd),,,,
+skt-mu-bu-kammavaca,skt-mu-vi,Bhikkhu Kammavācā,,,,
+bo-mu-khandhaka,bo-mu-vi,Khandhaka,,,,1
+bo-mu-bu-pm,bo-mu-vi,Bhikkhu Pātimokkha,,,,1
+bo-mu-mv,bo-mu-vi,Bhikkhu Vibhaṅga,,,,1
+bo-mu-bi-pm,bo-mu-vi,Bhikkhunī Pātimokkha,,,,1
+bo-mu-bi-vb,bo-mu-vi,Bhikkhunī Vibhaṅga,,,,1
+bo-mu-khuddakavatthu,bo-mu-vi,Khuddakavatthu,,,,1
+bo-mu-uttaragantha,bo-mu-vi,Uttaragantha (1st),,,,1
+bo-mu-uttaragantha-2,bo-mu-vi,Uttaragantha (2nd),,,,
+bo-mu-bu-kammavaca,bo-mu-vi,Bhikkhu Kammavācā,,,,
+dhs,pi-tv-ab,Dhammasaṅgaṇī,,,,
+vbh,pi-tv-ab,Vibhaṅga,,,,
+dhatuk,pi-tv-ab,Dhātukathā,,,,
+pp,pi-tv-ab,Puggalapaññatti,,,,
+kv,pi-tv-ab,Kathāvatthu,,,,
+yam,pi-tv-ab,Yamaka,,,,
+patth,pi-tv-ab,Paṭṭhāna,,,,
+sangitiparyaya,zh-sv-ab,Saṅgītiparyāya,,,,
+zh-dharmaskandha,zh-sv-ab,Dharmaskandha,,,,
+prajnaptisastra,zh-sv-ab,Prajnaptiśāstra,,,,
+dhatukaya,zh-sv-ab,Dhātukāya,,,,
+vijnanakaya,zh-sv-ab,Vijnānakāya,,,,
+prakaranapada,zh-sv-ab,Prakaraṇapada,,,,
+jnanaprasthana,zh-sv-ab,Jnānaprasthāna,,,,
+sariputrabhidharma,zh-dg-ab,Śāripūtrābhidharma,,,,
+skt-dharmaskandha,skt-sv-ab,Dharmaskandha,,,,
