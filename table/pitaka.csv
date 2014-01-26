@@ -1,4 +1,4 @@
-uid,name
-su,Sutta
-vi,Vinaya
-ab,Abhidhamma
+uid,name,always_full
+su,Sutta,0
+vi,Vinaya,1
+ab,Abhidhamma,0
