@@ -17,8 +17,9 @@ skt-sv-vi,skt,sv,vi,Sanskrit Sarvāstivāda Vinaya,Skt ? V
 skt-mu-vi,skt,mu,vi,Sanskrit Mūlasarvāstivāda Vinaya,Skt ? V
 skt-oth-vi,skt,other,vi,Other Sanskrit Vinaya,
 bo-mu-vi,bo,mu,vi,Tibetan Mūlasarvāstivāda Vinaya,Tib ? V
+gr-dg-vi,oth,dg,vi,Gandhari Dharmaguptaka Vinaya, Gr Dg Vi
+oth-vi,oth,oth-gr,vi,Vinaya Fragments, Gr ? V
 pi-tv-ab,pi,tv,ab,Pāli Theravāda Abhidhamma,P ? A
 zh-sv-ab,zh,sv,ab,Chinese Sarvāstivāda Abhidharma,C ? A
 zh-dg-ab,zh,dg,ab,Chinese Dharmaguptaka Abhidharma,C ? A
 skt-sv-ab,skt,sv,ab,Sanskrit Sarvāstivāda Abhidharma,Skt ? A
-oth-oth-vi,oth,other,vi,Gandhari Dharmaguptaka Vinaga, Gr Dg Vi
