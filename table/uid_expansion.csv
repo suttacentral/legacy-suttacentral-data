@@ -37,19 +37,25 @@ ud,Ud ,
 uf,Uigh ,
 up,Up ,
 uv,UV ,
+# Languages ,,
 pi,Pi,Pāli
 zh,Zh,Chinese
+skt,Skt,Sanskrit
+gr,Gr,Gāndhārī
+bo,Bo,Tibetan
+,,,
+# Pitaka ,,
+ab,Ab,Abhidhamma
+su,Su,Suttas
+vi,Vi,Vinaya
+,,,
+# Sects,,
 tv,Tv,Theravāda
-bu,Bu,Bhikkhu
-bi,Bi,Bhikkhunī
 vb,Vb,Vibhaṅga
 pm,Pm,Pātimokkha
 pvr,Pvr,Parivāra
 sv,Sv,Sarvāstivāda
-tf,Tf,Turfan
-finot,Finot,Finot
 mu,Mu,Mūlasarvāstivāda
-bo,Bo,Tibetan
 mbt,Mbt,Mahāvyutpatti
 mi,Mi,Mahīśāsaka
 mg,Mg,Mahāsaṅghika
@@ -57,11 +63,14 @@ lo,Lo,Lokuttaravāda
 dg,Dg,Dharmaguptaka
 ka,Ka,Kāśyapīya
 upali,Upali,Upāliparipṛcchā
-gr,Gr,Gāndhārī
+,,,
+# Names ,,
 bf,Bf,Bajaur
 qizil,Qizil,Qizil
-su,Su,Suttas
-vi,Vi,Vinaya
+tf,Tf,Turfan
+finot,Finot,Finot
+,,,
+# Vinaya Rule Classes,,
 pj,Pj,Pārājika
 ss,Ss,Saṅghādisesā
 an,An,Aniyatā
@@ -70,3 +79,8 @@ pc,Pc,Pācittiyā
 pd,Pd,Pāṭidesanīyā
 sk,Sk,Sekhiyā
 as,As,Adhikaraṇasamathā
+,,,
+# Misc ,,
+bu,Bu,Bhikkhu
+bi,Bi,Bhikkhunī
+
