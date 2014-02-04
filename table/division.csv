@@ -39,11 +39,10 @@ pi-tv-pvr-bi,pi-tv-vi,Bhikkhunī Parivāra,,,,
 pi-tv-bu-pm,pi-tv-vi,Bhikkhu Pātimokkha,,,,
 pi-tv-bi-pm,pi-tv-vi,Bhikkhunī Pātimokkha,,,,
 zh-mg-bu-vb,zh-mg-vi,Bhikkhu Vibhaṅga,,,,1
+zh-mg-bu-pn,zh-mg-vi,Bhikkhu Pakiṇṇaka,,,,1
+zh-mg-asc,zh-mg-vi,Abhisamācārika,,,,1
 zh-mg-bi-vb,zh-mg-vi,Bhikkhunī Vibhaṅga,,,,1
-zh-mg-bu-pakinnaka,zh-mg-vi,Bhikkhu Pakiṇṇaka,,,,1
-zh-mg-abhisamacarika,zh-mg-vi,Abhisamācārika,,,,1
-zh-mg-cv,zh-mg-vi,Bhikkhunī Vibhaṅga,,,,1
-zh-mg-bi-pakinnaka,zh-mg-vi,Bhikkhunī Pakiṇṇaka,,,,
+zh-mg-bi-pn,zh-mg-vi,Bhikkhunī Pakiṇṇaka,,,,1
 zh-mg-bu-pm,zh-mg-vi,Bhikkhu Pātimokkha,,,,
 zh-mg-bi-pm,zh-mg-vi,Bhikkhunī Pātimokkha,,,,
 sariputrapariprccha,zh-mg-vi,Śāriputraparipṛcchā,,,,
@@ -56,8 +55,8 @@ zh-mi-bu-kammavaca,zh-mi-vi,Bhikkhu Kammavācā,,,,
 zh-dg-bu-vb,zh-dg-vi,Bhikkhu Vibhaṅga,,,,1
 zh-dg-bi-vb,zh-dg-vi,Bhikkhunī Vibhaṅga,,,,1
 zh-dg-kd,zh-dg-vi,Khandhaka,,,,1
-zh-dg-samyutta,zh-dg-vi,Saṁyutta,,,,1
-zh-dg-ekottara,zh-dg-vi,Ekottara,,,,
+zh-dg-vs,zh-dg-vi,Saṁyutta,,,,1
+zh-dg-ve,zh-dg-vi,Ekottara,,,,
 zh-dg-bu-pm,zh-dg-vi,Bhikkhu Pātimokkha (1st),,,,
 zh-dg-bu-pm-2,zh-dg-vi,Bhikkhu Pātimokkha (2nd),,,,
 zh-dg-bi-pm,zh-dg-vi,Bhikkhunī Pātimokkha,,,,
@@ -67,9 +66,9 @@ zh-dg-bi-kammavaca,zh-dg-vi,Bhikkhunī Kammavācā,,,,
 zh-sv-bu-vb,zh-sv-vi,Bhikkhu Vibhaṅga,,,,1
 zh-sv-kd,zh-sv-vi,Khandhaka,,,,1
 zh-sv-bi-vb,zh-sv-vi,Bhikkhunī Vibhaṅga,,,,1
-zh-sv-ekottara,zh-sv-vi,Ekottara,,,,1
-zh-sv-paripuccha,zh-sv-vi,Upāliparipucchā,,,,1
-zh-sv-bu-ajjhaya,zh-sv-vi,Bhikkhu Ajjhāya,,,,
+zh-sv-ve,zh-sv-vi,Ekottara,,,,1
+zh-sv-upali,zh-sv-vi,Upāliparipucchā,,,,1
+zh-sv-ba,zh-sv-vi,Bhikkhu Ajjhāya,,,,
 zh-sv-bu-pm,zh-sv-vi,Bhikkhu Pātimokkha (1st),,,,
 zh-sv-bu-pm-2,zh-sv-vi,Bhikkhu Pātimokkha (2nd),,,,
 zh-sv-bi-pm,zh-sv-vi,Bhikkhunī Pātimokkha,,,,
@@ -94,8 +93,8 @@ gr-pm-bf13,oth-vi,Bhikkhu Pātimokkha,,,,
 skt-mg-bu-pm,skt-mg-vi,Bhikkhu Pātimokkha,,,,
 skt-lo-bu-vb,skt-lo-vi,Bhikkhu Vibhaṅga,,,,1
 skt-lo-bi-vb,skt-lo-vi,Bhikkhunī Vibhaṅga,,,,1
-skt-lo-bi-pakinnaka,skt-lo-vi,Bhikkhunī Pakiṇṇaka,,,,1
-skt-lo-bu-pakinnaka,skt-lo-vi,Bhikkhu Pakiṇṇaka,,,,
+skt-lo-bi-vb-pn,skt-lo-vi,Bhikkhunī Pakiṇṇaka,,,,1
+skt-lo-bu-vb-pn,skt-lo-vi,Bhikkhu Pakiṇṇaka,,,,
 skt-lo-bu-pm,skt-lo-vi,Bhikkhu Pātimokkha,,,,
 skt-lo-abhisamacarika,skt-lo-vi,Abhisamācārika,,,,
 skt-sv-bu-pm-tf11,skt-sv-vi,Bhikkhu Pātimokkha (Turfan 11),,,,
