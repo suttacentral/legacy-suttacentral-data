@@ -40,6 +40,7 @@ pi-tv-bu-pm,pi-tv-vi,Bhikkhu Pātimokkha,,,,
 pi-tv-bi-pm,pi-tv-vi,Bhikkhunī Pātimokkha,,,,
 zh-mg-bu-vb,zh-mg-vi,Bhikkhu Vibhaṅga,,,,1
 zh-mg-bu-pn,zh-mg-vi,Bhikkhu Pakiṇṇaka,,,,1
+zh-mg-kd,zh-mg-vi,Khandhaka,,,,1
 zh-mg-asc,zh-mg-vi,Abhisamācārika,,,,1
 zh-mg-bi-vb,zh-mg-vi,Bhikkhunī Vibhaṅga,,,,1
 zh-mg-bi-pn,zh-mg-vi,Bhikkhunī Pakiṇṇaka,,,,1
@@ -49,6 +50,7 @@ sariputrapariprccha,zh-mg-vi,Śāriputraparipṛcchā,,,,
 zh-mi-bu-vb,zh-mi-vi,Bhikkhu Vibhaṅga,,,,1
 zh-mi-bi-vb,zh-mi-vi,Bhikkhunī Vibhaṅga,,,,1
 zh-mi-kd,zh-mi-vi,Khandhaka,,,,
+zh-mi-vs,zh-mi-vi,Saṁyutta,,,,1
 zh-mi-bu-pm,zh-mi-vi,Bhikkhu Pātimokkha,,,,
 zh-mi-bi-pm,zh-mi-vi,Bhikkhunī Pātimokkha,,,,
 zh-mi-bu-kammavaca,zh-mi-vi,Bhikkhu Kammavācā,,,,
@@ -93,23 +95,23 @@ gr-pm-bf13,oth-vi,Bhikkhu Pātimokkha,,,,
 skt-mg-bu-pm,skt-mg-vi,Bhikkhu Pātimokkha,,,,
 skt-lo-bu-vb,skt-lo-vi,Bhikkhu Vibhaṅga,,,,1
 skt-lo-bi-vb,skt-lo-vi,Bhikkhunī Vibhaṅga,,,,1
-skt-lo-bi-vb-pn,skt-lo-vi,Bhikkhunī Pakiṇṇaka,,,,1
-skt-lo-bu-vb-pn,skt-lo-vi,Bhikkhu Pakiṇṇaka,,,,
+skt-lo-bi-pn,skt-lo-vi,Bhikkhunī Pakiṇṇaka,,,,1
+skt-lo-bu-pn,skt-lo-vi,Bhikkhu Pakiṇṇaka,,,,
 skt-lo-bu-pm,skt-lo-vi,Bhikkhu Pātimokkha,,,,
-skt-lo-abhisamacarika,skt-lo-vi,Abhisamācārika,,,,
+skt-lo-asc,skt-lo-vi,Abhisamācārika,,,,
 skt-sv-bu-pm-tf11,skt-sv-vi,Bhikkhu Pātimokkha (Turfan 11),,,,
 skt-sv-bu-pm-finot,skt-sv-vi,Bhikkhu Pātimokkha (Finot),,,,
 skt-sv-bi-vb,skt-sv-vi,Bhikkhuī Vibhaṅga,,,,
 skt-sv-bi-pm,skt-sv-vi,Bhikkhunī Pātimokka,,,,
 skt-sv-bu-kammavaca,skt-sv-vi,Bhikkhu Kammavācā,,,,
 skt-sv-bi-kammavaca,skt-sv-vi,Bhikkhunī Kammavācā,,,,
-skt-mu-khandhaka,skt-mu-vi,Khandhaka,,,,
+skt-mu-kd,skt-mu-vi,Khandhaka,,,,
 skt-mu-bu-pm-gbm3,skt-mu-vi,Bhikkhu Pātimokkha (Gilgit 3),,,,
 skt-mu-bu-pm-gbm2,skt-mu-vi,Bhikkhu Pātimokkha (Gilgit 2),,,,
 skt-mu-bu-kammavaca,skt-mu-vi,Bhikkhu Kammavācā,,,,
 skt-mu-mpt-bu-pm,skt-mu-vi,Mahāvyutpatti,,,,1
 skt-bu-pm-qizil,skt-oth-vi,Bhikkhu Pātimokkha (Qizil),,,,1
-bo-mu-khandhaka,bo-mu-vi,Khandhaka,,,,1
+bo-mu-kd,bo-mu-vi,Khandhaka,,,,1
 bo-mu-bu-pm,bo-mu-vi,Bhikkhu Pātimokkha,,,,1
 bo-mu-bu-vb,bo-mu-vi,Bhikkhu Vibhaṅga,,,,1
 bo-mu-bi-pm,bo-mu-vi,Bhikkhunī Pātimokkha,,,,1
