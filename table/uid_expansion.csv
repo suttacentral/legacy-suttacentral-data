@@ -12,12 +12,15 @@ dhp,Dhp ,
 divy,Divy ,
 dn,DN ,
 dq,D ,
+dt,Dt,Dhātukathā
+ds,Ds,Dhammasaṅgaṇī
 ea,EA ,
 gf,Gandh ,
 it,It ,
 ja,Ja ,
 kf,Khot ,
 kp,Khp ,
+kv,Kv,Kathāvatthu
 lal,Lal ,
 ma,MA ,
 mi,Mi,Milindapañha
@@ -27,7 +30,9 @@ mv,Mv ,
 mvu,Mvu,
 ne,Ne,Netti
 pe,Pe,Peṭakopadesa
+pp,Pp,Puggalapaññatti
 ps,Ps,Paṭisambhidāmagga
+pt,Pt,Paṭṭhāna
 pf,Prak ,
 pv,Pv,Petavatthu
 sa,SA ,
@@ -50,6 +55,7 @@ uf,Uigh ,
 up,Up ,
 uv,UV ,
 vv,Vv,Vimānavatthu
+ya,Ya,Yamaka
 # Languages ,,
 pi,Pi,Pāli
 zh,Zh,Chinese
