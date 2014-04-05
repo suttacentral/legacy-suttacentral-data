@@ -3,6 +3,9 @@ an,AN ,
 ap,Ap ,
 arv,Arv ,
 avs,Avs ,
+bv,Bv,Buddhavaṃsa
+cnd,Cnd,Cūḷaniddesa
+cp,Cp,Cariyāpiṭaka
 cv,Cv ,
 da,DA ,
 dhp,Dhp ,
@@ -17,11 +20,16 @@ kf,Khot ,
 kp,Khp ,
 lal,Lal ,
 ma,MA ,
+mi,Mi,Milindapañha
 mn,MN ,
+mnd,Mnd,Mahāniddesa
 mv,Mv ,
 mvu,Mvu,
-patisii,Patis ,
+ne,Ne,Netti
+pe,Pe,Peṭakopadesa
+ps,Ps,Paṭisambhidāmagga
 pf,Prak ,
+pv,Pv,Petavatthu
 sa,SA ,
 sa-2,SA-2 ,
 sa-3,SA-3 ,
@@ -32,11 +40,16 @@ sn,SN ,
 snp,Snp ,
 svbh,Svbh ,
 t,T ,
+tha-ap,Tha Ap,Therāpadāna
+thag,ThaG,Theragāthā
+thi-ap,Thī Ap,Therīapadāna
+thig,Thīg,Therīgāthā
 tib,Tib ,
 ud,Ud ,
 uf,Uigh ,
 up,Up ,
 uv,UV ,
+vv,Vv,Vimānavatthu
 # Languages ,,
 pi,Pi,Pāli
 zh,Zh,Chinese
