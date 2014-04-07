@@ -34,9 +34,9 @@ uf,oth-su,Uighur fragments,,Uigh frgm,,
 pi-tv-bu-vb,pi-tv-vi,Bhikkhu Vibhaṅga,,,,1
 pi-tv-bi-vb,pi-tv-vi,Bhikkhunī Vibhaṅga,,,,1
 pi-tv-kd,pi-tv-vi,Khandhaka,,,,1
-pi-tv-pvr-bu,pi-tv-vi,Bhikkhu Parivāra,,,,
-pi-tv-pvr-bi,pi-tv-vi,Bhikkhunī Parivāra,,,,
-pi-tv-pvr,pi-tv-vi,Parivāra (Full),,,,
+pi-tv-pvr-bu,pi-tv-vi,Bhikkhu Parivāra,,,,1
+pi-tv-pvr-bi,pi-tv-vi,Bhikkhunī Parivāra,,,,1
+pi-tv-pvr,pi-tv-vi,Parivāra (Full),,,,1
 pi-tv-bu-pm,pi-tv-vi,Bhikkhu Pātimokkha,,,,
 pi-tv-bi-pm,pi-tv-vi,Bhikkhunī Pātimokkha,,,,
 zh-mg-bu-vb,zh-mg-vi,Bhikkhu Vibhaṅga,,,,1
@@ -50,28 +50,28 @@ zh-mg-bi-pm,zh-mg-vi,Bhikkhunī Pātimokkha,,,,
 sariputrapariprccha,zh-mg-vi,Śāriputraparipṛcchā,,,,
 zh-mi-bu-vb,zh-mi-vi,Bhikkhu Vibhaṅga,,,,1
 zh-mi-bi-vb,zh-mi-vi,Bhikkhunī Vibhaṅga,,,,1
-zh-mi-kd,zh-mi-vi,Khandhaka,,,,
+zh-mi-kd,zh-mi-vi,Khandhaka,,,,1
 zh-mi-vs,zh-mi-vi,Saṁyutta,,,,1
 zh-mi-bu-pm,zh-mi-vi,Bhikkhu Pātimokkha,,,,
 zh-mi-bi-pm,zh-mi-vi,Bhikkhunī Pātimokkha,,,,
-zh-mi-bu-kammavaca,zh-mi-vi,Bhikkhu Kammavācā,,,,
+zh-mi-bu-kammavaca,zh-mi-vi,Bhikkhu Kammavācā,,,,1
 zh-dg-bu-vb,zh-dg-vi,Bhikkhu Vibhaṅga,,,,1
 zh-dg-bi-vb,zh-dg-vi,Bhikkhunī Vibhaṅga,,,,1
 zh-dg-kd,zh-dg-vi,Khandhaka,,,,1
 zh-dg-vs,zh-dg-vi,Saṁyutta,,,,1
-zh-dg-ve,zh-dg-vi,Ekottara,,,,
+zh-dg-ve,zh-dg-vi,Ekottara,,,,1
 zh-dg-bu-pm,zh-dg-vi,Bhikkhu Pātimokkha (1st),,,,
 zh-dg-bu-pm-2,zh-dg-vi,Bhikkhu Pātimokkha (2nd),,,,
 zh-dg-bi-pm,zh-dg-vi,Bhikkhunī Pātimokkha,,,,
-zh-dg-bu-kammavaca,zh-dg-vi,Bhikkhu Kammavācā (1st),,,,
-zh-dg-bu-kammavaca-2,zh-dg-vi,Bhikkhu Kammavācā (2nd),,,,
-zh-dg-bi-kammavaca,zh-dg-vi,Bhikkhunī Kammavācā,,,,
+zh-dg-bu-kammavaca,zh-dg-vi,Bhikkhu Kammavācā (1st),,,,1
+zh-dg-bu-kammavaca-2,zh-dg-vi,Bhikkhu Kammavācā (2nd),,,,1
+zh-dg-bi-kammavaca,zh-dg-vi,Bhikkhunī Kammavācā,,,,1
 zh-sv-bu-vb,zh-sv-vi,Bhikkhu Vibhaṅga,,,,1
 zh-sv-kd,zh-sv-vi,Khandhaka,,,,1
 zh-sv-bi-vb,zh-sv-vi,Bhikkhunī Vibhaṅga,,,,1
 zh-sv-ve,zh-sv-vi,Ekottara,,,,1
 zh-sv-upali,zh-sv-vi,Upāliparipucchā,,,,1
-zh-sv-ba,zh-sv-vi,Bhikkhu Ajjhāya,,,,
+zh-sv-ba,zh-sv-vi,Bhikkhu Ajjhāya,,,,1
 zh-sv-bu-pm,zh-sv-vi,Bhikkhu Pātimokkha (1st),,,,
 zh-sv-bu-pm-2,zh-sv-vi,Bhikkhu Pātimokkha (2nd),,,,
 zh-sv-bi-pm,zh-sv-vi,Bhikkhunī Pātimokkha,,,,
@@ -82,7 +82,7 @@ zh-sv-matika,zh-sv-vi,Mātikā,,,,
 zh-mu-bu-vb,zh-mu-vi,Bhikkhu Vibhaṅga,,,,1
 zh-mu-bi-vb,zh-mu-vi,Bhikkhunī Vibhaṅga,,,,1
 zh-mu-kd,zh-mu-vi,Khandhaka,,,,1
-zh-mu-khuddakavatthu,zh-mu-vi,Khuddakavatthu,,,,
+zh-mu-khuddakavatthu,zh-mu-vi,Khuddakavatthu,,,,1
 zh-mu-bu-pm,zh-mu-vi,Bhikkhu Pātimokkha,,,,
 zh-mu-bi-pm,zh-mu-vi,Bhikkhunī Pātimokkha,,,,
 zh-mu-bu-kammavaca,zh-mu-vi,Bhikkhu Kammavācā,,,,
