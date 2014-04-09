@@ -3,7 +3,7 @@ dn,pi-su,Dīgha Nikāya,,DN,,
 mn,pi-su,Majjhima Nikāya,,MN,,
 sn,pi-su,Saṃyutta Nikāya,,SN,1,
 an,pi-su,Aṅguttara Nikāya,,AN,1,
-kn,pi-su,Khuddaka Nikāya,,KhN,1,
+kn,pi-su,Khuddaka Nikāya,,Kn,1,
 da,zh-su,Dīrghāgama,,DA [T 1],,
 ma,zh-su,Madhyamāgama,,MA [T 26],,
 sa,zh-su,Saṃyuktāgama (1st),,SA [T 99],1,
@@ -36,7 +36,7 @@ pi-tv-bi-vb,pi-tv-vi,Bhikkhunī Vibhaṅga,,,,1
 pi-tv-kd,pi-tv-vi,Khandhaka,,,,1
 pi-tv-pvr-bu,pi-tv-vi,Bhikkhu Parivāra,,,,1
 pi-tv-pvr-bi,pi-tv-vi,Bhikkhunī Parivāra,,,,1
-pi-tv-pvr,pi-tv-vi,Parivāra (Full),,,,1
+pi-tv-pvr,pi-tv-vi,Parivāra (Full),,,,
 pi-tv-bu-pm,pi-tv-vi,Bhikkhu Pātimokkha,,,,
 pi-tv-bi-pm,pi-tv-vi,Bhikkhunī Pātimokkha,,,,
 zh-mg-bu-vb,zh-mg-vi,Bhikkhu Vibhaṅga,,,,1
@@ -44,14 +44,14 @@ zh-mg-bu-pn,zh-mg-vi,Bhikkhu Pakiṇṇaka,,,,1
 zh-mg-kd,zh-mg-vi,Khandhaka,,,,1
 zh-mg-asc,zh-mg-vi,Abhisamācārika,,,,1
 zh-mg-bi-vb,zh-mg-vi,Bhikkhunī Vibhaṅga,,,,1
-zh-mg-bi-pn,zh-mg-vi,Bhikkhunī Pakiṇṇaka,,,,1
+zh-mg-bi-pn,zh-mg-vi,Bhikkhunī Pakiṇṇaka,,,,
 zh-mg-bu-pm,zh-mg-vi,Bhikkhu Pātimokkha,,,,
 zh-mg-bi-pm,zh-mg-vi,Bhikkhunī Pātimokkha,,,,
 sariputrapariprccha,zh-mg-vi,Śāriputraparipṛcchā,,,,
 zh-mi-bu-vb,zh-mi-vi,Bhikkhu Vibhaṅga,,,,1
 zh-mi-bi-vb,zh-mi-vi,Bhikkhunī Vibhaṅga,,,,1
 zh-mi-kd,zh-mi-vi,Khandhaka,,,,1
-zh-mi-vs,zh-mi-vi,Saṁyutta,,,,1
+zh-mi-vs,zh-mi-vi,Saṁyutta,,,,
 zh-mi-bu-pm,zh-mi-vi,Bhikkhu Pātimokkha,,,,
 zh-mi-bi-pm,zh-mi-vi,Bhikkhunī Pātimokkha,,,,
 zh-mi-bu-kammavaca,zh-mi-vi,Bhikkhu Kammavācā,,,,1
@@ -59,19 +59,19 @@ zh-dg-bu-vb,zh-dg-vi,Bhikkhu Vibhaṅga,,,,1
 zh-dg-bi-vb,zh-dg-vi,Bhikkhunī Vibhaṅga,,,,1
 zh-dg-kd,zh-dg-vi,Khandhaka,,,,1
 zh-dg-vs,zh-dg-vi,Saṁyutta,,,,1
-zh-dg-ve,zh-dg-vi,Ekottara,,,,1
+zh-dg-ve,zh-dg-vi,Ekottara,,,,
 zh-dg-bu-pm,zh-dg-vi,Bhikkhu Pātimokkha (1st),,,,
 zh-dg-bu-pm-2,zh-dg-vi,Bhikkhu Pātimokkha (2nd),,,,
 zh-dg-bi-pm,zh-dg-vi,Bhikkhunī Pātimokkha,,,,
-zh-dg-bu-kammavaca,zh-dg-vi,Bhikkhu Kammavācā (1st),,,,1
-zh-dg-bu-kammavaca-2,zh-dg-vi,Bhikkhu Kammavācā (2nd),,,,1
-zh-dg-bi-kammavaca,zh-dg-vi,Bhikkhunī Kammavācā,,,,1
+zh-dg-bu-kammavaca,zh-dg-vi,Bhikkhu Kammavācā (1st),,,,
+zh-dg-bu-kammavaca-2,zh-dg-vi,Bhikkhu Kammavācā (2nd),,,,
+zh-dg-bi-kammavaca,zh-dg-vi,Bhikkhunī Kammavācā,,,,
 zh-sv-bu-vb,zh-sv-vi,Bhikkhu Vibhaṅga,,,,1
 zh-sv-kd,zh-sv-vi,Khandhaka,,,,1
 zh-sv-bi-vb,zh-sv-vi,Bhikkhunī Vibhaṅga,,,,1
 zh-sv-ve,zh-sv-vi,Ekottara,,,,1
 zh-sv-upali,zh-sv-vi,Upāliparipucchā,,,,1
-zh-sv-ba,zh-sv-vi,Bhikkhu Ajjhāya,,,,1
+zh-sv-ba,zh-sv-vi,Bhikkhu Ajjhāya,,,,
 zh-sv-bu-pm,zh-sv-vi,Bhikkhu Pātimokkha (1st),,,,
 zh-sv-bu-pm-2,zh-sv-vi,Bhikkhu Pātimokkha (2nd),,,,
 zh-sv-bi-pm,zh-sv-vi,Bhikkhunī Pātimokkha,,,,
@@ -82,7 +82,7 @@ zh-sv-matika,zh-sv-vi,Mātikā,,,,
 zh-mu-bu-vb,zh-mu-vi,Bhikkhu Vibhaṅga,,,,1
 zh-mu-bi-vb,zh-mu-vi,Bhikkhunī Vibhaṅga,,,,1
 zh-mu-kd,zh-mu-vi,Khandhaka,,,,1
-zh-mu-khuddakavatthu,zh-mu-vi,Khuddakavatthu,,,,1
+zh-mu-khuddakavatthu,zh-mu-vi,Khuddakavatthu,,,,
 zh-mu-bu-pm,zh-mu-vi,Bhikkhu Pātimokkha,,,,
 zh-mu-bi-pm,zh-mu-vi,Bhikkhunī Pātimokkha,,,,
 zh-mu-bu-kammavaca,zh-mu-vi,Bhikkhu Kammavācā,,,,
@@ -94,7 +94,7 @@ other-matika,zh-oth-vi,Mātikā,,,,
 gr-dg-bu-pm,gr-dg-vi,Bhikkhu Pātimokkha,,,,
 gr-pm-bf13,oth-vi,Bhikkhu Pātimokkha,,,,
 skt-mg-bu-pm,skt-mg-vi,Bhikkhu Pātimokkha,,,,
-skt-lo-bu-vb,skt-lo-vi,Bhikkhu Vibhaṅga,,,,1
+skt-lo-bi-vb-nidana,skt-lo-vi,Nidāna,,,,1
 skt-lo-bi-vb,skt-lo-vi,Bhikkhunī Vibhaṅga,,,,1
 skt-lo-bi-pn,skt-lo-vi,Bhikkhunī Pakiṇṇaka,,,,1
 skt-lo-bu-pn,skt-lo-vi,Bhikkhu Pakiṇṇaka,,,,
@@ -102,7 +102,7 @@ skt-lo-bu-pm,skt-lo-vi,Bhikkhu Pātimokkha,,,,
 skt-lo-asc,skt-lo-vi,Abhisamācārika,,,,
 skt-sv-bu-pm-tf11,skt-sv-vi,Bhikkhu Pātimokkha (Turfan 11),,,,
 skt-sv-bu-pm-finot,skt-sv-vi,Bhikkhu Pātimokkha (Finot),,,,
-skt-sv-bi-vb,skt-sv-vi,Bhikkhuī Vibhaṅga,,,,
+skt-sv-bi-vb,skt-sv-vi,Bhikkhunī Vibhaṅga,,,,
 skt-sv-bi-pm,skt-sv-vi,Bhikkhunī Pātimokka,,,,
 skt-sv-bu-kammavaca,skt-sv-vi,Bhikkhu Kammavācā,,,,
 skt-sv-bi-kammavaca,skt-sv-vi,Bhikkhunī Kammavācā,,,,
@@ -142,3 +142,4 @@ prakaranapada,zh-sv-ab,Prakaraṇapada,,,,
 jnanaprasthana,zh-sv-ab,Jnānaprasthāna,,,,
 sariputrabhidharma,zh-dg-ab,Śāripūtrābhidharma,,,,
 skt-dharmaskandha,skt-sv-ab,Dharmaskandha,,,,
+skt-jnanaprasthana,skt-sv-ab,Jnānaprasthāna,,,,
