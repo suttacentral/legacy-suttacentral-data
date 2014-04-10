@@ -34,14 +34,14 @@ uf,oth-su,Uighur fragments,,Uigh frgm,,
 pi-tv-bu-vb,pi-tv-vi,Bhikkhu Vibhaṅga,,,,1
 pi-tv-bi-vb,pi-tv-vi,Bhikkhunī Vibhaṅga,,,,1
 pi-tv-kd,pi-tv-vi,Khandhaka,,,,1
-pi-tv-pvr-bu,pi-tv-vi,Bhikkhu Parivāra,,,,1
-pi-tv-pvr-bi,pi-tv-vi,Bhikkhunī Parivāra,,,,1
-pi-tv-pvr,pi-tv-vi,Parivāra (Full),,,,
+pi-tv-pvr,pi-tv-vi,Parivāra,,,,1
+pi-tv-pvr-bu,pi-tv-vi,(Bhikkhu Parivāra),,,,1
+pi-tv-pvr-bi,pi-tv-vi,(Bhikkhunī Parivāra),,,,
 pi-tv-bu-pm,pi-tv-vi,Bhikkhu Pātimokkha,,,,
 pi-tv-bi-pm,pi-tv-vi,Bhikkhunī Pātimokkha,,,,
 zh-mg-bu-vb,zh-mg-vi,Bhikkhu Vibhaṅga,,,,1
 zh-mg-bu-pn,zh-mg-vi,Bhikkhu Pakiṇṇaka,,,,1
-zh-mg-kd,zh-mg-vi,Khandhaka,,,,1
+zh-mg-bu-pn-kd,zh-mg-vi,(Khandhaka),,,,1
 zh-mg-asc,zh-mg-vi,Abhisamācārika,,,,1
 zh-mg-bi-vb,zh-mg-vi,Bhikkhunī Vibhaṅga,,,,1
 zh-mg-bi-pn,zh-mg-vi,Bhikkhunī Pakiṇṇaka,,,,
