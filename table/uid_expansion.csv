@@ -1,73 +1,85 @@
 uid,acro,name
-an,AN ,
-ap,Ap ,
-arv,Arv ,
-avs,Avs ,
+an,AN,Aṅguttara Nikāya
+ap,Ap,Āpadāna
+arv,Arv,Arthaviniścaya
+avs,Avs,Avadānaśataka
 bv,Bv,Buddhavaṃsa
 cnd,Cnd,Cūḷaniddesa
 cp,Cp,Cariyāpiṭaka
-cv,Cv ,
-da,DA ,
-dhp,Dhp ,
-divy,Divy ,
-dn,DN ,
-dq,D ,
+da,DA,Dīrghāgama
+dhp,Dhp,Dhammapada
+divy,Divy,Divyāvadāna
+dn,DN,Dīgha Nikāya
+dq,D,Derge / Peking editions
 dt,Dt,Dhātukathā
 ds,Ds,Dhammasaṅgaṇī
-ea,EA ,
-gf,Gandh ,
-it,It ,
-ja,Ja ,
-kf,Khot ,
-kp,Khp ,
+ea,EA,Ekottarikāgama (1st)
+ea-2,EA2 [T 150A],Ekottarikāgama (2nd)
+gf,Gandh,Gāndhārī fragments
+it,It,Itivuttaka
+ja,Ja,Jātaka
+kf,Khot,Khotanese fragments
+kn,Kn,Khuddaka Nikāya
+kp,Khp,Khuddakapāṭha
 kv,Kv,Kathāvatthu
-lal,Lal ,
-ma,MA ,
+lal,Lal,Lalitavistara
+ma,MA,Madhyamāgama
 mi,Mi,Milindapañha
-mn,MN ,
+mn,MN,Majjhima Nikāya
 mnd,Mnd,Mahāniddesa
-mv,Mv ,
-mvu,Mvu,
+mv,Mv,
+mvu,Mvu,Mahāvastu
 ne,Ne,Netti
+oa,T,Other Āgama Sūtras
 pe,Pe,Peṭakopadesa
 pp,Pp,Puggalapaññatti
 ps,Ps,Paṭisambhidāmagga
 pt,Pt,Paṭṭhāna
-pf,Prak ,
+pf,Prak,Prākrit fragments
 pv,Pv,Petavatthu
-sa,SA ,
-sa-2,SA-2 ,
-sa-3,SA-3 ,
-sbv,Sbv ,
-sf,SF ,
-sht,SHT ,
-sn,SN ,
-snp,Snp ,
-svbh,Svbh ,
-t,T ,
+sa,SA,Saṃyuktāgama (1st)
+sa-2,SA-2,Saṃyuktāgama (2nd)
+sa-3,SA-3,Saṃyuktāgama (3rd)
+sbv,Sbv,Saṅgha­bheda­vastu
+sf,SF,Other Fragments
+sht,SHT,SHT fragments
+sn,SN,Saṃyutta Nikāya
+snp,Snp,Sutta Nipāta
+svbh,Svbh,
+t,T,Taishō
 tha-ap,Tha Ap,Therāpadāna
 thag,Thag,Theragāthā
 thi-ap,Thī Ap,Therīapadāna
 thig,Thīg,Therīgāthā
-tib,Tib ,
-ud,Ud ,
-uf,Uigh ,
-up,Up ,
-uv,UV ,
+tib,Tib,
+ud,Ud,Udāna
+uf,Uigh,Uighur fragments
+up,Up,Upāyikā
+uv,UV,Udānavarga
 vv,Vv,Vimānavatthu
 ya,Ya,Yamaka
-# Languages ,,
+# Languages,,
 pi,Pi,Pāli
 zh,Zh,Chinese
 skt,Skt,Sanskrit
 gr,Gr,Gāndhārī
+ug,Ug,Uighur
 bo,Bo,Tibetan
-,,,
-# Pitaka ,,
+my,My,Burmese
+de,De,German
+en,En,English
+es,Es,Spanish
+fr,Fr,French
+ko,Ko,Korean
+ru,Ru,Russian
+vn,Vn,Vietnamese
+,,
+# Pitaka,,
 ab,Ab,Abhidhamma
 su,Su,Suttas
 vi,Vi,Vinaya
-,,,
+,,
+vi,Vi,Vinaya
 # Sects,,
 tv,Tv,Theravāda
 vb,Vb,Vibhaṅga
@@ -82,13 +94,15 @@ lo,Lo,Lokuttaravāda
 dg,Dg,Dharmaguptaka
 ka,Ka,Kāśyapīya
 upali,Upali,Upāliparipṛcchā
-,,,
-# Names ,,
+,,
+upali,Upali,Upāliparipṛcchā
+# Names,,
 bf,Bf,Bajaur
 qizil,Qizil,Qizil
 tf,Tf,Turfan
 finot,Finot,Finot
-,,,
+,,
+finot,Finot,Finot
 # Vinaya Rule Classes,,
 pj,Pj,Pārājika
 ss,Ss,Saṅghādisesā
@@ -98,8 +112,9 @@ pc,Pc,Pācittiyā
 pd,Pd,Pāṭidesanīyā
 sk,Sk,Sekhiyā
 as,As,Adhikaraṇasamathā
-,,,
-# Misc ,,
+,,
+as,As,Adhikaraṇasamathā
+# Misc,,
 bu,Bu,Bhikkhu
 bi,Bi,Bhikkhunī
 pn,Pn,Pakiṇṇaka
@@ -108,3 +123,6 @@ gd,Gd,Garudhamma
 cases,cases,cases
 vagga,Vagga,Vagga
 kd,Kd,Khandhaka
+other,Other,Other
+oth,Other,Other
+
