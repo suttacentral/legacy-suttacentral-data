@@ -5,7 +5,7 @@ dn1,up3.050,,
 dn1,tib110,,
 dn1,sf41,,
 dn1,sf48,,
-dn1,sht16,,Identified in Wille 2005:6.
+dn1,sht16,,Identified in <span class="author">Wille</span> 2005:6.
 dn2,da27,,
 dn2,t22,,
 dn2,sa154-163,1,
@@ -16,7 +16,7 @@ dn2,t1450.10,1,
 dn2,dq70,,
 dn2,sbv80,,
 dn2,sf1,,
-dn2,sht58,,Identified in Wille 2005:9.
+dn2,sht58,,Identified in <span class="author">Wille</span> 2005:9.
 dn2,sf288,,
 dn3,da20,,
 dn3,t20,,
@@ -29,7 +29,7 @@ dn4,sf42,,
 dn4,sht56,,
 dn5,da23,,
 dn5,sf52,,
-dn5,sht30,,Identified in Wille 2005:7.
+dn5,sht30,,Identified in <span class="author">Wille</span> 2005:7.
 dn6,dn7,1,
 dn6,sht19,,
 dn8,da25,,
@@ -75,19 +75,19 @@ dn15,sht23,,
 dn15,sf240,,
 dn16,sn51.10,1,Correspondence reference is SN v 259.
 an2.48,sf122,,
-dn16,an4.180,1,Corresponding section is DN ii 123−126.
+dn16,an4.180,1,Corresponding section is DN ii 123–126.
 an2.130-133,sf113,,
 an2.10,sf116,,
-dn16,an7.22-27,1,"PTS (Ee) counts these suttas as 7.20−25; Be, Ce enumeration used here. Correspondence reference is DN ii 72-80."
+dn16,an7.22-27,1,"PTS (Ee) counts these suttas as 7.20–25; Be, Ce enumeration used here. Correspondence reference is DN ii 72–80."
 dn16,an8.68-70,1,
 an1.314-315,an10.104,1,
 dn16,ud6.1,1,
 dn16,ud8.5,1,
 dn16,ud8.6,1,
-dn16,da2,,"Correspondence reference is T i 011a06−021b08, 024b26−030b05."
-dn16,t5,,"Correspondence reference is T i 160b04−169c13, 171a26−175c21."
-dn16,t6,,"Correspondence reference is T i 176a01−185b12, 186c16−191a28."
-dn16,t7,,"Correspondence reference is T i 191b01−200c21, 203a21−207c12."
+dn16,da2,,"Correspondence reference is T i 011a06–021b08, 024b26–030b05."
+dn16,t5,,"Correspondence reference is T i 160b04–169c13, 171a26–175c21."
+dn16,t6,,"Correspondence reference is T i 176a01–185b12, 186c16–191a28."
+dn16,t7,,"Correspondence reference is T i 191b01–200c21, 203a21–207c12."
 dn16,t1451.35,,
 sa971,sf83,1,
 dn16,avs40,,
@@ -101,10 +101,10 @@ dn16,sf272,,
 dn16,sf285,,
 dn16,sf289,,
 dn16,gf20,,
-dn17,da2,1,Correspondence reference is T i 021b08−024b26.
-dn17,t5,1,Correspondence reference is T i 169c13−171a25.
-dn17,t6,1,Correspondence reference is T i 185b13−186c15.
-dn17,t7,1,Correspondence reference is T i 200c21−203a20.
+dn17,da2,1,Correspondence reference is T i 021b08–024b26.
+dn17,t5,1,Correspondence reference is T i 169c13–171a25.
+dn17,t6,1,Correspondence reference is T i 185b13–186c15.
+dn17,t7,1,Correspondence reference is T i 200c21–203a20.
 dn17,ma68,,
 dn17,t1451.37,1,
 dn17,sf102,,
@@ -135,7 +135,7 @@ dn21,t15,,
 dn21,ma134,,
 dn21,t203.73,,
 dn21,sf139,,
-dn21,sht54,,Identified in Wille 2005:8.
+dn21,sht54,,Identified in <span class="author">Wille</span> 2005:8.
 dn21,sf241,,
 dn22,mn10,,
 dn22,mn119,1,
@@ -194,7 +194,7 @@ dn33,da9,,
 dn33,t12,,
 dn33,sf62,,
 dn33,sf70,,
-dn33,sht10,,Identified in Wille 2005:9.
+dn33,sht10,,Identified in <span class="author">Wille</span> 2005:9.
 dn33,sf149,,
 dn33,sf176,,
 dn33,sf253,,
@@ -207,10 +207,10 @@ dn34,sf107,,
 dn34,sf129,,
 dn34,sf131,,
 dn34,sf145,,
-dn34,sht22,,Identified in Wille 2005:7.
+dn34,sht22,,Identified in <span class="author">Wille</span> 2005:7.
 dn34,sf175,,
 dn34,sf290,,
-mn1,ma106,1,"MA 106 and T 56, are only partial parallels for MN 1, as they differ from it in several respects. Whereas MN 1 discusses worldling, disciple in higher training, arahant, and tathagata, MA 106 and T 56 discuss two types of recluses and Brahmins and the Buddha. They name a different location for the discourse and differ from MN 1 in not discussing Nibbana, and in not concluding with the monks failing to delight in the exposition. In contrast, EA 44.6 agrees with MN 1 on the above points."
+mn1,ma106,1,"MA 106 and T 56, are only partial parallels for MN 1, as they differ from it in several respects. Whereas MN 1 discusses worldling, disciple in higher training, <i>arahant</i>, and <i>tathāgata</i>, MA 106 and T 56 discuss two types of recluses and Brahmins and the Buddha. They name a different location for the discourse and differ from MN 1 in not discussing Nibbāna, and in not concluding with the monks failing to delight in the exposition. In contrast, EA 44.6 agrees with MN 1 on the above points."
 mn1,t56,1,
 mn1,ea44.6,,
 mn2,an6.58,,
@@ -221,7 +221,7 @@ mn2,up2.069,,
 mn3,ma88,,
 mn3,ea18.3,,
 mn4,ea31.1,,
-mn4,sht3,,Identified by Schlingloff 1967: 421.
+mn4,sht3,,Identified by <span class="author">Schlingloff</span> 1967: 421.
 mn5,ma87,,
 mn5,t49,,
 mn5,ea25.6,,
@@ -233,7 +233,7 @@ mn7,sa1185,1,
 mn7,sa-2.98,1,
 mn7,ea13.5,,
 mn8,ma91,,
-mn9,ma29,,Akanuma p. 163 lists EA 49.5 at T ii 797b as a partial parallel. EA 49.5 reports the Buddha giving a detailed explanation of the twelve links of paṭ­iccasamuppada and correcting Ānanda\'s lack of appreciation of its profundity. It finds its closest parallel in SN 12.2 at SN ii 2 as regards the exposition of paṭ­iccasamuppada; and it has Ānanda\'s underestimation of the profundity of paṭ­iccasamuppada in common with DN 15 at DN ii 55 and SN 12.60 at SN ii 92.
+mn9,ma29,,<span class="author">Akanuma</span> p. 163 lists EA 49.5 at T ii 797b as a partial parallel. EA 49.5 reports the Buddha giving a detailed explanation of the twelve links of <i>paṭ­iccasamuppada</i> and correcting Ānanda’s lack of appreciation of its profundity. It finds its closest parallel in SN 12.2 at SN ii 2 as regards the exposition of <i>paṭ­iccasamuppada</i>; and it has Ānanda’s underestimation of the profundity of <i>paṭ­iccasamuppada</i> in common with DN 15 at DN ii 55 and SN 12.60 at SN ii 92.
 mn9,sa344,,
 mn9,sf172,,
 mn10,mn119,1,
@@ -268,7 +268,7 @@ mn13,ea21.9,,
 mn14,ma100,,
 mn14,t54,,
 mn14,t55,,
-mn14,ea41.1,1,"EA 41.1 is only a partial parallel, as its first part instead parallels SN 55.21 at SN v 369, another meeting between the Buddha and Mahanama."
+mn14,ea41.1,1,"EA 41.1 is only a partial parallel, as its first part instead parallels SN 55.21 at SN v 369, another meeting between the Buddha and Mahānāma."
 mn15,ma89,,
 mn15,t50,,
 mn16,an5.205-206,,
@@ -284,7 +284,7 @@ mn18,ea40.10,,
 mn19,ma102,,
 mn20,ma101,,
 mn21,ma193,,
-mn21,ea50.8,1,"EA 50.8 is only a partial parallel to MN 21. Its first part agrees with MN 21 in having the monk Moliyaphagguna (~茂羅破群) associating excessively with nuns. The remainder of EA 50.8 agrees rather with MN 22, as in EA 50.8 the claim that sensuality is no obstacle to progress is made by Moliyaphagguna, while in MN 22 it is made by another monk, AriCCha. EA 50.8 thereafter agrees with MN 22 in having the Buddha correct this mistaken view and deliver the snake simile. We therefore list EA 50.8 as a partial parallel to both MN 21 and MN 22."
+mn21,ea50.8,1,"EA 50.8 is only a partial parallel to MN 21. Its first part agrees with MN 21 in having the monk Moliyaphagguna (~茂羅破群) associating excessively with nuns. The remainder of EA 50.8 agrees rather with MN 22, as in EA 50.8 the claim that sensuality is no obstacle to progress is made by Moliyaphagguna, while in MN 22 it is made by another monk, Ariṭṭha. EA 50.8 thereafter agrees with MN 22 in having the Buddha correct this mistaken view and deliver the snake simile. We therefore list EA 50.8 as a partial parallel to both MN 21 and MN 22."
 mn22,ma200,,
 mn22,ea43.5,1,
 mn22,ea50.8,1,
@@ -305,11 +305,11 @@ mn25,ma178,,
 mn26,ma204,,
 mn26,ea19.1,1,
 mn26,ea24.5,1,
-mn26,t765.3,1,"For T 765 Akanuma p. 164 gives the location as T 765 at T xvii 67a, which seems to be a typing error."
+mn26,t765.3,1,"For T 765 <span class="author">Akanuma</span> p. 164 gives the location as T 765 at T xvii 67a, which seems to be a typing error."
 mn26,t1421.15a,1,
 mn26,t1428.31,1,
 mn26,t1450.5,1,
-mn26,lal16,,"In addition to the Chinese counterparts to the Lalitavistara and the Sanghabhedavastu, T 186 at T iii 527a, T 187 at T iii 603a, and T 191 at T iii 952c, several other Buddha biographies parallel some of the events described in MN 26; e.g. T 188 at T iii 620b, T 189 at T iii 642c, T 190 at T iii 806a, T 196 at T iv 147c. | New ed. Vaidya 1958b."
+mn26,lal16,,"In addition to the Chinese counterparts to the Lalitavistara and the Saṅghabhedavastu, T 186 at T iii 527a, T 187 at T iii 603a, and T 191 at T iii 952c, several other Buddha biographies parallel some of the events described in MN 26; e.g. T 188 at T iii 620b, T 189 at T iii 642c, T 190 at T iii 806a, T 196 at T iv 147c. | New edition <span class="author">Vaidya</span> 1958b."
 mn26,mvu20,,
 sa-2.201,sf79,1,
 mn26,sbv30,,
@@ -318,7 +318,7 @@ mn26,sf259,,
 mn27,ma146,,
 mn28,ma30,,
 mn29,ea43.4,,
-mn30,ea43.4,1,"Akanuma p. 165 lists no parallel. The main content of MN 30 is similar to that of MN 29; consequently EA 43.4, the parallel to MN 29, is also a partial parallel to MN 30."
+mn30,ea43.4,1,"<span class="author">Akanuma</span> p. 165 lists no parallel. The main content of MN 30 is similar to that of MN 29; consequently EA 43.4, the parallel to MN 29, is also a partial parallel to MN 30."
 mn31,ma185,,
 mn31,ea24.8,1,
 mn32,ma184,,
@@ -342,7 +342,7 @@ mn36,ea31.8,1,
 mn36,t757.2,1,
 sa-2.202,sf80,1,
 mn36,divy27,,
-mn36,lal17a,,"The events described in MN 36 are treated in several Chinese Buddha biographies; e.g., the first jhana experience of the bodhisatta can be found in the Chinese counterparts to the Lalitavistara and the Sanghabhedavastu, T 186 at T iii 499b, T 187 at T iii 560b, and T 191 at T iii 944b, and also in such accounts as are found in T 184 at T iii 467b, T 185 at T iii 475b, T 188 at T iii 619b, T 189 at T iii 629a, T 190 at T iii 706a, T 192 at T iv 8c, and T 193 at T iv 66b; cf. also the Divyavadana in Cowell 1886 p. 391. | New ed. Vaidya 1958b."
+mn36,lal17a,,"The events described in MN 36 are treated in several Chinese Buddha biographies; e.g., the first <i>jhāna</i> experience of the bodhisatta can be found in the Chinese counterparts to the Lalitavistara and the Saṅghabhedavastu, T 186 at T iii 499b, T 187 at T iii 560b, and T 191 at T iii 944b, and also in such accounts as are found in T 184 at T iii 467b, T 185 at T iii 475b, T 188 at T iii 619b, T 189 at T iii 629a, T 190 at T iii 706a, T 192 at T iv 8c, and T 193 at T iv 66b; cf. also the Divyāvadāna in <span class="author">Cowell</span> 1886 p. 391. | New edition <span class="author">Vaidya</span> 1958b."
 mn36,mvu30,,
 sa967,sf79,1,
 mn36,sbv10,,
@@ -362,7 +362,7 @@ mn40,ma183,,
 mn41,mn42,,
 mn41,sa1042,,
 mn41,sa1043,,
-mn43,ma211,,"Akanuma p. 165 lists SA 251 at T ii 060b as another parallel. However, SA 251 should rather be reckoned as a parallel to SN 22.127−132 at SN iii 172, since it agrees with them in having Mahakoṭṭhita ask Sariputta only about the implications of ignorance and its opposite, not about the whole range of topics treated in MN 43 and MA 211."
+mn43,ma211,,"<span class="author">Akanuma</span> p. 165 lists SA 251 at T ii 060b as another parallel. However, SA 251 should rather be reckoned as a parallel to SN 22.127–132 at SN iii 172, since it agrees with them in having Mahakoṭṭhita ask Sāriputta only about the implications of ignorance and its opposite, not about the whole range of topics treated in MN 43 and MA 211."
 mn43,up3.064,1,
 mn43,up9.008,1,
 mn44,ma210,,
@@ -421,7 +421,7 @@ mn65,ea49.7,1,
 mn65,t1425.17a,1,
 mn65,sht15,,
 mn66,ma192,,
-mn66,ea49.7,1,"EA 49.7 is a partial parallel to M 65, as Akanuma p. 167 indicates. After reporting the Buddha’s instruction to Bhaddali ~(跋提婆羅) about taking only a single meal, EA 49.7 describes how Udayi (~優陀夷) once went begging at night and so startled a pregnant woman that she miscarried, a tale related also in MN 66 and MA 192. In EA 49.7 the Buddha comes to hear of this and addresses the monks on the benefit of taking a single meal, after which EA 49.7 returns to the events relating to Bhaddali. We therefore reckon EA 49.7 as a partial parallel to both MN 65 and MN 66."
+mn66,ea49.7,1,"EA 49.7 is a partial parallel to M 65, as <span class="author">Akanuma</span> p. 167 indicates. After reporting the Buddha’s instruction to Bhaddali ~(跋提婆羅) about taking only a single meal, EA 49.7 describes how Udayi (~優陀夷) once went begging at night and so startled a pregnant woman that she miscarried, a tale related also in MN 66 and MA 192. In EA 49.7 the Buddha comes to hear of this and addresses the monks on the benefit of taking a single meal, after which EA 49.7 returns to the events relating to Bhaddali. We therefore reckon EA 49.7 as a partial parallel to both MN 65 and MN 66."
 mn66,t1421.8a,1,
 mn66,t1428.14,1,
 mn67,ea45.2,,
@@ -444,9 +444,9 @@ mn74,tib30,,
 sa970,sf82,1,
 mn74,avs99,,
 mn74,sf81,1,
-mn74,sf133,,New ed. Hosoda 1989b.
+mn74,sf133,,New edition Hosoda 1989b.
 mn75,ma153,,
-mn76,sht27,,"Akanuma p. 167 lists SA 973 at T ii 251b and SA2 207 at T ii 451a as partial parallels to MN 76. These two discourses, in which Ānanda discusses the need to overcome lust, anger, and delusion and points to the noble eightfold path as the means to achieve this, are rather parallels to AN 3.71 at AN i 215. Hartmann 1992: 47 notes that a so far unpublished fragment parallel to MN 76 at MN i 513,13−514,26 can be found in the Hoernle collection. | SHT iii 886 is identified in SHT viii p. 183."
+mn76,sht27,,"<span class="author">Akanuma</span> p. 167 lists SA 973 at T ii 251b and SA2 207 at T ii 451a as partial parallels to MN 76. These two discourses, in which Ānanda discusses the need to overcome lust, anger, and delusion and points to the noble eightfold path as the means to achieve this, are rather parallels to AN 3.71 at AN i 215. <span class="author">Hartmann</span> 1992: 47 notes that a so far unpublished fragment parallel to MN 76 at MN i 513,13–514,26 can be found in the Hoernle collection. | SHT iii 886 is identified in SHT viii p. 183."
 mn76,sf294,,
 mn77,ma207,,
 mn78,ma179,,
@@ -491,7 +491,7 @@ mn85,sf5,,
 mn85,sf47,,
 mn85,sf68,,
 mn85,sht33,,Folio 35 identified in SHT viii p. 162.
-mn86,sa1077,,The events related in MN 86 recur in T 120 at T ii 512b (as recognised by Akanuma p. 168) and in Derge 213 at mdo sde tsha (57): 126a. Both of these are Mahayana discourses of the tathagatagarbha type and therefore fall outside the scope of our presentation.
+mn86,sa1077,,The events related in MN 86 recur in T 120 at T ii 512b (as recognised by <span class="author">Akanuma</span> p. 168) and in Derge 213 at mdo sde tsha (57): 126a. Both of these are Mahayana discourses of the <i>tathāgatagarbha</i> type and therefore fall outside the scope of our presentation.
 mn86,sa-2.16,,
 mn86,t118,,
 mn86,t119,,
@@ -501,7 +501,7 @@ mn86,t212.17,,
 mn86,tib50,1,
 mn86,sf19,,
 mn86,sf66,,
-mn86,sht2,,SHT vi 1561 is identified by Hartmann 1998: 356 note 18.
+mn86,sht2,,SHT vi 1561 is identified by <span class="author">Hartmann</span> 1998: 356 note 18.
 mn87,ma216,,
 mn87,t91,,
 mn87,ea13.3,,
@@ -532,9 +532,9 @@ mn95,sht25,,Identified in SHT vii p. 274.
 mn96,ma150,,
 mn97,ma27,,
 mn98,snp3.9,,
-mn99,ma152,,Akanuma p. 168 lists T 79 at T i 888b as a parallel to MN 99. Inspection reveals that T 79 is rather a parallel to MN 135.
+mn99,ma152,,<span class="author">Akanuma</span> p. 168 lists T 79 at T i 888b as a parallel to MN 99. Inspection reveals that T 79 is rather a parallel to MN 135.
 mn100,sf63,,
-mn100,sht40,,SHT iv 33.28−29+30 is identified in SHT ix p. 369. | SHT iv 180.3−4+6 is identified in SHT ix p. 392.
+mn100,sht40,,SHT iv 33.28–29+30 is identified in SHT ix p. 369. | SHT iv 180.3–4+6 is identified in SHT ix p. 392.
 mn101,ma19,,
 mn102,tib80,,
 mn102,sf57,,
@@ -554,7 +554,7 @@ mn113,ma85,,
 mn113,t48,,
 mn113,ea17.9,,
 mn114,an9.6,1,
-mn114,an10.54,1,Corresponding sections are MN iii 58−59 and AN v 100.
+mn114,an10.54,1,Corresponding sections are MN iii 58–59 and AN v 100.
 mn114,ma109,1,Correspondence reference is T i 598c.
 mn115,an1.268-277,1,
 mn115,ma181,,
@@ -563,26 +563,26 @@ mn115,t1509.24a,1,
 mn115,t1537.10,,
 mn115,dq110,,
 mn115,up1.032,,
-mn116,ea38.7,,Akanuma p. 169 draws attention to a passage in the Mahavastu (Senart 1882 p. 357). This passage describes the self−cremation of paccekabuddhas on being told that the bodhisatta was about to take birth and thus is not a parallel to MN 116.
+mn116,ea38.7,,<span class="author">Akanuma</span> p. 169 draws attention to a passage in the Mahāvastu (<span class="author">Senart</span> 1882 p. 357). This passage describes the self–cremation of <i>paccekabuddhas</i> on being told that the bodhisatta was about to take birth and thus is not a parallel to MN 116.
 mn117,ma189,,
 mn117,up6.080,,
 mn117,sht51,,
 mn118,sn54.13-16,1,
 mn118,sa803,1,
 mn118,sa810-812,1,
-mn118,sa815,,"Akanuma p. 169 lists T 96. Examination shows that this discourse bears no resemblance to MN 118, apart from a single introductory sentence that links mindfulness of breathing to the attainment of knowledge and liberation."
+mn118,sa815,,"<span class="author">Akanuma</span> p. 169 lists T 96. Examination shows that this discourse bears no resemblance to MN 118, apart from a single introductory sentence that links mindfulness of breathing to the attainment of knowledge and liberation."
 mn118,sht84,,
 mn119,ma81,,
-mn120,ma168,1,"Akanuma p. 169 lists A iv. 123, 124 as parallel(s). Neither AN 4.123−124 at AN ii 126 nor AN 7.66 at AN iv 123−124 bears any resemblance to MN 120. He also lists MA 168 as a full parallel, yet  examination shows that this discourse differs in so many respects from MN 120 that it is probably best reckoned as a partial parallel. A so far unpublished Gandharī fragment, Senior manuscript 10, parallels part of MN 120 (Mark Allon, private communication)."
+mn120,ma168,1,"<span class="author">Akanuma</span> p. 169 lists A iv. 123, 124 as parallel(s). Neither AN 4.123–124 at AN ii 126 nor AN 7.66 at AN iv 123–124 bears any resemblance to MN 120. He also lists MA 168 as a full parallel, yet  examination shows that this discourse differs in so many respects from MN 120 that it is probably best reckoned as a partial parallel. A so far unpublished Gandharī fragment, Senior manuscript 10, parallels part of MN 120 (Mark Allon, private communication)."
 mn121,ma190,,
 mn121,tib60,,
 mn122,ma191,,
 mn122,tib70,,
-mn123,ma32,,"Several of the \""wonderful and marvellous\"" qualities of the Buddha treated in MN 123 recur in various Buddha biographies. Thus, e.g., his taking of a series of steps and making a proclamation right after being born can be found in the Sanghabhedavastu in Gnoli 1977 p. 45, the Buddhacarita in Johnston 1995 p. 2, the Lalitavistara in Lefmann 1902 p. 85 or Vaidya 1958b p. 62, the Mahavastu in Senart 1890 p. 24 or Basak 1965 p. 33, and in several Chinese accounts such as T 184 at T iii 463c, T 185 at T iii 473c, T 188 at T iii 618a, T 189 at T iii 625a."
+mn123,ma32,,"Several of the \""wonderful and marvellous\"" qualities of the Buddha treated in MN 123 recur in various Buddha biographies. Thus, e.g., his taking of a series of steps and making a proclamation right after being born can be found in the Saṅghabhedavastu in <span class="author">Gnoli</span> 1977 p. 45, the Buddhacarita in <span class="author">Johnston</span> 1995 p. 2, the Lalitavistara in <span class="author">Lefmann</span> 1902 p. 85 or <span class="author">Vaidya</span> 1958b p. 62, the Mahāvastu in <span class="author">Senart</span> 1890 p. 24 or <span class="author">Basak</span> 1965 p. 33, and in several Chinese accounts such as T 184 at T iii 463c, T 185 at T iii 473c, T 188 at T iii 618a, T 189 at T iii 625a."
 mn124,ma34,,
 mn125,ma198,,
 mn126,ma173,,
-mn126,sht80,,Identified by Skilling 2001: 249.
+mn126,sht80,,Identified by <span class="author">Skilling</span> 2001: 249.
 mn127,ma79,,
 mn128,ja371,1,
 mn128,ja428,1,
@@ -601,15 +601,15 @@ mn129,up2.033,1,
 sa968,sf80,1,
 mn129,divy26,,
 mn130,an3.36,,
-mn130,da30,1,"Correspondence reference is DA 30.4, T i 126b09−127a26."
-mn130,t24,1,Correspondence reference is T i 330c18−332b9.
-mn130,t25,1,Correspondence reference is T i 365a15−387b6.
+mn130,da30,1,"Correspondence reference is DA 30.4, T i 126b09–127a26."
+mn130,t24,1,Correspondence reference is T i 330c18–332b9.
+mn130,t25,1,Correspondence reference is T i 365a15–387b6.
 mn130,ma64,,
 mn130,t42,,
 mn130,t43,,
 mn130,t86,,
 mn130,ea32.4,,
-mn130,t212.9,1,Correspondence reference is T iv 668a04−669b10.
+mn130,t212.9,1,Correspondence reference is T iv 668a04–669b10.
 mn130,t741,1,
 mn131,sht21,,
 mn132,ma167,,
@@ -621,7 +621,7 @@ mn133,dq140,1,
 mn133,dq150,1,
 mn134,ma166,,
 mn134,t77,,
-mn135,ma170,,"The Karmavibhanga sections preserved in the Kutchean fragment in Lévi 1933 (cf. also Sieg 1938), and in the Sogdian fragment in Rosenberg 1920, do not parallel MN 135."
+mn135,ma170,,"The Karmavibhaṅga sections preserved in the Kutchean fragment in <span class="author">Lévi</span> 1933 (cf. also <span class="author">Sieg</span> 1938), and in the Sogdian fragment in <span class="author">Rosenberg</span> 1920, do not parallel MN 135."
 mn135,t78,,
 mn135,t79,,
 mn135,t80,,
@@ -633,7 +633,7 @@ mn135,sf76,,
 mn135,sf85,,
 mn135,sf87,,
 mn135,sf88,,
-mn135,sf98,,New ed. Kudo 2004.
+mn135,sf98,,New edition <span class="author">Kudo</span> 2004.
 mn135,sht67,,
 mn135,kf10,1,
 mn136,ma171,,
@@ -664,11 +664,11 @@ mn143,sn2.20,1,
 mn143,sa593,1,
 mn143,sa1032,1,
 mn143,sa-2.187,1,
-mn143,ea51.8,,"Akanuma p. 171 lists MA 28 at T i 458b as another parallel. But MA 28 agrees with SN 55.26 at SN v 380 as regards Sariputta\'s instructions to Anāthapiṇḍika, and in having Anāthapiṇḍika recover rather than dying, as recorded in MN 143 and EA 51.8. Hence, MA 28 (as also Skt fragment cat. no. 1397 in SHT vi 116) is better reckoned a parallel to SN 55.26."
+mn143,ea51.8,,"<span class="author">Akanuma</span> p. 171 lists MA 28 at T i 458b as another parallel. But MA 28 agrees with SN 55.26 at SN v 380 as regards Sāriputta’s instructions to Anāthapiṇḍika, and in having Anāthapiṇḍika recover rather than dying, as recorded in MN 143 and EA 51.8. Hence, MA 28 (as also Skt fragment cat. no. 1397 in SHT vi 116) is better reckoned a parallel to SN 55.26."
 mn144,sn35.87,,
 mn144,sa1266,,
 mn145,sn35.88,,
-mn145,sa311,,"Akanuma p. 171 lists SA 215 at T ii 54b as a further parallel. However, SA 215 corresponds to only the first section of MN 145. We follow Yin Shun 1983 vol. i pp. 263−264 in identifying SA 215 as rather a parallel to SN 35.70, which it matches closely though disagreeing over the bhikkhu\'s name: Punna in SA 215, Upavana in SN 35.70.  "
+mn145,sa311,,"<span class="author">Akanuma</span> p. 171 lists SA 215 at T ii 54b as a further parallel. However, SA 215 corresponds to only the first section of MN 145. We follow <span class="author">Yin Shun</span> 1983 vol. i pp. 263–264 in identifying SA 215 as rather a parallel to SN 35.70, which it matches closely though disagreeing over the bhikkhu’s name: Punna in SA 215, Upavana in SN 35.70.  "
 mn145,t108,,
 mn145,t1448.3,,
 mn145,dq20,,
@@ -680,8 +680,8 @@ mn146,sht68,,
 mn147,sn18.1-5,1,
 mn147,sn35.121,,
 mn147,sa200,1,
-mn148,sa304,,"Akanuma p. 171 lists MA 86 at T i 562a as another parallel. In MA 86 Ananda asks the Buddha how to instruct a group of young monks. The Buddha responds by discussing the five aggregates, the six senses, and a broad range of other topics. Thus, despite some overlap as regards the exposition of the six senses, MA 86 and MN 148 do not seem to be parallels. "
-mn148,sa323-327,1,"SA 323−327 and SA 330 form part of a series of short discourses, each of which treats just one aspect of the exposition given in MN 148. Thus, they are partial parallels, just like the Sanskrit fragments in Enomoto 1989."
+mn148,sa304,,"<span class="author">Akanuma</span> p. 171 lists MA 86 at T i 562a as another parallel. In MA 86 Ānanda asks the Buddha how to instruct a group of young monks. The Buddha responds by discussing the five aggregates, the six senses, and a broad range of other topics. Thus, despite some overlap as regards the exposition of the six senses, MA 86 and MN 148 do not seem to be parallels. "
+mn148,sa323-327,1,"SA 323–327 and SA 330 form part of a series of short discourses, each of which treats just one aspect of the exposition given in MN 148. Thus, they are partial parallels, just like the Sanskrit fragments in <span class="author">Enomoto</span> 1989."
 mn148,sa330,1,
 mn148,up3.059,,
 mn148,sf18,,
@@ -2087,13 +2087,13 @@ an1.173,ea8.7,,
 an1.174,ea8.10,,
 an1.175-186,ea8.4,,
 an1.188-234,ea4.1-10,,
-an1.188-234,t126,1,Corresponding section is T ii 831a03−833c07.
+an1.188-234,t126,1,Corresponding section is T ii 831a03–833c07.
 an1.235-247,ea5.1-5,,
-an1.235-247,t126,1,Corresponding section is T ii 833c08−25.
+an1.235-247,t126,1,Corresponding section is T ii 833c08–25.
 an1.248-257,ea6.1-4,,
-an1.248-257,t126,1,Corresponding section is T ii 833c26−834a26.
+an1.248-257,t126,1,Corresponding section is T ii 833c26–834a26.
 an1.258-267,ea7.1-3,,
-an1.258-267,t126,1,Corresponding section is T ii 834a27−b20.
+an1.258-267,t126,1,Corresponding section is T ii 834a27–b20.
 an1.314,ea17.5,,
 an1.314,sf206.511-513,,
 an1.315,ea17.6,,
@@ -2166,11 +2166,11 @@ an3.33,sa-3.8,1,
 an3.33,sf14,,
 an3.33,sht44,,
 an3.35,ea28.3,,
-an3.36,da30,1,"Correspondence reference is DA 30.4, T i 126b09−127a26."
-an3.36,t24,1,Correspondence reference is T i 330c18−332b9.
-an3.36,t25,1,Correspondence reference is T i 365a15−387b6.
+an3.36,da30,1,"Correspondence reference is DA 30.4, T i 126b09–127a26."
+an3.36,t24,1,Correspondence reference is T i 330c18–332b9.
+an3.36,t25,1,Correspondence reference is T i 365a15–387b6.
 mn12,an10.21,1,
-an3.36,t212.9,1,Correspondence reference is T iv 668a04−669b10.
+an3.36,t212.9,1,Correspondence reference is T iv 668a04–669b10.
 an3.36,t741,1,
 an3.37-38,ma202,,
 an3.37-38,t87,,
@@ -2351,7 +2351,7 @@ an4.175,sa251,,
 an4.176,sf225.z1-z4,,
 an4.177,sa465,1,
 an4.178,sa492,,
-an4.180,da2,1,Corresponding section is T i 17b29−18a23.
+an4.180,da2,1,Corresponding section is T i 17b29–18a23.
 an4.180,ea28.5,,
 an4.185,sa972,1,
 an4.185,sa-2.206,1,
@@ -2855,10 +2855,10 @@ an5.203,sf186,,
 an7.3,sa690,,
 an8.54,sa91,1,
 an8.54,sa-2.91,1,
-dn16,an8.65,1,Corresponding section is DN ii 111−112.
-dn16,an8.66,1,Corresponding section is DN ii 111−112.
-dn16,an8.69,1,Corresponding section is DN ii 109−110.
-dn16,an8.70,1,Corresponding section is DN ii 102−109.
+dn16,an8.65,1,Corresponding section is DN ii 111–112.
+dn16,an8.66,1,Corresponding section is DN ii 111–112.
+dn16,an8.69,1,Corresponding section is DN ii 109–110.
+dn16,an8.70,1,Corresponding section is DN ii 102–109.
 an11.17,dq104,,
 an3.31,an4.63,1,
 an3.48,an5.40,1,
@@ -2929,8 +2929,8 @@ an5.63,an10.74,1,
 an5.64,an10.74,1,
 an3.143-145,an11.10,1,
 an4.61,an5.41,1,
-dn16,an4.76,1,Corresponding section is DN ii 154−155.
-mn142,an4.78,1,Corresponding section is MN iii 256−257.
+dn16,an4.76,1,Corresponding section is DN ii 154–155.
+mn142,an4.78,1,Corresponding section is MN iii 256–257.
 sn12.65,sf28,,
 up1.021,sa17,,
 up2.071,sa11,,
