@@ -80,46 +80,46 @@ su,Su,Suttas
 vi,Vi,Vinaya
 ,,
 # Sects,,
--tv,Tv,Theravāda
--vb,Vb,Vibhaṅga
--pm,Pm,Pātimokkha
--pvr,Pvr,Parivāra
--sv,Sv,Sarvāstivāda
--mu,Mu,Mūlasarvāstivāda
--mbt,Mbt,Mahāvyutpatti
--mi,Mi,Mahīśāsaka
--mg,Mg,Mahāsaṅghika
--lo,Lo,Lokuttaravāda
--dg,Dg,Dharmaguptaka
--ka,Ka,Kāśyapīya
--upali,Upali,Upāliparipṛcchā
+tv,Tv,Theravāda
+vb,Vb,Vibhaṅga
+pm,Pm,Pātimokkha
+pvr,Pvr,Parivāra
+sv,Sv,Sarvāstivāda
+mu,Mu,Mūlasarvāstivāda
+mbt,Mbt,Mahāvyutpatti
+mi,Mi,Mahīśāsaka
+mg,Mg,Mahāsaṅghika
+lo,Lo,Lokuttaravāda
+dg,Dg,Dharmaguptaka
+ka,Ka,Kāśyapīya
+upali,Upali,Upāliparipṛcchā
 ,,
 # Names,,
--bf,Bf,Bajaur
--qizil,Qizil,Qizil
--tf,Tf,Turfan
--finot,Finot,Finot
+bf,Bf,Bajaur
+qizil,Qizil,Qizil
+tf,Tf,Turfan
+finot,Finot,Finot
 ,,
 # Vinaya Rule Classes,,
--pj,Pj,Pārājika
--ss,Ss,Saṅghādisesā
--an,An,Aniya­ta
--np,NP,Nissaggiyā Pācittiyā
--pc,Pc,Pācittiyā
--pd,Pd,Pāṭidesanīyā
--sk,Sk,Sekhiyā
--as,As,Adhikaraṇasamathā
+pj,Pj,Pārājika
+ss,Ss,Saṅghādisesā
+ay,Ay,Aniya­ta
+np,NP,Nissaggiyā Pācittiyā
+pc,Pc,Pācittiyā
+pd,Pd,Pāṭidesanīyā
+sk,Sk,Sekhiyā
+as,As,Adhikaraṇasamathā
 ,,
 # Misc,,
--asc,Asc,Abhisamācārika
--bu,Bu,Bhikkhu
--bi,Bi,Bhikkhunī
--pn,Pn,Pakiṇṇaka
--conc,Conc.,Conclusion
--gd,Gd,Garudhamma
--cases,cases,cases
--vagga,Vagga,Vagga
--kd,Kd,Khandhaka
+asc,Asc,Abhisamācārika
+bu,Bu,Bhikkhu
+bi,Bi,Bhikkhunī
+pn,Pn,Pakiṇṇaka
+conc,Conc.,Conclusion
+gd,Gd,Garudhamma
+cases,cases,cases
+vagga,Vagga,Vagga
+kd,Kd,Khandhaka
 ,,,
 #Editions
 c-a,C-A,"Chaṭṭhasaṅgīti Piṭakaṃ Atthakathā"
