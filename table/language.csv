@@ -2,8 +2,9 @@ uid,iso_code,name,isroot,priority
 bo,bo,Tibetan,1,5
 de,de,Deutsch,,5
 en,en,English,,2
-es,es,Español,,9
+es,es,Español,,4
 fr,fr,Français,,4
+id,id,Bahasa Indonesia,,4
 it,it,Italiano,,9
 ko,ko,한국어/조선말,,7
 oth,ot,Other,1,9
@@ -16,3 +17,4 @@ vn,vn,Tiếng Việt,,8
 zh,zh,Chinese,1,1
 my,my,မြန်မာဘာသာ,,4
 gr,gr,Gandhari,0,5
+
