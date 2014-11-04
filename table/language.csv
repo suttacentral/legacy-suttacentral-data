@@ -1,5 +1,6 @@
 uid,iso_code,name,isroot,priority
 bo,bo,Tibetan,1,5
+ca,ca,Català,,9
 de,de,Deutsch,,5
 en,en,English,,2
 es,es,Español,,4
