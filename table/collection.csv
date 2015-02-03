@@ -1,16 +1,16 @@
 uid,language,sect_uid,pitaka_uid,name,abbrev_name
 pi-su,pi,,su,Pāli Suttas,P S
-zh-su,zh,,su,Chinese Sūtras,C S
+lzh-su,lzh,,su,Chinese Sūtras,C S
 skt-su,skt,,su,Sanskrit Texts,Skt S
 bo-su,bo,,su,Tibetan Texts,Tib
 oth-su,oth,,su,Other Texts,Other
 pi-tv-vi,pi,tv,vi,Pāli Theravāda Vinaya,P ? V
-zh-mg-vi,zh,mg,vi,Chinese Mahāsaṅghika Vinaya,C ? V
-zh-mi-vi,zh,mi,vi,Chinese Mahīśāsaka Vinaya,C ? V
-zh-dg-vi,zh,dg,vi,Chinese Dharmaguptaka Vinaya,C ? V
-zh-sv-vi,zh,sv,vi,Chinese Sarvāstivāda Vinaya,C ? V
-zh-mu-vi,zh,mu,vi,Chinese Mūlasarvāstivāda Vinaya,C ? V
-zh-oth-vi,zh,other,vi,Other Chinese Vinaya,Other C V
+lzh-mg-vi,lzh,mg,vi,Chinese Mahāsaṅghika Vinaya,C ? V
+lzh-mi-vi,lzh,mi,vi,Chinese Mahīśāsaka Vinaya,C ? V
+lzh-dg-vi,lzh,dg,vi,Chinese Dharmaguptaka Vinaya,C ? V
+lzh-sv-vi,lzh,sv,vi,Chinese Sarvāstivāda Vinaya,C ? V
+lzh-mu-vi,lzh,mu,vi,Chinese Mūlasarvāstivāda Vinaya,C ? V
+lzh-oth-vi,lzh,other,vi,Other Chinese Vinaya,Other C V
 skt-mg-vi,skt,mg,vi,Sanskrit Mahāsaṅghika Vinaya,Skt ? V
 skt-lo-vi,skt,lo,vi,Sanskrit Lokuttaravāda Vinaya,Skt ? V
 skt-sv-vi,skt,sv,vi,Sanskrit Sarvāstivāda Vinaya,Skt ? V
@@ -20,6 +20,6 @@ bo-mu-vi,bo,mu,vi,Tibetan Mūlasarvāstivāda Vinaya,Tib ? V
 gr-dg-vi,oth,dg,vi,Gandhari Dharmaguptaka Vinaya, Gr Dg Vi
 oth-vi,oth,oth-gr,vi,Vinaya Fragments, Gr ? V
 pi-tv-ab,pi,tv,ab,Pāli Theravāda Abhidhamma,P ? A
-zh-sv-ab,zh,sv,ab,Chinese Sarvāstivāda Abhidharma,C ? A
-zh-dg-ab,zh,dg,ab,Chinese Dharmaguptaka Abhidharma,C ? A
+lzh-sv-ab,lzh,sv,ab,Chinese Sarvāstivāda Abhidharma,C ? A
+lzh-dg-ab,lzh,dg,ab,Chinese Dharmaguptaka Abhidharma,C ? A
 skt-sv-ab,skt,sv,ab,Sanskrit Sarvāstivāda Abhidharma,Skt ? A
