@@ -1,30 +1,29 @@
-uid,iso_code,name,isroot,priority
-bo,bo,Tibetan,1,5
-ca,ca,Català,,9
-de,de,Deutsch,,5
-en,en,English,,2
-es,es,Español,,4
-fr,fr,Français,,4
-hi,hi,हिन्दी,,3
-hu,hu,Magyar,,9
-id,id,Bahasa Indonesia,,4
-it,it,Italiano,,9
-ko,ko,한국어/조선말,,7
-nl,nl,Nederlands,,4
-no,no,Norsk,,4
-oth,ot,Other,1,9
-pi,pi,Pāli,1,3
-pl,pl,Polszczyzna,,9
-pt,pt,Português,,9
-ru,ru,ру́сский язы́к,,9
-skt,sa,Sanskrit,1,4
-si,si,සිංහල,,2
-sv,sv,Svenska,,5
-th,th,ไทย,,4
-ug,ug,Uighur,,9
-vn,vn,Tiếng Việt,,8
-lzh,lzh,Chinese,1,1
-zh,zh,Modern Chinese,1,3
-my,my,မြန်မာဘာသာ,,4
-gr,gr,Gandhari,0,5
-
+uid,iso_code,name,isroot,priority,search_priority
+bo,bo,Tibetan,1,5,18
+ca,ca,Català,,9,17
+de,de,Deutsch,,5,4
+en,en,English,,2,1
+es,es,Español,,4,9
+fr,fr,Français,,4,6.5
+hi,hi,हिन्दी,,3,20
+hu,hu,Magyar,,9,21
+id,id,Bahasa Indonesia,,4,8
+it,it,Italiano,,9,14
+ko,ko,한국어/조선말,,7,12
+nl,nl,Nederlands,,4,16
+no,no,Norsk,,4,14.5
+oth,ot,Other,1,9,20
+pi,pi,Pāli,1,3,2
+pl,pl,Polszczyzna,,9,18
+pt,pt,Português,,9,11
+ru,ru,ру́сский язы́к,,9,10
+skt,sa,Sanskrit,1,4,7
+si,si,සිංහල,,2,10.5
+sv,sv,Svenska,,5,19
+th,th,ไทย,,4,13
+ug,ug,Uighur,,9,15.5
+vn,vn,Tiếng Việt,,8,5
+lzh,lzh,Chinese,1,1,3
+zh,zh,汉语,,3,5.5
+my,my,မြန်မာဘာသာ,,4,6
+gr,gr,Gandhari,1,5,19
