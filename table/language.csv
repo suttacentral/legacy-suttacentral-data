@@ -1,7 +1,7 @@
 uid,iso_code,name,isroot,priority,search_priority
 bo,bo,Tibetan,1,5,18
 ca,ca,Català,,9,17
-cz,cz,Čeština,,8,22
+cs,cs,Čeština,,8,22
 de,de,Deutsch,,5,4
 en,en,English,,2,1
 es,es,Español,,4,9
