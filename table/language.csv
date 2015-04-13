@@ -1,4 +1,5 @@
 uid,iso_code,name,isroot,priority,search_priority
+af,af,Afrikaans,,5,20.5
 bo,bo,བོད་སྐད།,1,5,18
 ca,ca,Català,,9,17
 cs,cs,Čeština,,8,22
