@@ -1,5 +1,6 @@
 uid,iso_code,name,isroot,priority,search_priority
-bo,bo,Tibetan,1,5,18
+af,af,Afrikaans,,5,20.5
+bo,bo,བོད་སྐད།,1,5,18
 ca,ca,Català,,9,17
 cs,cs,Čeština,,8,22
 de,de,Deutsch,,5,4
@@ -11,6 +12,7 @@ hi,hi,हिन्दी,,3,20
 hu,hu,Magyar,,9,21
 id,id,Bahasa Indonesia,,4,8
 it,it,Italiano,,9,14
+jp,jp,日本語,,7,12.5
 ko,ko,한국어/조선말,,7,12
 nl,nl,Nederlands,,4,16
 no,no,Norsk,,4,14.5
