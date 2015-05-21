@@ -1,6 +1,6 @@
 uid,iso_code,name,isroot,priority,search_priority
 af,af,Afrikaans,,5,20.5
-bo,bo,བོད་སྐད།,1,5,18
+bo,bo,Tibetan,1,5,18
 ca,ca,Català,,9,17
 cs,cs,Čeština,,8,22
 de,de,Deutsch,,5,4
@@ -29,7 +29,7 @@ sv,sv,Svenska,,5,19
 th,th,ไทย,,4,13
 ug,ug,Uighur,,9,15.5
 vn,vn,Tiếng Việt,,8,5
-lzh,lzh,汉语,1,1,3
+lzh,lzh,Chinese,1,1,3
 zh,zh,汉语,,3,5.5
 my,my,မြန်မာဘာသာ,,4,6
 gr,gr,Gandhari,1,5,19
