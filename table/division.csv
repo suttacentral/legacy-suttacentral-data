@@ -66,19 +66,19 @@ lzh-dg-bi-pm,lzh-dg-vi,Bhikkhunī Pātimokkha,,,,
 lzh-dg-bu-kammavaca,lzh-dg-vi,Bhikkhu Kammavācā (1st),,,,
 lzh-dg-bu-kammavaca-2,lzh-dg-vi,Bhikkhu Kammavācā (2nd),,,,
 lzh-dg-bi-kammavaca,lzh-dg-vi,Bhikkhunī Kammavācā,,,,
-lzh-sv-bu-vb,lzh-sv-vi,Bhikkhu Vibhaṅga,,,,1
-lzh-sv-kd,lzh-sv-vi,Khandhaka,,,,1
-lzh-sv-bi-vb,lzh-sv-vi,Bhikkhunī Vibhaṅga,,,,1
-lzh-sv-ve,lzh-sv-vi,Ekottara,,,,1
-lzh-sv-upali,lzh-sv-vi,Upāliparipucchā,,,,1
-lzh-sv-ba,lzh-sv-vi,Bhikkhu Ajjhāya,,,,
-lzh-sv-bu-pm,lzh-sv-vi,Bhikkhu Pātimokkha (1st),,,,
-lzh-sv-bu-pm-2,lzh-sv-vi,Bhikkhu Pātimokkha (2nd),,,,
-lzh-sv-bi-pm,lzh-sv-vi,Bhikkhunī Pātimokkha,,,,
-lzh-sv-bi-pm-dh,lzh-sv-vi,Bhikkhunī Pātimokkha (Dunhaung),,,,
-lzh-sv-bu-kammavaca,lzh-sv-vi,Bhikkhu Kammavācā (1st),,,,
-lzh-sv-bu-kammavaca-2,lzh-sv-vi,Bhikkhu Kammavācā (2nd),,,,
-lzh-sv-matika,lzh-sv-vi,Mātikā,,,,
+lzh-sarv-bu-vb,lzh-sarv-vi,Bhikkhu Vibhaṅga,,,,1
+lzh-sarv-kd,lzh-sarv-vi,Khandhaka,,,,1
+lzh-sarv-bi-vb,lzh-sarv-vi,Bhikkhunī Vibhaṅga,,,,1
+lzh-sarv-ve,lzh-sarv-vi,Ekottara,,,,1
+lzh-sarv-upali,lzh-sarv-vi,Upāliparipucchā,,,,1
+lzh-sarv-ba,lzh-sarv-vi,Bhikkhu Ajjhāya,,,,
+lzh-sarv-bu-pm,lzh-sarv-vi,Bhikkhu Pātimokkha (1st),,,,
+lzh-sarv-bu-pm-2,lzh-sarv-vi,Bhikkhu Pātimokkha (2nd),,,,
+lzh-sarv-bi-pm,lzh-sarv-vi,Bhikkhunī Pātimokkha,,,,
+lzh-sarv-bi-pm-dh,lzh-sarv-vi,Bhikkhunī Pātimokkha (Dunhaung),,,,
+lzh-sarv-bu-kammavaca,lzh-sarv-vi,Bhikkhu Kammavācā (1st),,,,
+lzh-sarv-bu-kammavaca-2,lzh-sarv-vi,Bhikkhu Kammavācā (2nd),,,,
+lzh-sarv-matika,lzh-sarv-vi,Mātikā,,,,
 lzh-mu-bu-vb,lzh-mu-vi,Bhikkhu Vibhaṅga,,,,1
 lzh-mu-bi-vb,lzh-mu-vi,Bhikkhunī Vibhaṅga,,,,1
 lzh-mu-kd,lzh-mu-vi,Khandhaka,,,,1
@@ -100,12 +100,12 @@ skt-lo-bi-pn,skt-lo-vi,Bhikkhunī Pakiṇṇaka,,,,1
 skt-lo-bu-pn,skt-lo-vi,Bhikkhu Pakiṇṇaka,,,,
 skt-lo-bu-pm,skt-lo-vi,Bhikkhu Pātimokkha,,,,
 skt-lo-asc,skt-lo-vi,Abhisamācārika,,,,
-skt-sv-bu-pm-tf11,skt-sv-vi,Bhikkhu Pātimokkha (Turfan 11),,,,
-skt-sv-bu-pm-finot,skt-sv-vi,Bhikkhu Pātimokkha (Finot),,,,
-skt-sv-bi-vb,skt-sv-vi,Bhikkhunī Vibhaṅga,,,,
-skt-sv-bi-pm,skt-sv-vi,Bhikkhunī Pātimokka,,,,
-skt-sv-bu-kammavaca,skt-sv-vi,Bhikkhu Kammavācā,,,,
-skt-sv-bi-kammavaca,skt-sv-vi,Bhikkhunī Kammavācā,,,,
+skt-sarv-bu-pm-tf11,skt-sarv-vi,Bhikkhu Pātimokkha (Turfan 11),,,,
+skt-sarv-bu-pm-finot,skt-sarv-vi,Bhikkhu Pātimokkha (Finot),,,,
+skt-sarv-bi-vb,skt-sarv-vi,Bhikkhunī Vibhaṅga,,,,
+skt-sarv-bi-pm,skt-sarv-vi,Bhikkhunī Pātimokka,,,,
+skt-sarv-bu-kammavaca,skt-sarv-vi,Bhikkhu Kammavācā,,,,
+skt-sarv-bi-kammavaca,skt-sarv-vi,Bhikkhunī Kammavācā,,,,
 skt-mu-kd,skt-mu-vi,Khandhaka,,,,
 skt-mu-bu-pm-gbm3,skt-mu-vi,Bhikkhu Pātimokkha (Gilgit 3),,,,
 skt-mu-bu-pm-gbm2,skt-mu-vi,Bhikkhu Pātimokkha (Gilgit 2),,,,
@@ -122,7 +122,7 @@ bo-mu-uttaragantha,bo-mu-vi,Uttaragantha (1st),,,,1
 bo-mu-uttaragantha-2,bo-mu-vi,Uttaragantha (2nd),,,,
 bo-mu-bu-kammavaca,bo-mu-vi,Bhikkhu Kammavācā,,,,
 #Misc Vinaya,,,,,,
-lzh-sv-vi-misc,lzh-sv-vi,Miscellaneous,,,,1
+lzh-sarv-vi-misc,lzh-sarv-vi,Miscellaneous,,,,1
 skt-lo-vi-misc,skt-lo-vi,Miscellaneous,,,,1
 ,,,,,,
 # Abhidhamma Divisions,,,,,,
@@ -133,13 +133,13 @@ pp,pi-tv-ab,Puggalapaññatti,,,,
 kv,pi-tv-ab,Kathāvatthu,,,,
 ya,pi-tv-ab,Yamaka,,,,
 patthana,pi-tv-ab,Paṭṭhāna,,,,
-sangitiparyaya,lzh-sv-ab,Saṅgītiparyāya,,,,
-lzh-dharmaskandha,lzh-sv-ab,Dharmaskandha,,,,
-prajnaptisastra,lzh-sv-ab,Prajnaptiśāstra,,,,
-dhatukaya,lzh-sv-ab,Dhātukāya,,,,
-vijnanakaya,lzh-sv-ab,Vijnānakāya,,,,
-prakaranapada,lzh-sv-ab,Prakaraṇapada,,,,
-jnanaprasthana,lzh-sv-ab,Jnānaprasthāna,,,,
+sangitiparyaya,lzh-sarv-ab,Saṅgītiparyāya,,,,
+lzh-dharmaskandha,lzh-sarv-ab,Dharmaskandha,,,,
+prajnaptisastra,lzh-sarv-ab,Prajnaptiśāstra,,,,
+dhatukaya,lzh-sarv-ab,Dhātukāya,,,,
+vijnanakaya,lzh-sarv-ab,Vijnānakāya,,,,
+prakaranapada,lzh-sarv-ab,Prakaraṇapada,,,,
+jnanaprasthana,lzh-sarv-ab,Jnānaprasthāna,,,,
 sariputrabhidharma,lzh-dg-ab,Śāripūtrābhidharma,,,,
-skt-dharmaskandha,skt-sv-ab,Dharmaskandha,,,,
-skt-jnanaprasthana,skt-sv-ab,Jnānaprasthāna,,,,
+skt-dharmaskandha,skt-sarv-ab,Dharmaskandha,,,,
+skt-jnanaprasthana,skt-sarv-ab,Jnānaprasthāna,,,,
