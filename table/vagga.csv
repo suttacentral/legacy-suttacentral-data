@@ -1,4 +1,14 @@
 subdivision_uid,number,name
+sht,1,"SHT 1 – ed. W. Clawiter, L. Holzmann, E. Waldschmidt 1965"
+sht,2,"SHT 2 – ed. W. Clawiter, L. Holzmann, E. Waldschmidt 1968"
+sht,3,"SHT 3 – ed. W. Clawiter, L. Holzmann, E. Waldschmidt 1971"
+sht,4,"SHT 4 – ed. L. Sander, E. Waldschmidt 1980"
+sht,5,"SHT 5 – ed. L. Sander, E. Waldschmidt 1985"
+sht,6,"SHT 6 – ed. H. Bechert, K. Wille 1989"
+sht,7,"SHT 7 – ed. H. Bechert, K. Wille 1995"
+sht,8,"SHT 8 – ed. H. Bechert, K. Wille 2000"
+sht,9,"SHT 9 – ed. H. Bechert, K. Wille 2004"
+sht,10,"SHT 10 – ed. K. Wille 2008"
 dn,1,Sīlakkhandha Vagga
 dn,2,Mahā Vagga
 dn,3,Pāṭika Vagga
