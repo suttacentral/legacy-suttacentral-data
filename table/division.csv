@@ -1,4 +1,5 @@
 uid,collection_uid,name,alt_name,acronym,subdiv_ind,menu_gwn_ind
+# gdhp,gr-su,Dharmapada,,Gdhp,1,
 dn,pi-su,Dīgha Nikāya,,DN,,
 mn,pi-su,Majjhima Nikāya,,MN,,
 sn,pi-su,Saṃyutta Nikāya,,SN,1,
@@ -26,9 +27,10 @@ dq,bo-su,Derge / Peking editions,,D / Q,,
 up,bo-su,Upāyikā,Abhidharma­kośa­ṭīk­opāyikā,Up,,
 tc,bo-su,Critical editions,,Tib ed,,
 pf,oth-su,Prākrit fragments,,Prak frgm,,
-gf,oth-su,Gāndhārī fragments,,Gandh frgm,,
 kf,oth-su,Khotanese fragments,,Khot frgm,,
 uf,oth-su,Uighur fragments,,Uigh frgm,,
+gdh,gr-su,Dharmapada,,Dharmapada,,
+gf,gr-su,Gāndhārī fragments,,Gandh frgm,,
 ,,,,,,
 # Vinaya Divisions,,,,,,
 pi-tv-bu-vb,pi-tv-vi,Bhikkhu Vibhaṅga,,,,1
