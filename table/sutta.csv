@@ -11747,21 +11747,117 @@ Trapuṣabhallikaparivartaḥ,lal24,lal,,,skt,Lal 24,,
 Adhyeṣaṇāparivartaḥ,lal25,lal,,,skt,Lal 25,,
 Dharmacakrapravartanaparivartaḥ,lal26,lal,,,skt,Lal 26,Vaidya 1958b: 303–304; Lefmann 1902: 416–418,vai1958b/lef1902
 Nigamaparivartaḥ,lal27,lal,,,skt,Lal 27,,
-,mvu10,mvu,,,skt,Mvu,Basak 1963: 409–428; Senart 1882: 317–329,bas1963
-,mvu20,mvu,,,skt,Mvu,Basak 1965: 165–169; Senart 1890: 118–120,bas1965
-,mvu30,mvu,,,skt,Mvu,Basak 1965: 169–186; Senart 1890: 121–133,bas1965
-,mvu70,mvu,,,skt,Mvu,Senart 1897: 330–335,sen1897
-,mvu80,mvu,,,skt,Mvu,Senart 1897: 415–416,sen1897
-,mvu90,mvu,,,skt,Mvu,Senart 1897: 416–417,sen1897
-,mvu100,mvu,,,skt,Mvu,Senart 1897: 420–421,sen1897
-,sbv10,sbv,,,skt,Sbv,Gnoli 1977: 100–106 & 116–119,gno1977
-,sbv20,sbv,,,skt,Sbv,Gnoli 1977: 127,gno1977
-,sbv30,sbv,,,skt,Sbv,Gnoli 1977: 128–136,gno1977
-,sbv40,sbv,,,skt,Sbv,Gnoli 1977: 134–139,gno1977
-,sbv50,sbv,,,skt,Sbv,Gnoli 1977: 148,gno1977
-,sbv60,sbv,,,skt,Sbv,Gnoli 1977: 182–183,gno1977
-,sbv70,sbv,,,skt,Sbv,Gnoli 1978: 22–30,gno1978
-,sbv80,sbv,,,skt,Sbv,Gnoli 1978: 216–253,gno1978
+Prologue,mvu1,mvu,,,skt,MVU 1,Basak 1963; Senart 1882,bas1963
+Maudgalyāyana’s Visits to Hell,mvu2,mvu,,,skt,MVU 2,Basak 1963; Senart 1882,bas1963
+Visits to Other Worlds,mvu3,mvu,,,skt,MVU 3,Basak 1963; Senart 1882,bas1963
+The Story of Abhiya,mvu4,mvu,,,skt,MVU 4,Basak 1963; Senart 1882,bas1963
+The Many Buddhas,mvu5,mvu,,,skt,MVU 5,Basak 1963; Senart 1882,bas1963
+A Visit to the Śuddhāvāsa Devas,mvu6,mvu,,,skt,MVU 6,Basak 1963; Senart 1882,bas1963
+The Ten Bhūmis,mvu7,mvu,,,skt,MVU 7,Basak 1963; Senart 1882,bas1963
+The First Bhūmi,mvu8,mvu,,,skt,MVU 8,Basak 1963; Senart 1882,bas1963
+The Second Bhūmi,mvu9,mvu,,,skt,MVU 9,Basak 1963; Senart 1882,bas1963
+The Third Bhūmi,mvu10,mvu,,,skt,MVU 10,Basak 1963; Senart 1882,bas1963
+The Fourth Bhūmi,mvu11,mvu,,,skt,MVU 11,Basak 1963; Senart 1882,bas1963
+The Fifth Bhūmi,mvu12,mvu,,,skt,MVU 12,Basak 1963; Senart 1882,bas1963
+The Sixth Bhūmi,mvu13,mvu,,,skt,MVU 13,Basak 1963; Senart 1882,bas1963
+The Seventh Bhūmi,mvu14,mvu,,,skt,MVU 14,Basak 1963; Senart 1882,bas1963
+The Eighth Bhūmi,mvu15,mvu,,,skt,MVU 15,Basak 1963; Senart 1882,bas1963
+The Ninth Bhūmi,mvu16,mvu,,,skt,MVU 16,Basak 1963; Senart 1882,bas1963
+The Tenth Bhūmi,mvu17,mvu,,,skt,MVU 17,Basak 1963; Senart 1882,bas1963
+Attributes of the Buddhas,mvu18,mvu,,,skt,MVU 18,Basak 1963; Senart 1882,bas1963
+Apparitions,mvu19,mvu,,,skt,MVU 19,Basak 1963; Senart 1882,bas1963
+The History of Dīpaṃkara,mvu20,mvu,,,skt,MVU 20,Basak 1963; Senart 1882,bas1963
+The Birth of the Buddha Dīpaṃkara,mvu21,mvu,,,skt,MVU 21,Basak 1963; Senart 1882,bas1963
+Enlightenment,mvu22,mvu,,,skt,MVU 22,Basak 1963; Senart 1882,bas1963
+Megha and Meghadatta,mvu23,mvu,,,skt,MVU 23,Basak 1963; Senart 1882,bas1963
+The Buddha Maṃgala,mvu24,mvu,,,skt,MVU 24,Basak 1963; Senart 1882,bas1963
+The Buddha’s Visit to Veśālī,mvu25,mvu,,,skt,MVU 25,Basak 1963; Senart 1882,bas1963
+The Sunshades,mvu26,mvu,,,skt,MVU 26,Basak 1963; Senart 1882,bas1963
+The Three Birds,mvu27,mvu,,,skt,MVU 27,Basak 1963; Senart 1882,bas1963
+Plagues of Former Days,mvu28,mvu,,,skt,MVU 28,Basak 1963; Senart 1882,bas1963
+The Buddha in Veśālī,mvu29,mvu,,,skt,MVU 29,Basak 1963; Senart 1882,bas1963
+The Story of Mālinī,mvu30,mvu,,,skt,MVU 30,Basak 1963; Senart 1882,bas1963
+Ghatikāra and Jyotipāla,mvu31,mvu,,,skt,MVU 31,Basak 1963; Senart 1882,bas1963
+Genesis of the World,mvu32,mvu,,,skt,MVU 32,Basak 1963; Senart 1882,bas1963
+The History of the Deer Park,mvu33,mvu,,,skt,MVU 33,Basak 1963; Senart 1882,bas1963
+The Birth of Gotama,mvu34,mvu,,,skt,MVU 34,Basak 1965; Senart 1890,bas1965
+Asita and the Young Gotama,mvu35,mvu,,,skt,MVU 35,Basak 1965; Senart 1890,bas1965
+Gotama’s Youth,mvu36,mvu,,,skt,MVU 36,Basak 1965; Senart 1890,bas1965
+Mañjarī Jātaka,mvu37,mvu,,,skt,MVU 37,Basak 1965; Senart 1890,bas1965
+Lizard Jātaka,mvu38,mvu,,,skt,MVU 38,Basak 1965; Senart 1890,bas1965
+The Gift of a Necklace to Yaśodharā,mvu39,mvu,,,skt,MVU 39,Basak 1965; Senart 1890,bas1965
+The Jātaka of Yaśodharā as a Tigress,mvu40,mvu,,,skt,MVU 40,Basak 1965; Senart 1890,bas1965
+The Wooing of Yaśodharā,mvu41,mvu,,,skt,MVU 41,Basak 1965; Senart 1890,bas1965
+The Story of Dharmapāla,mvu42,mvu,,,skt,MVU 42,Basak 1965; Senart 1890,bas1965
+The Jātaka of the Arrow that was Shot Far,mvu43,mvu,,,skt,MVU 43,Basak 1965; Senart 1890,bas1965
+"The Jātaka of Amarā, the Smith’s Daughter",mvu44,mvu,,,skt,MVU 44,Basak 1965; Senart 1890,bas1965
+The Śiri Jātaka,mvu45,mvu,,,skt,MVU 45,Basak 1965; Senart 1890,bas1965
+The Kinnarī Jātaka,mvu46,mvu,,,skt,MVU 46,Basak 1965; Senart 1890,bas1965
+The Great Renunciation,mvu47,mvu,,,skt,MVU 47,Basak 1965; Senart 1890,bas1965
+The Dreams of Śuddhodana and Others,mvu48,mvu,,,skt,MVU 48,Basak 1965; Senart 1890,bas1965
+The Great Renunciation Again,mvu49,mvu,,,skt,MVU 49,Basak 1965; Senart 1890,bas1965
+Śyāmā Jātaka,mvu50,mvu,,,skt,MVU 50,Basak 1965; Senart 1890,bas1965
+Campaka Jātaka,mvu51,mvu,,,skt,MVU 51,Basak 1965; Senart 1890,bas1965
+Gotama’s Early Wanderings,mvu52,mvu,,,skt,MVU 52,Basak 1965; Senart 1890,bas1965
+The Śyāmaka Jātaka,mvu53,mvu,,,skt,MVU 53,Basak 1965; Senart 1890,bas1965
+Śiriprabha Jātaka,mvu54,mvu,,,skt,MVU 54,Basak 1965; Senart 1890,bas1965
+The Temptation by Māra,mvu55,mvu,,,skt,MVU 55,Basak 1965; Senart 1890,bas1965
+The Jātaka of the Bird,mvu56,mvu,,,skt,MVU 56,Basak 1965; Senart 1890,bas1965
+The Jātaka of the Tortoise,mvu57,mvu,,,skt,MVU 57,Basak 1965; Senart 1890,bas1965
+The Jātaka of the Monkey,mvu58,mvu,,,skt,MVU 58,Basak 1965; Senart 1890,bas1965
+The Jātaka of the Bird (2),mvu59,mvu,,,skt,MVU 59,Basak 1965; Senart 1890,bas1965
+The Surūpa Jātaka,mvu60,mvu,,,skt,MVU 60,Basak 1965; Senart 1890,bas1965
+The First Avalokita Sūtra,mvu61,mvu,,,skt,MVU 61,Basak 1965; Senart 1890,bas1965
+Anaṅgaṇa Jātaka,mvu62,mvu,,,skt,MVU 62,Basak 1965; Senart 1890,bas1965
+The First Avalokita Sūtra (cont.),mvu63,mvu,,,skt,MVU 63,Basak 1965; Senart 1890,bas1965
+The Second Avalokita Sūtra,mvu64,mvu,,,skt,MVU 64,Basak 1965; Senart 1890,bas1965
+The Kuśa Jātaka (1),mvu65,mvu,,,skt,MVU 65,Basak 1965; Senart 1890,bas1965
+The Kuśa Jātaka (2),mvu66,mvu,,,skt,MVU 66,Senart 1897,sen1897
+The Jātaka of the Bull,mvu67,mvu,,,skt,MVU 67,Senart 1897,sen1897
+The Jātaka of the Monkey (1),mvu68,mvu,,,skt,MVU 68,Senart 1897,sen1897
+The Jātaka of the Monkey (2),mvu69,mvu,,,skt,MVU 69,Senart 1897,sen1897
+Puṇyavanta Jātaka,mvu70,mvu,,,skt,MVU 70,Senart 1897,sen1897
+"The Jātaka of Vijitāvi, King of Videha",mvu71,mvu,,,skt,MVU 71,Senart 1897,sen1897
+The Story of Mahākāśyapa’s Going Forth,mvu72,mvu,,,skt,MVU 72,Senart 1897,sen1897
+The Conversion of Śāriputra and Maudgalyāyana,mvu73,mvu,,,skt,MVU 73,Senart 1897,sen1897
+The Jātaka of the Five Hundred Merchants,mvu74,mvu,,,skt,MVU 74,Senart 1897,sen1897
+The Reconciliation of Father and Son,mvu75,mvu,,,skt,MVU 75,Senart 1897,sen1897
+The Jātaka of the Crow,mvu76,mvu,,,skt,MVU 76,Senart 1897,sen1897
+The Jātaka of the Female Elephant,mvu77,mvu,,,skt,MVU 77,Senart 1897,sen1897
+The Conversion of the Asuras,mvu78,mvu,,,skt,MVU 78,Senart 1897,sen1897
+The Jātaka of Princess Nalinī,mvu79,mvu,,,skt,MVU 79,Senart 1897,sen1897
+The First Jātaka About Padumāvatī,mvu80,mvu,,,skt,MVU 80,Senart 1897,sen1897
+A Former Life of Padumāvatī,mvu81,mvu,,,skt,MVU 81,Senart 1897,sen1897
+A Jātaka of a Former Life of Rāhula,mvu82,mvu,,,skt,MVU 82,Senart 1897,sen1897
+The Going Forth of the Five Hundred Śākyans,mvu83,mvu,,,skt,MVU 83,Senart 1897,sen1897
+The Jātaka of Gaṅgapāla,mvu84,mvu,,,skt,MVU 84,Senart 1897,sen1897
+Govindīya Sūtra,mvu85,mvu,,,skt,MVU 85,Senart 1897,sen1897
+The Sūtra of Many Buddhas,mvu86,mvu,,,skt,MVU 86,Senart 1897,sen1897
+The Story of Sarvaṃdada,mvu87,mvu,,,skt,MVU 87,Senart 1897,sen1897
+The Going Forth of Rāhula,mvu88,mvu,,,skt,MVU 88,Senart 1897,sen1897
+After the Enlightenment,mvu89,mvu,,,skt,MVU 89,Senart 1897,sen1897
+The Dharmalabdha Jātaka,mvu90,mvu,,,skt,MVU 90,Senart 1897,sen1897
+Visits to Nāga Kings,mvu91,mvu,,,skt,MVU 91,Senart 1897,sen1897
+The Goatherd’s Banyan Tree,mvu92,mvu,,,skt,MVU 92,Senart 1897,sen1897
+Trapuṣa and Bhallika,mvu93,mvu,,,skt,MVU 93,Senart 1897,sen1897
+From Uruvilvā to Benares,mvu94,mvu,,,skt,MVU 94,Senart 1897,sen1897
+The Rolling of the Wheel,mvu95,mvu,,,skt,MVU 95,Senart 1897,sen1897
+The Jātaka of Ājñāta Kauṇḍinya,mvu96,mvu,,,skt,MVU 96,Senart 1897,sen1897
+The Jātaka of the Group of Five,mvu97,mvu,,,skt,MVU 97,Senart 1897,sen1897
+The Jātaka of Kṣāntivādin,mvu98,mvu,,,skt,MVU 98,Senart 1897,sen1897
+The Jātaka of Śarabhaṅga,mvu99,mvu,,,skt,MVU 99,Senart 1897,sen1897
+The Ordination of the Thirty Companions,mvu100,mvu,,,skt,MVU 100,Senart 1897,sen1897
+The Story of Pūrṇa Maitrāyaṇīputra,mvu101,mvu,,,skt,MVU 101,Senart 1897,sen1897
+The Questions of Nālaka,mvu102,mvu,,,skt,MVU 102,Senart 1897,sen1897
+The Story of Sabhika,mvu103,mvu,,,skt,MVU 103,Senart 1897,sen1897
+The Story of the Merchant’s Son Yaśoda,mvu104,mvu,,,skt,MVU 104,Senart 1897,sen1897
+A Former Life of Yaśoda,mvu105,mvu,,,skt,MVU 105,Senart 1897,sen1897
+The Temptation by Māra,mvu106,mvu,,,skt,MVU 106,Senart 1897,sen1897
+The Jātaka of Asthisena,mvu107,mvu,,,skt,MVU 107,Senart 1897,sen1897
+The Three Kāśyapas,mvu108,mvu,,,skt,MVU 108,Senart 1897,sen1897
+The Chapter of the Thousand,mvu109,mvu,,,skt,MVU 109,Senart 1897,sen1897
+The Conversion of Bimbisāra,mvu110,mvu,,,skt,MVU 110,Senart 1897,sen1897
+The Jātaka of Arindama,mvu111,mvu,,,skt,MVU 111,Senart 1897,sen1897
 Mahākarmavibhaṅga I,mkv1,mkv,,,skt,Mkv 1,,
 Mahākarmavibhaṅga II,mkv2,mkv,,,skt,Mkv 2,,
 Mahākarmavibhaṅga III,mkv3,mkv,,,skt,Mkv 3,,
