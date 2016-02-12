@@ -103,6 +103,7 @@ skt-lo-bi-pn,skt-lo-vi,Bhikkhunī Pakiṇṇaka,,,,1
 skt-lo-bu-pn,skt-lo-vi,Bhikkhu Pakiṇṇaka,,,,
 skt-lo-bu-pm,skt-lo-vi,Bhikkhu Pātimokkha,,,,
 skt-lo-asc,skt-lo-vi,Abhisamācārika,,,,
+skt-lo-vi-misc,skt-lo-vi,Miscellaneous,,,,1
 skt-lo-mvu,skt-lo-vi,Mahāvastu,,,,
 skt-sarv-bu-pm-tf11,skt-sarv-vi,Bhikkhu Pātimokkha (Turfan 11),,,,
 skt-sarv-bu-pm-finot,skt-sarv-vi,Bhikkhu Pātimokkha (Finot),,,,
@@ -127,7 +128,6 @@ bo-mu-uttaragantha-2,bo-mu-vi,Uttaragantha (2nd),,,,
 bo-mu-bu-kammavaca,bo-mu-vi,Bhikkhu Kammavācā,,,,
 #Misc Vinaya,,,,,,
 lzh-sarv-vi-misc,lzh-sarv-vi,Miscellaneous,,,,1
-skt-lo-vi-misc,skt-lo-vi,Miscellaneous,,,,1
 ,,,,,,
 # Abhidhamma Divisions,,,,,,
 ds,pi-tv-ab,Dhammasaṅgaṇī,,,,
