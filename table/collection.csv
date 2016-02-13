@@ -3,6 +3,8 @@ pi-su,pi,,su,Pāli Suttas,P S
 lzh-su,lzh,,su,Chinese Sūtras,C S
 skt-su,skt,,su,Sanskrit Texts,Skt S
 bo-su,bo,,su,Tibetan Texts,Tib
+pr-su,pr,,su,Prākrit Sutras, Pr S
+gr-su,gr,,su,Gāndhārī Sutras, Gr S
 oth-su,oth,,su,Other Texts,Other
 pi-tv-vi,pi,tv,vi,Pāli Theravāda Vinaya,P ? V
 lzh-mg-vi,lzh,mg,vi,Chinese Mahāsaṅghika Vinaya,C ? V
@@ -17,8 +19,8 @@ skt-sarv-vi,skt,sarv,vi,Sanskrit Sarvāstivāda Vinaya,Skt ? V
 skt-mu-vi,skt,mu,vi,Sanskrit Mūlasarvāstivāda Vinaya,Skt ? V
 skt-oth-vi,skt,other,vi,Other Sanskrit Vinaya,
 bo-mu-vi,bo,mu,vi,Tibetan Mūlasarvāstivāda Vinaya,Tib ? V
-gr-dg-vi,oth,dg,vi,Gandhari Dharmaguptaka Vinaya, Gr Dg Vi
-oth-vi,oth,oth-gr,vi,Vinaya Fragments, Gr ? V
+gr-vi,gr,,vi,Vinaya Fragments, Gr ? V
+gr-dg-vi,gr,dg,vi,Gandhari Dharmaguptaka Vinaya, Gr Dg Vi
 pi-tv-ab,pi,tv,ab,Pāli Theravāda Abhidhamma,P ? A
 lzh-sarv-ab,lzh,sarv,ab,Chinese Sarvāstivāda Abhidharma,C ? A
 lzh-dg-ab,lzh,dg,ab,Chinese Dharmaguptaka Abhidharma,C ? A

@@ -43,7 +43,6 @@ pv,Pv,Petavatthu
 sa,SA,Saṃyuktāgama (1st)
 sa-2,SA-2,Saṃyuktāgama (2nd)
 sa-3,SA-3,Saṃyuktāgama (3rd)
-sbv,Sbv,Saṅgha­bheda­vastu
 sf,SF,Other Fragments
 sht,SHT,SHT fragments
 sn,SN,Saṃyutta Nikāya
@@ -52,8 +51,8 @@ svbh,Svbh,
 t,T,Taishō
 tha-ap,Tha Ap,Therāpadāna
 thag,Thag,Theragāthā
-thi-ap,Thī Ap,Therīapadāna
-thig,Thīg,Therīgāthā
+thi-ap,Thi Ap,Therīapadāna
+thig,Thig,Therīgāthā
 tib,Tib,
 ud,Ud,Udāna
 uf,Uigh,Uighur fragments
@@ -67,6 +66,7 @@ zh,Zh,Chinese
 lzh,Lzh,Chinese
 skt,Skt,Sanskrit
 gr,Gr,Gāndhārī
+pr,Pr,Prākrit
 ug,Ug,Uighur
 bo,Bo,Tibetan
 my,My,Burmese
