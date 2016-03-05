@@ -9,11 +9,15 @@ cp,Cp,Cariyāpiṭaka
 da,DA,Dīrghāgama
 dhp,Dhp,Dhammapada
 gdhp,Gdhp,Gāndhārī Dharmapada
+pdhp,Pdhp,Prākrit Dharmapada
 divy,Divy,Divyāvadāna
+dk,Dk,Dharmaskandha
 dn,DN,Dīgha Nikāya
 dq,D,Derge/Peking editions
 dt,Dt,Dhātukathā
+dr,Dr,Dayyaraṭṭhassa Saṅgītitepiṭakaṁ
 ds,Ds,Dhammasaṅgaṇī
+dhs,Ds,Dhammasaṅgaṇī
 ea,EA,Ekottarikāgama (1st)
 ea-2,EA2 [T 150A],Ekottarikāgama (2nd)
 gf,Gandh,Gāndhārī fragments
@@ -37,7 +41,7 @@ oa,T,Other Āgama Sūtras
 pe,Pe,Peṭakopadesa
 pp,Pp,Puggalapaññatti
 ps,Ps,Paṭisambhidāmagga
-patthana,Patthana,Paṭṭhāna
+pt,Patthana,Paṭṭhāna
 pf,Prak,Prākrit fragments
 pv,Pv,Petavatthu
 sa,SA,Saṃyuktāgama (1st)
@@ -103,6 +107,8 @@ bf,Bf,Bajaur
 qizil,Qizil,Qizil
 tf,Tf,Turfan
 finot,Finot,Finot
+ba,BA,Bhikkhu Adhyāya
+dh,DH,Dun Huang
 ,,
 # Vinaya Rule Classes,,
 pj,Pj,Pārājika
@@ -113,6 +119,7 @@ pc,Pc,Pācittiyā
 pd,Pd,Pāṭidesanīyā
 sk,Sk,Sekhiyā
 as,As,Adhikaraṇasamathā
+du,Du,Dukkaṭa
 ,,
 # Misc,,
 asc,Asc,Abhisamācārika
@@ -124,22 +131,39 @@ gd,Gd,Garudhamma
 cases,cases,cases
 vagga,Vagga,Vagga
 kd,Kd,Khandhaka
+acip,ACIP,Asian Classics Input Project
+cbeta,CBETA,Chinese Buddhist Electronic Text Association
+ddb,DDB,Digital Dictionary of Buddhism
+dy,Dy,Dhātukāya
 ,,,
 #Editions
 c-a,C-A,"Chaṭṭhasaṅgīti Piṭakaṃ Atthakathā"
 c1,C1,"Chaṭṭhasaṅgīti Piṭakaṃ 2496–2499 (1952–1955)"
+cha1,C1,"Chaṭṭhasaṅgīti Piṭakaṃ 2496–2499 (1952–1955)"
 c2,C2,"Chaṭṭhasaṅgīti Piṭakaṃ 2nd ed. 2500–2506 (1956–1962)"
 c3,C3,"Chaṭṭhasaṅgīti Piṭakaṃ (1997)"
+cha2,C2,"Chaṭṭhasaṅgīti Piṭakaṃ 2nd ed. 2500–2506 (1956–1962)"
+cha3,C3,"Chaṭṭhasaṅgīti Piṭakaṃ (1997)"
 mr,Mr,"Maramma Tipiṭaka 2541 (1997)"
+ka-ma,Mr,"Maramma Tipiṭaka 2541 (1997)"
 si,Si,"Sinhala Tipiṭaka 2501 (1957)"
+ka-sī,Si,"Sinhala Tipiṭaka 2501 (1957)"
 km,Km,"Phratraipiṭakapāḷi 2501–2512 (1958–1969)"
+kaṁ,Km,"Phratraipiṭakapāḷi 2501–2512 (1958–1969)"
 maku, Maku,"Mahāmakurājāvidyālai 2466 (1923)"
 pts-a,PTS-A,"Pali Text Society Atthakathā"
 pts1,PTS 1,"Pali Text Society 1st ed. 2424–2535 (1881–1992)"
+pā1,PTS 1,"Pali Text Society 1st ed. 2424–2535 (1881–1992)"
 pts2,PTS 2,"Pali Text Society 2nd ed. 2517–2541 (1974–1998)"
+pā2,PTS 2,"Pali Text Society 2nd ed. 2517–2541 (1974–1998)"
 s-a,S-A,"Syāmaraṭṭhassa Tepiṭakaṃ Atthakathā"
 s1,S 1,"Chulachomklao Pāḷi Tipiṭaka 2436 (1893)"
 s2,S 2,"Syāmaraṭṭhassa Tepiṭakaṃ 2469–2471 (1926–1928)"
 s3,S 3,"Syāmaraṭṭhassa Tepiṭakaṃ 2538 (1995)"
+syā1,S 1,"Chulachomklao Pāḷi Tipiṭaka 2436 (1893)"
+syā2,S 2,"Syāmaraṭṭhassa Tepiṭakaṃ 2469–2471 (1926–1928)"
+syā3,S 3,"Syāmaraṭṭhassa Tepiṭakaṃ 2538 (1995)"
 bj,Bj,"Buddhajayantītripiṭakagranthamālā 2501–2531 (1957–1989)"
+sī,Bj,"Buddhajayantītripiṭakagranthamālā 2501–2531 (1957–1989)"
+sī1-3,Bj,"Buddhajayantītripiṭakagranthamālā 2501–2531 (1957–1989)"
 bj-a, Bj A,"Buddhajayantītripiṭakagranthamālā Atthakathā)"
