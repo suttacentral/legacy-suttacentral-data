@@ -7,6 +7,7 @@ bv,Bv,Buddhavaṃsa
 cnd,Cnd,Cūḷaniddesa
 cp,Cp,Cariyāpiṭaka
 da,DA,Dīrghāgama
+kag,KA,Khuddakāgama
 dhp,Dhp,Dhammapada
 gdhp,Gdhp,Gāndhārī Dharmapada
 pdhp,Pdhp,Prākrit Dharmapada
@@ -14,6 +15,7 @@ divy,Divy,Divyāvadāna
 dk,Dk,Dharmaskandha
 dn,DN,Dīgha Nikāya
 dq,D,Derge/Peking editions
+q,Q,"Qianlong (Peking edition of Tibetan canon)"
 dt,Dt,Dhātukathā
 dr,Dr,Dayyaraṭṭhassa Saṅgītitepiṭakaṁ
 ds,Ds,Dhammasaṅgaṇī
@@ -23,47 +25,69 @@ ea-2,EA2 [T 150A],Ekottarikāgama (2nd)
 gf,Gandh,Gāndhārī fragments
 iti,Iti,Itivuttaka
 ja,Ja,Jātaka
+jp,Jp,Jnānaprasthāna
 kf,Khot,Khotanese fragments
 kn,KN,Khuddaka Nikāya
 kp,Kp,Khuddakapāṭha
 kv,Kv,Kathāvatthu
+kdv,Kdv,Khuddakavatthu
 lal,Lal,Lalitavistara
 ma,MA,Madhyamāgama
+mc,Mc,Mahācūḷātepiṭakaṁ
+mpt,Mpt,Mahāvyutpatti
+mh,Mh,Mahāsūtras
 mil,Mil,Milindapañha
 mn,MN,Majjhima Nikāya
 mnd,Mnd,Mahāniddesa
-mv,Mv,
+ms,Ms,Mahasaṅgīti Tipiṭaka
+mv,Mv,Mahāvastu
 mvu,Mvu,Mahāvastu
-ne,Ne,Netti
+nd,Nd,Niddesa
+ne,Ne,Nettipakaraṇa
 t1670a,T 1670 A,Nāgasena Bhikṣu Sūtra (1st)
 t1670b,T 1670 B,Nāgasena Bhikṣu Sūtra (2nd)
-oa,T,Other Āgama Sūtras
+oa,Oa,Other Āgama Sūtras
 pe,Pe,Peṭakopadesa
+pk,Pk,Prakaraṇapada
 pp,Pp,Puggalapaññatti
 ps,Ps,Paṭisambhidāmagga
 pt,Patthana,Paṭṭhāna
 pf,Prak,Prākrit fragments
+pu,Pu,Puggalavāda
+praj,Praj,Prajnaptiśāstra
+prv,Prv,Parivāra
 pv,Pv,Petavatthu
 sa,SA,Saṃyuktāgama (1st)
 sa-2,SA-2,Saṃyuktāgama (2nd)
 sa-3,SA-3,Saṃyuktāgama (3rd)
+sab,Sab,Śāriputrābhidharma
+sb,Sb,Saṅghabhedavastu
 sf,SF,Other Fragments
+sg,Sg,Saṅgītiparyāya
 sht,SHT,SHT fragments
 sn,SN,Saṃyutta Nikāya
-snp,Snp,Sutta Nipāta
+snp,Snp,"Sutta Nipāta"
+spp,Spp,Śāriputraparipṛcchā
 svbh,Svbh,
 t,T,Taishō
+other-t,Other-T,"Other Taishō"
 tha-ap,Tha Ap,Therāpadāna
 thag,Thag,Theragāthā
 thi-ap,Thi Ap,Therīapadāna
 thig,Thig,Therīgāthā
-tib,Tib,
+tib,Tib,Tibetan
 ud,Ud,Udāna
 uf,Uigh,Uighur fragments
 up,Up,Upāyikā
+upp,Upp,Upaliparipṛcchā
 uv,UV,Udānavarga
+ve,VE,"Vinaya Ekottara"
+vk,Vk,Vijnānakāya
+vns,Vns,Vinayanidānasūtra
+vs,VS,"(Vinaya) Saṃyutta"
 vv,Vv,Vimānavatthu
 ya,Ya,Yamaka
+
 # Languages,,
 pi,Pi,Pāli
 zh,Zh,Chinese
@@ -81,6 +105,7 @@ fr,Fr,French
 ko,Ko,Korean
 ru,Ru,Russian
 vn,Vn,Vietnamese
+kh,Kh,Khotanese
 ,,
 # Pitaka,,
 ab,Ab,Abhidhamma
@@ -101,6 +126,7 @@ lo,Lo,Lokuttaravāda
 dg,Dg,Dharmaguptaka
 ka,Ka,Kāśyapīya
 upali,Upali,Upāliparipṛcchā
+hv,Hv,Haimavata
 ,,
 # Names,,
 bf,Bf,Bajaur
@@ -109,6 +135,7 @@ tf,Tf,Turfan
 finot,Finot,Finot
 ba,BA,Bhikkhu Adhyāya
 dh,DH,Dun Huang
+sc,SC,"Sutta Central"
 ,,
 # Vinaya Rule Classes,,
 pj,Pj,Pārājika
@@ -120,6 +147,7 @@ pd,Pd,Pāṭidesanīyā
 sk,Sk,Sekhiyā
 as,As,Adhikaraṇasamathā
 du,Du,Dukkaṭa
+tl,Tl,Thullaccaya
 ,,
 # Misc,,
 asc,Asc,Abhisamācārika
@@ -135,8 +163,19 @@ acip,ACIP,Asian Classics Input Project
 cbeta,CBETA,Chinese Buddhist Electronic Text Association
 ddb,DDB,Digital Dictionary of Buddhism
 dy,Dy,Dhātukāya
+f,F,Fragment
+g,G,Gilgit
+gbm,GBM,"Gilgit Buddhist Manuscripts"
+gretil,GRETIL,"Göttingen Register of Electronic Texts in Indian Languages"
+hf,Hf,"Hybrid Sanskrit fragment"
+hskt,Hskt,"Hybrid Sanskrit"
+ks,KS,"Kindred Sayings"
+ll,ll,Parallels
+p,P,Page
+vol,Vol,Volume
 ,,,
 #Editions
+ed,ed,"edited, editor, edition"
 c-a,C-A,"Chaṭṭhasaṅgīti Piṭakaṃ Atthakathā"
 c1,C1,"Chaṭṭhasaṅgīti Piṭakaṃ 2496–2499 (1952–1955)"
 cha1,C1,"Chaṭṭhasaṅgīti Piṭakaṃ 2496–2499 (1952–1955)"
@@ -163,7 +202,9 @@ s3,S 3,"Syāmaraṭṭhassa Tepiṭakaṃ 2538 (1995)"
 syā1,S 1,"Chulachomklao Pāḷi Tipiṭaka 2436 (1893)"
 syā2,S 2,"Syāmaraṭṭhassa Tepiṭakaṃ 2469–2471 (1926–1928)"
 syā3,S 3,"Syāmaraṭṭhassa Tepiṭakaṃ 2538 (1995)"
+syā1-3,S 1-3,"Chulachomklao Pāḷi Tipiṭaka 2436 (1893),Syāmaraṭṭhassa Tepiṭakaṃ 2469–2471 (1926–1928) & 2538 (1995)"
 bj,Bj,"Buddhajayantītripiṭakagranthamālā 2501–2531 (1957–1989)"
 sī,Bj,"Buddhajayantītripiṭakagranthamālā 2501–2531 (1957–1989)"
-sī1-3,Bj,"Buddhajayantītripiṭakagranthamālā 2501–2531 (1957–1989)"
 bj-a, Bj A,"Buddhajayantītripiṭakagranthamālā Atthakathā)"
+tc,Tc,"Tibetan Critical Editions"
+wp,WP,"Wisdom Publications"
