@@ -1,6 +1,5 @@
-X means "not a parallel"
-= means "full parallel"
-* or '1' means "partial parallel" of the pali texts
+* means "partial parallel" of the pali texts
+'1' in de set means the two items in the set are marked as partials
 Notes are provided in complex cases.
 
 ['an3.37-38', 'ma202', '', '']
@@ -44,23 +43,6 @@ an3.70, an8.42 and an8.43 are partial parallels with each other.
 ['an3.36', 't741', '1', '']
 ['mn130', 'an3.36', '', '']
 
-['sa-2.200', 'sf78', '1', '']
-['sa-2.200','sa996','','']
-['sn1.9','sa996','','']
-['sa996','sf78','1','']
-
-['an10.96', 'sa-2.201', '', '']
-['sa-2.201', 'sf79', '1', '']
-
-['an10.93', 'sa-2.202', '', '']
-['sa-2.202', 'sf80', '1', '']
-
-['mn74', 'sa-2.203', '', '']
-['sa-2.203', 'sf81', '1', '']
-
-['an3.64', 'sa-2.204', '', '']
-['sa-2.204', 'sf82', '1', '']
-
 ['sa-2.347', 'sa954', '', '']
 ['sa-2.348', 'sa954', '', '']
 ['sn15.9', 'sa954', '', '']
@@ -72,32 +54,10 @@ an3.70, an8.42 and an8.43 are partial parallels with each other.
 ['sa-2.86', 'sa1163', '', '']
 ['sa-2.87', 'sa1163', '', '']
 
-['an3.51-52', 'sa1163', '', '']
-['sa-2.86', 'sa1163', '', '']
-['sa-2.87', 'sa1163', '', '']
-
 ['sa-2.178', 'sa1269', '', '']
 ['sa1269', 'sa-2.315', '1', '']
 ['sa1269', 'sa1316', '1', '']
 ['sn2.15', 'sa1269', '1', '']
-
-['an10.83', 'sa966', '', '']
-['sa966', 'sf78', '1', '']
-
-['an10.96', 'sa967', '', '']
-['sa967', 'sf79', '1', '']
-
-['an10.93', 'sa968', '', '']
-['sa968', 'sf80', '1', '']
-
-['mn74', 'sa969', '', '']
-['sa969', 'sf81', '1', '']
-
-['an3.64', 'sa970', '', '']
-['sa970', 'sf82', '1', '']
-
-['sa-2.205', 'sa971', '', '']
-['sa971', 'sf83', '1', '']
 
 ['sn1.34', 'sa-2.284', '', '']*
 ['sn1.36', 'sa-2.284', '', '']
@@ -110,6 +70,9 @@ an3.70, an8.42 and an8.43 are partial parallels with each other.
 
 ['dn20', 'sa1192', '', '']*
 ['sn1.37', 'sa1192', '', '']
+
+['sa-2.200', 'sa996', '', '']
+['sn1.9', 'sa996', '', '']
 
 ['sn12.29-30', 'sa354', '', '']*
 ['sn12.71-81', 'sa354', '', '']
@@ -142,11 +105,6 @@ It would be very helpful to have a notation of which parts of the texts are para
 ['mn143', 'sa593', '1', '']
 ['sn1.48', 'sa593', '', '']
 ['sn2.20', 'sa593', '', '']
-
-['an2.42', 'sa-2.363', '', '']
-['sn2.25', 'sa-2.363', '', '']
-['sn9.13', 'sa-2.363', '', '']
-sn2.25=sn9.13. an2.42 is not a parallel.
 
 ['an2.42', 'sa1343', '', '']
 ['sn2.25', 'sa1343', '', '']
@@ -198,10 +156,6 @@ sn2.25=sn9.13. an2.42 is not a parallel.
 ['sn36.23', 'sa476', '', '']
 sn36.11 and sn36.17-18 are partials. sn36.23 is not a parallel.
 
-['sn36.11', 'sa476', '', '']
-['sn36.17-18', 'sa476', '', '']
-['sn36.23', 'sa476', '', '']
-
 ['sn1.12', 'sa-2.142', '', '']*
 ['sn4.8', 'sa-2.142', '', '']
 
@@ -240,3 +194,28 @@ sn48.8 is a partial parallel with an5.15. an5.14 is not a parallel
 
 ['sn56.20', 'sa417', '', '']*
 ['sn56.27', 'sa417', '', '']
+
+Vinaya texts. Note that not all items in the whole list are listed, because this is very long. Only the first item of the list and the items that are the same in two or more lists.
+["pi-tv-bu-vb-pc73","lzh-sarv-bi-vb-pc47","lzh-sarv-bi-pm#pc47"]
+["pi-tv-bu-vb-pc77","lzh-sarv-bi-vb-pc47","lzh-sarv-bi-pm#pc47"]
+
+["pi-tv-bi-vb-pd3","bo-mu-bi-vb-pd7","bo-mu-bi-pm#pd7"]
+["pi-tv-bi-vb-pd4","bo-mu-bi-vb-pd7","bo-mu-bi-pm#pd7"]
+
+["pi-tv-bu-vb-sk15","lzh-dg-bi-vb-sk14","lzh-dg-bi-pm#sk14"]
+["pi-tv-bu-vb-sk19","lzh-dg-bi-vb-sk14","lzh-dg-bi-pm#sk14"]
+
+["pi-tv-bu-vb-sk16","lzh-dg-bi-vb-sk15","lzh-dg-bi-pm#sk15"]
+["pi-tv-bu-vb-sk20","lzh-dg-bi-vb-sk15","lzh-dg-bi-pm#sk15"]
+
+["lzh-sarv-bu-vb-sk100","lzh-dg-bu-vb-sk52","lzh-dg-bu-pm#sk52","lzh-dg-bu-pm-2#sk52","lzh-dg-bi-vb-sk52"]
+["lzh-sarv-bu-vb-sk99","lzh-dg-bu-vb-sk52","lzh-dg-bu-pm#sk52","lzh-dg-bu-pm-2#sk52","lzh-dg-bi-vb-sk52"]
+
+["lzh-sarv-bu-pm#sk108","lzh-dg-bi-vb-sk97","lzh-dg-bi-pm#sk97"]
+["lzh-sarv-bu-pm#sk109","lzh-dg-bi-vb-sk97","lzh-dg-bi-pm#sk97"]
+
+["lzh-sarv-bu-pm#sk108","lzh-sarv-bi-vb-sk101","lzh-sarv-bi-pm#sk101"]
+["lzh-sarv-bu-pm#sk107","lzh-sarv-bi-vb-sk101","lzh-sarv-bi-pm#sk101"]
+
+["lzh-sarv-bu-vb-sk75","lzh-mi-bi-vb-sk70","lzh-mi-bi-pm#sk70"]
+["lzh-sarv-bu-vb-sk72","lzh-mi-bi-vb-sk70","lzh-mi-bi-pm#sk70"]
